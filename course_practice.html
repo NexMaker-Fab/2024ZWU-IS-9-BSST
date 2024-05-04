@@ -1,90 +1,129 @@
-<!DOCTYPE html>  
-<html lang="en">  
-<head>  
-    
-    <meta charset="UTF-8">  
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
-    <title>课程项目实践</title>  
-    <style>  
-        /* 简单的样式 */  
-        .content-section {  
-            margin-bottom: 20px;  
-            padding: 20px;  
-            border: 1px solid #ddd;  
-            border-radius: 5px;  
-        }  
-        .content-section img {  
-            max-width: 100%;  
-            height: auto;  
-            margin-bottom: 10px;  
-        }  
-    </style>  
-</head>  
-<body>  
-    <header>  
-        <!-- 导航栏代码 -->  
-    </header>  
-  
-    <main>  
-        <h1>课程项目实践</h1>  
-        <h2>如何构建网页</h2>
-  
-        <!-- 1. 团队组建 -->  
-        <div class="content-section">  
-            <h3>1. 团队组建</h3>  
-            <img src="path_to_your_image1.jpg" alt="团队组建示例">  
-            <p>在项目开始之前，我们首先进行了团队组建，明确了每个成员的角色和职责。</p>  
-        </div>  
-  
-        <!-- 2. 队员邀请入库 -->  
-        <div class="content-section">  
-            <h3>2. 队员邀请入库</h3>  
-            <img src="图片/87597ebebbc09ba1e4bad06ac5059c5.png" alt="队员邀请入库步骤1">  
-            <img src="图片/80e1417911de6636e4ae96bb627ac75.png" alt="队员邀请入库步骤2">  
-            <img src="图片/3ae6929004455ca834f9455413f6040.png" alt="队员邀请入库步骤3">  
-            <p>为了协作开发，我们将所有队员邀请进了项目的代码仓库。</p>  
-            <p>注意事项：不同的成员身份有着不同的管理权限，Admin(管理员)有邀请成员、管理身份以及仓库删除等权限，</p>  
-            <p>注意事项：Maintain(队员)有编辑程序以及克隆本地和上传云端的权限。</p>
-        </div>  
-  
-        <!-- 3. 仓库创建 -->  
-        <div class="content-section">  
-            <h3>3. 仓库创建</h3>  
-            <img src="path_to_your_image3.jpg" alt="仓库创建示例">  
-            <p>在代码托管平台上创建了一个新的仓库来存放项目的代码。</p>  
-        </div>  
-  
-        <!-- 4. PicGo图床配置与图片上传 -->  
-        <div class="content-section">  
-            <h3>4. PicGo图床配置与图片上传</h3>  
-            <img src="path_to_your_image4.jpg" alt="PicGo图床配置与图片上传示例">  
-            <p>使用PicGo工具配置了图床服务，并成功上传了项目所需的图片。</p>  
-        </div>  
-  
-        <!-- 5. 密钥设置 -->  
-        <div class="content-section">  
-            <h3>5. 密钥设置</h3>  
-            <img src="path_to_your_image5.jpg" alt="密钥设置示例">  
-            <p>为了确保仓库的安全性，我们设置了相应的访问密钥。</p>  
-        </div>  
-  
-        <!-- 6. 云端文件克隆 -->  
-        <div class="content-section">  
-            <h3>6. 云端文件克隆</h3>  
-            <img src="path_to_your_image6.jpg" alt="云端文件克隆示例">  
-            <p>使用版本控制系统从云端仓库克隆了项目的文件到本地开发环境。</p>  
-        </div>  
-  
-        <!-- 7. 本地文件上传云端 -->  
-        <div class="content-section">  
-            <h3>7. 本地文件上传云端</h3>  
-            <img src="path_to_your_image7.jpg" alt="本地文件上传云端示例">  
-            <p>在本地完成代码编写和测试后，我们将修改后的文件提交并推送到云端仓库。</p>  
-        </div>  
-    </main>  
-  
-    <footer>  
-        <!-- 页脚内容 -->  
-    </footer>  
-</body>  
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>课程实践 - BSST团队网站</title>
+<style>
+    body, html {
+        height: 100%;
+        margin: 0;
+        font-family: 'Arial', sans-serif;
+        background: linear-gradient(to bottom, #ff7597, #4a00e0);
+        color: #333;
+        text-align: center;
+    }
+
+    .navbar {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #000;
+        z-index: 1000;
+    }
+
+    .navbar a {
+        display: block;
+        color: #fff;
+        text-align: center;
+        padding: 14px 30px;
+        text-decoration: none;
+        transition: background 0.3s, color 0.3s;
+    }
+
+    .navbar a:hover {
+        background-color: #555;
+    }
+
+    .content {
+        padding-top: 60px; /* Make space for the fixed navbar */
+    }
+
+    .section {
+        background-color: rgba(255, 255, 255, 0.9);
+        margin: 20px auto;
+        padding: 20px;
+        border-radius: 10px;
+        max-width: 800px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        margin-bottom: 40px; /* Space between sections */
+    }
+
+    .section img {
+        width: 100%;
+        max-width: 400px;
+        border-radius: 10px;
+        margin-top: 20px;
+    }
+
+    .section h3 {
+        margin-top: 20px;
+        color: #000;
+    }
+
+    .section p {
+        color: #000;
+        text-align: left;
+        line-height: 1.6;
+        margin: 10px 0;
+    }
+</style>
+</head>
+<body>
+
+<div class="navbar">
+  <a href="index.html">首页</a>
+  <a href="team.html">团队成员</a>
+  <a href="coursePractice.html">课程实践</a>
+  <a href="finalProject.html">期末项目</a>
+</div>
+
+<div class="content">
+    <div class="section">
+        <h3>团队创建</h3>
+        <img src="path-to-team-creation-image.jpg" alt="团队创建图片">
+        <p>这里是关于团队创建的描述。</p>
+    </div>
+
+    <div class="section">
+        <h3>队员邀请入库</h3>
+        <img src="img/3ae6929004455ca834f9455413f6040.png" alt="队员邀请入库图片">
+        <p>这里是关于队员邀请入库的描述。</p>
+    </div>
+
+    <div class="section">
+        <h3>仓库创建</h3>
+        <img src="path-to-repo-creation-image.jpg" alt="仓库创建图片">
+        <p>这里是关于仓库创建的描述。</p>
+    </div>
+
+    <div class="section">
+        <h3>PicGo图床配置与图片上传</h3>
+        <img src="path-to-picgo-setup-image.jpg" alt="PicGo图床配置与图片上传">
+        <p>这里是关于PicGo图床配置与图片上传的描述。</p>
+    </div>
+
+    <div class="section">
+        <h3>密钥设置</h3>
+        <img src="path-to-secret-key-setup-image.jpg" alt="密钥设置图片">
+        <p>这里是关于密钥设置的描述。</p>
+    </div>
+
+    <div class="section">
+        <h3>云端文件克隆</h3>
+        <img src="path-to-cloud-clone-image.jpg" alt="云端文件克隆图片">
+        <p>这里是关于云端文件克隆的描述。</p>
+    </div>
+
+    <div class="section">
+        <h3>本地文件上传</h3>
+        <img src="path-to-local-upload-image.jpg" alt="本地文件上传图片">
+        <p>这里是关于本地文件上传的描述。</p>
+    </div>
+</div>
+
+</body>
 </html>

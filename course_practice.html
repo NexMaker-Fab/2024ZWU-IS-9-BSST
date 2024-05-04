@@ -5,31 +5,31 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>课程实践 - BSST团队网站</title>
 <style>
-    body, html {
-        height: 100%;
+    body {
         margin: 0;
         font-family: 'Arial', sans-serif;
-        background: linear-gradient(to bottom, #ff7597, #4a00e0);
-        color: #333;
-        text-align: center;
+        background: linear-gradient(to right, #ff7597, #4a00e0);
+        color: #fff;
     }
 
     .navbar {
-        position: fixed;
-        top: 0;
-        width: 100%;
         display: flex;
         justify-content: center;
         align-items: center;
         background-color: #000;
+        overflow: hidden;
+        position: fixed;
+        top: 0;
+        width: 100%;
         z-index: 1000;
+        padding: 14px 0; /* Increased padding for larger spacing */
     }
 
     .navbar a {
         display: block;
         color: #fff;
         text-align: center;
-        padding: 14px 30px;
+        padding: 14px 16px;
         text-decoration: none;
         transition: background 0.3s, color 0.3s;
     }
@@ -38,37 +38,50 @@
         background-color: #555;
     }
 
+    .main-title {
+        text-align: center;
+        font-size: 3em;
+        font-weight: bold;
+        padding: 20px 0; /* Increased padding for larger spacing */
+        margin-top: 80px; /* Increased margin-top to push content down */
+    }
+
     .content {
-        padding-top: 60px; /* Make space for the fixed navbar */
+        padding: 20px;
+        padding-top: 80px; /* Reduced padding-top to decrease spacing */
     }
 
     .section {
-        background-color: rgba(255, 255, 255, 0.9);
-        margin: 20px auto;
+        background-color: rgba(68, 68, 68, 0.9);
+        margin: 10px auto; /* Reduced margin for tighter layout */
         padding: 20px;
-        border-radius: 10px;
-        max-width: 800px;
+        border-radius: 8px;
+        width: 95%; /* Increased width */
+        max-width: 1200px;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        margin-bottom: 40px; /* Space between sections */
-    }
-
-    .section img {
-        width: 100%;
-        max-width: 400px;
-        border-radius: 10px;
-        margin-top: 20px;
     }
 
     .section h3 {
-        margin-top: 20px;
-        color: #000;
+        color: #fff;
     }
 
     .section p {
-        color: #000;
-        text-align: left;
-        line-height: 1.6;
-        margin: 10px 0;
+        color: #ddd;
+    }
+
+    .image-row {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+    .image-row img {
+        width: auto;
+        max-width: 45%; /* Adjust max-width as needed */
+        height: auto;
+        margin: 5px 10px; /* Adjusted margin to decrease space between images */
+        border-radius: 8px;
     }
 </style>
 </head>
@@ -76,53 +89,32 @@
 
 <div class="navbar">
   <a href="index.html">首页</a>
-  <a href="team.html">团队成员</a>
-  <a href="coursePractice.html">课程实践</a>
+  <a href="member1.html">团队成员1</a>
+  <a href="member2.html">团队成员2</a>
+  <a href="member3.html">团队成员3</a>
+  <a href="member4.html">团队成员4</a>
+  <a href="member5.html">团队成员5</a>
+  <a href="member6.html">团队成员6</a>
   <a href="finalProject.html">期末项目</a>
 </div>
 
+<div class="main-title">课程实践</div>
+
 <div class="content">
+    <!-- Section 1 -->
     <div class="section">
-        <h3>团队创建</h3>
-        <img src="path-to-team-creation-image.jpg" alt="团队创建图片">
-        <p>这里是关于团队创建的描述。</p>
+        <h3>  团队创建</h3>
+        <div class="image-row">
+            <img src="img/87597ebebbc09ba1e4bad06ac5059c5.png" alt="Image 1">
+            <img src="img/80e1417911de6636e4ae96bb627ac75.png" alt="Image 2">
+        </div>
+        <div class="image-row">
+            <img src="img/3ae6929004455ca834f9455413f6040.png" alt="Image 3">
+            <img src="path-to-your-image4.jpg" alt="Image 4">
+        </div>
+        <p>xxxxx。</p>
     </div>
-
-    <div class="section">
-        <h3>队员邀请入库</h3>
-        <img src="img/3ae6929004455ca834f9455413f6040.png" alt="队员邀请入库图片">
-        <p>这里是关于队员邀请入库的描述。</p>
-    </div>
-
-    <div class="section">
-        <h3>仓库创建</h3>
-        <img src="path-to-repo-creation-image.jpg" alt="仓库创建图片">
-        <p>这里是关于仓库创建的描述。</p>
-    </div>
-
-    <div class="section">
-        <h3>PicGo图床配置与图片上传</h3>
-        <img src="path-to-picgo-setup-image.jpg" alt="PicGo图床配置与图片上传">
-        <p>这里是关于PicGo图床配置与图片上传的描述。</p>
-    </div>
-
-    <div class="section">
-        <h3>密钥设置</h3>
-        <img src="path-to-secret-key-setup-image.jpg" alt="密钥设置图片">
-        <p>这里是关于密钥设置的描述。</p>
-    </div>
-
-    <div class="section">
-        <h3>云端文件克隆</h3>
-        <img src="path-to-cloud-clone-image.jpg" alt="云端文件克隆图片">
-        <p>这里是关于云端文件克隆的描述。</p>
-    </div>
-
-    <div class="section">
-        <h3>本地文件上传</h3>
-        <img src="path-to-local-upload-image.jpg" alt="本地文件上传图片">
-        <p>这里是关于本地文件上传的描述。</p>
-    </div>
+    <!-- Repeat similar structure for other sections -->
 </div>
 
 </body>

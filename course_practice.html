@@ -14,7 +14,7 @@
 
     .navbar {
         display: flex;
-        justify-content: center;
+        justify-content: space-around; /* Changed to space-around for even spacing */
         align-items: center;
         background-color: #000;
         overflow: hidden;
@@ -22,14 +22,13 @@
         top: 0;
         width: 100%;
         z-index: 1000;
-        padding: 14px 0; /* Increased padding for larger spacing */
+        padding: 14px 0;
     }
 
     .navbar a {
-        display: block;
         color: #fff;
         text-align: center;
-        padding: 14px 16px;
+        padding: 14px 20px; /* Increased padding to add space between menu items */
         text-decoration: none;
         transition: background 0.3s, color 0.3s;
     }
@@ -42,23 +41,27 @@
         text-align: center;
         font-size: 3em;
         font-weight: bold;
-        padding: 20px 0; /* Increased padding for larger spacing */
-        margin-top: 80px; /* Increased margin-top to push content down */
+        padding: 20px 0;
+        margin-top: 80px;
     }
 
     .content {
         padding: 20px;
-        padding-top: 80px; /* Reduced padding-top to decrease spacing */
+        padding-top: 80px;
     }
 
     .section {
         background-color: rgba(68, 68, 68, 0.9);
-        margin: 10px auto; /* Reduced margin for tighter layout */
+        margin: 10px auto;
         padding: 20px;
         border-radius: 8px;
-        width: 95%; /* Increased width */
+        width: 95%;
         max-width: 1200px;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .section-title {
+        margin-left: 20px; /* Align title with images */
     }
 
     .section h3 {
@@ -78,9 +81,9 @@
 
     .image-row img {
         width: auto;
-        max-width: 45%; /* Adjust max-width as needed */
+        max-width: 45%;
         height: auto;
-        margin: 5px 10px; /* Adjusted margin to decrease space between images */
+        margin: 5px 10px;
         border-radius: 8px;
     }
 </style>
@@ -103,7 +106,9 @@
 <div class="content">
     <!-- Section 1 -->
     <div class="section">
-        <h3>  团队创建</h3>
+        <div class="section-title">
+            <h3>团队创建</h3>
+        </div>
         <div class="image-row">
             <img src="img/87597ebebbc09ba1e4bad06ac5059c5.png" alt="Image 1">
             <img src="img/80e1417911de6636e4ae96bb627ac75.png" alt="Image 2">

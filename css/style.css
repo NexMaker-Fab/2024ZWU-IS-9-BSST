@@ -26,7 +26,7 @@ article, aside, figure, footer, header, hgroup, nav, section {
 
 body { 
   font: normal .80em arial, sans-serif;
-  background: #fff;                    //背景颜色//
+  background: #B5C5DC;                    //背景颜色//
   color: #333;
 }
 
@@ -53,9 +53,10 @@ h1, h2, h3 {
 }
 
 h2 { 
+  font-weight: bold;
   font-size: 160%;
   padding: 9px 0 5px 0;
-  color: #F67400;
+  color: #000000;
 }
 
 h3 { 
@@ -167,7 +168,7 @@ header {
 
 #logo_text h1, #logo_text h1 a, #logo_text h1 a:hover { 
   padding: 0;
-  color: #0ebf1d;  //大标题颜色
+  color: #3B5298;  //大标题颜色
   text-decoration: none;
   font-weight: bold;
 }
@@ -181,6 +182,7 @@ header {
 }
 
 #logo_text h2 { 
+  font-family: 'Arial', sans-serif;
   font-size: 250%;
   padding: 0 0 0 0;
   color: #000000;  //小标题颜色
@@ -197,9 +199,9 @@ nav {
   background: -moz-linear-gradient(#666, #444);
   background: -o-linear-gradient(#666, #444);
   background: -webkit-linear-gradient(#666, #444);
-  -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 2px;
+  -webkit-box-shadow: rgba(223, 127, 127, 0.2) 0px 2px 2px;
   -moz-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 2px;
-  box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 2px;
+  box-shadow: rgba(205, 70, 70, 0.2) 0px 2px 2px;
   border: 1px solid #000;
   border-radius: 7px 7px 7px 7px;
   -moz-border-radius: 7px 7px 7px 7px;
@@ -227,11 +229,10 @@ nav {
 }
   
 .sidebar h3, .content h1 { 
-  padding: 0 15px 20px 0;
+  padding: 0 15px 15px 0;
   font: 240% 'News Cycle', arial, sans-serif;
-  text-shadow:  #000 1px 1px;
   margin: 0 1px;
-  color: #FFF;
+  color: #000000;             //welcome 字体
 }
 
 .sidebar h3 { 
@@ -351,7 +352,7 @@ footer a:hover {
   background: -moz-linear-gradient(#fff, #ddd);
   background: -o-linear-gradient(#fff, #ddd);
   background: -webkit-linear-gradient(#fff, #ddd);
-  -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 2px;
+  -webkit-box-shadow: rgba(108, 230, 52, 0.2) 0px 2px 2px;
   -moz-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 2px;
   box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 2px;
   border: 1px solid #ddd;

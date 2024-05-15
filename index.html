@@ -1,89 +1,77 @@
-<!DOCTYPE html>
-<html lang="zh">
+<!DOCTYPE HTML>
+<html>
+
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>BSST团队网站</title>
-<style>
-    body {
-        margin: 0;
-        font-family: 'Arial', sans-serif;
-        background-color: #333;
-        color: #fff;
-    }
-
-    .navbar {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        background-color: #000;
-        overflow: hidden;
-    }
-
-    .navbar a {
-        display: block;
-        color: #fff;
-        text-align: center;
-        padding: 14px 30px;
-        text-decoration: none;
-        transition: background 0.3s, color 0.3s;
-    }
-
-    .navbar a:hover {
-        background-color: #555;
-    }
-
-    .hero-image {
-        width: 100%;
-        height: 90vh;
-        background: url('img/首页背景.jpg') no-repeat center center;
-        background-size: cover;
-        position: relative;
-    }
-
-    .hero-text {
-        text-align: center;
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -10%); /* Start slightly above the center */
-        color: white;
-        opacity: 0;
-        animation: appleStyleFadeIn 1.5s ease-out forwards;
-    }
-
-    @keyframes appleStyleFadeIn {
-        0% {
-            transform: translate(-50%, -10%);
-            opacity: 0;
-        }
-        100% {
-            transform: translate(-50%, -50%);
-            opacity: 1;
-        }
-    }
-</style>
+  <title>BSST Team</title>
+  <meta name="description" content="website description" />
+  <meta name="keywords" content="website keywords, website keywords" />
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+  <!-- modernizr enables HTML5 elements and feature detects -->
+  <script type="text/javascript" src="js/modernizr-1.5.min.js"></script>
 </head>
+
 <body>
+  <div id="main">
+    <header>
+      <div id="logo">
+        <div id="logo_text">
+          <!-- class="logo_colour", allows you to change the colour of the text -->
+          <h1>GOALS SUSTAINABLE DEVELOPMENT</h1>
+          <h2>——Climate Change</h2>
+        </div>
+      </div>
+      <nav>
+        <ul class="sf-menu" id="nav">
+          <li><a href="index.html">Index</a></li>
+          <li><a href="team_introduction.html">Team Introduction</a></li>
+          <li class="selected"><a href="page.html"></a></li>
+          <li><a href="#">Team Member </a>
+            <ul>
+              <li><a href="#">Lan</a></li>
+              <li><a href="https://1123luojing.github.io/Jane/">Jane</a></li>
+              <li><a href="#">Mandy</a></li>
+              <li><a href="https://jennifer2022015548.github.io/ZWU-2024-Jennifer/">Jennifer</a></li>
+              <li><a href="#">Chris</a></li>
+              <li><a href="#">Member ZJX</a></li>
+            </ul>
+          </li>
 
-<div class="navbar">
-  <a href="teamIntro.html">团队介绍</a>
-  <a href="member1.html">团队成员1</a>
-  <a href="member2.html">团队成员2</a>
-  <a href="member3.html">团队成员3</a>
-  <a href="member4.html">团队成员4</a>
-  <a href="member5.html">团队成员5</a>
-  <a href="member6.html">团队成员6</a>
-  <a href="course_practice.html">课程实践</a>
-  <a href="finalProject.html">期末项目</a>
-</div>
-
-<div class="hero-image">
-  <div class="hero-text">
-    <h1>欢迎来到BSST团队</h1>
-    <p>创新 · 合作 · 实践</p>
+          <li><a href="#">Course Practice </a>
+            <ul>
+              <li><a href="wesbite layout.html">Website Layout</a></li>
+              <li><a href="arduino.html">Arduino</a></li>
+              <li><a href="#">3</a></li>
+              <li><a href="#">4</a></li>
+              <li><a href="#">5</a></li>
+              <li><a href="#">6</a></li>
+            </ul>
+          </li>
+          <li><a href="examples.html">Final</a></li>
+        </ul>
+      </nav>
+    </header>
+    <div id="site_content">
+      <div id="sidebar_container">
+      </div>
+      <div class="content">
+        <h1>Welcome to the BSST Team</h1>
+        <p>我们组拥有良好的个人风格以及文化传统，我们根据组内情况，由于组长为我们的殷殷教导和关怀，我们非常尊敬组长，因此我们组取名为blue sky save team（蓝天拯救队），简写成为BSST</p>
+        
+        
+      </div>
+    </div>
   </div>
-</div>
-
+  <p>&nbsp;</p>
+  <!-- javascript at the bottom for fast page loading -->
+  <script type="text/javascript" src="js/jquery.js"></script>
+  <script type="text/javascript" src="js/jquery.easing-sooper.js"></script>
+  <script type="text/javascript" src="js/jquery.sooperfish.js"></script>
+  <script type="text/javascript" src="js/image_fade.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('ul.sf-menu').sooperfish();
+    });
+  </script>
 </body>
 </html>

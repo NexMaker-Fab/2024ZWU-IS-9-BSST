@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./vars.css">
+  <link rel="stylesheet" href="./style.css">
+  
+  
+  <style>
+   a,
+   button,
+   input,
+   select, h1,
+   h2,
+   h3,
+   h4,
+   h5,
+   * {
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+   border: none;
+   text-decoration: none;
+   appearance: none;
+   background: none;
+   
+   -webkit-font-smoothing: antialiased;
+   }
+   </style>
+  <title>Document</title>
+</head>
+<body>
+  <div class="arduino-1">
+    <div class="info-section">
+      <div class="bread-crumbs">
+        <div class="page-name">COURSE PRCTICE</div>
+        <img class="arrow" src="arrow0.svg" />
+        <div class="page-name2">ARDUINO</div>
+      </div>
+      <div class="title-image-info-text-description">
+        <div class="titile">1.Arduino flow light</div>
+        <div class="titile2">Tinkercad Attempt</div>
+        <div class="image">
+          <img class="image2" src="image1.png" />
+        </div>
+        <div class="image">
+          <img class="image2" src="image3.png" />
+        </div>
+        <div class="image">
+          <img class="image2" src="image5.png" />
+        </div>
+        <div class="description">
+          We started using Tinkercad to try and learn about flowing lights.
+          Understand the operating rules of Nano boards.
+        </div>
+      </div>
+    </div>
+    <div class="info-section2">
+      <div class="title-image-info-text-description">
+        <div class="titile">3.Flowing light display</div>
+        <div class="image">
+          <div class="image3"></div>
+        </div>
+      </div>
+    </div>
+    <div class="info-section3">
+      <div class="title-image-info-text-description">
+        <div class="titile">2.Arduino makes flowing lights</div>
+        <div class="image">
+          <img class="image2" src="image9.png" />
+        </div>
+        <div class="image">
+          <img class="image2" src="image11.png" />
+        </div>
+        <div class="titile3">Code Explanation</div>
+        <div class="description2">
+          Hardware configuration and initialization: PixelCount and PixelPin:
+          define the number of LEDs on the light strip and the pins they are
+          connected to. Ensure that these values match your hardware settings.
+          <br />
+          NeoPixelBus and NeoPixelAnimator: These two libraries provide the
+          necessary functions to control NeoPixel light strips, including color
+          settings, animation, and more.
+          <br />
+          NeoGamma&lt;NeoGammaTableMethod&gt;colorGamma;: used for color gamma
+          correction to ensure more accurate color display.
+          <br />
+          Animation parameter: AnimCount: Calculate the number of animations based
+          on the number of LEDs and the number of LEDs covered by each animation.
+          Assuming that each animation affects approximately one-fifth of the LED
+          on the light strip.
+          <br />
+          PixelFadeDuration: defines the length of time a color fades in and out.
+          <br />
+          NextPixelMoveDuration: defines the speed of LED movement in an
+          animation, which is the time required to move from one LED to the next.
+          <br />
+          Animation State Management: MyAnimationState Structure: defines the
+          state of each animation, including the start color, end color, and
+          affected LED index.
+          <br />
+          NeoPixelAnimator animations (AnimCount);: Create a NeoPixel animation
+          management object to control multiple animations.
+          <br />
+          AnimationState [AnimCount];: An array that stores all animation states.
+          <br />
+          Animation logic preparation: frontPixel and frontColor: These two
+          variables will be used to track the index and color of the LED flowing
+          to the front in the animation. Although the complete animation logic is
+          not displayed in the code snippet, these two variables are key to
+          achieving a flowing light effect.
+          <br />
+          Random Seed Setting (although this part may not be directly related to
+          animation logic): SetRandomSeed() function: used to set the seed for the
+          random number generator. This is very useful for animations that require
+          randomness, such as random color changes. The method of simulating the
+          reading of unconnected pins is used here, combined with bit operations
+          to generate a 31 bit random seed.
+        </div>
+      </div>
+    </div>
+    <div class="footer">
+      <div class="divider"></div>
+      <div class="copywriting-privacy">
+        <div class="frame-38">
+          <div class="div">©</div>
+          <div class="description3">BSST Team</div>
+          <div class="description4">|</div>
+          <div class="description3">ZWU</div>
+        </div>
+        <div class="privacy">
+          <div class="description4">Terms of Use</div>
+          <div class="description4">|</div>
+          <div class="description3">Public</div>
+        </div>
+      </div>
+    </div>
+    <div class="info-section4">
+      <div class="title-image-info-text-description">
+        <div class="titile4">4.some open source projects</div>
+        <div class="image">
+          <img class="image2" src="image13.png" />
+        </div>
+        <div class="image">
+          <img class="image2" src="image15.png" />
+        </div>
+        <div class="image">
+          <img class="image2" src="image17.png" />
+        </div>
+        <div class="image">
+          <img class="image2" src="image19.png" />
+        </div>
+        <div class="description5">
+          <span>
+            <span class="description-5-span">
+              The name of the project is to build a tall Weathercloud weather
+              station in Ardiuno
+              <br />
+              <br />
+              Advantages: Using the Ardiuno nano board, which is the same as the
+              board used in the previous hardware class, it is better for us to
+              learn to use and operate.
+              <br />
+              <br />
+              Disadvantages: At present, the hardware knowledge is relatively
+              small, and a lot of learning and practice are still needed. At the
+              same time, the project was just a meteorological device, and we
+              needed to integrate it with our thematic climate action, and as art
+              and technology students, we needed a more aesthetically pleasing and
+              thought-provoking design solution.
+            </span>
+            <span class="description-5-span2">。</span>
+          </span>
+        </div>
+      </div>
+    </div>
+    <div class="header">
+      <div class="logo">
+        <div class="bsst">BSST</div>
+      </div>
+      <div class="menu">
+        <div class="number-menu-item">
+          <div class="number">1</div>
+          <div class="menu-item">About</div>
+        </div>
+        <div class="number-menu-item">
+          <div class="number">2</div>
+          <div class="menu-item">Team Introduction</div>
+        </div>
+        <div class="number-menu-item">
+          <div class="number">3</div>
+          <div class="menu-item">Team Member</div>
+        </div>
+        <div class="number-menu-item2">
+          <div class="number">4</div>
+          <div class="menu-item">Course Practice</div>
+        </div>
+        <div class="number-menu-item">
+          <div class="number">5</div>
+          <div class="menu-item">Final</div>
+        </div>
+      </div>
+      <div class="divider2"></div>
+    </div>
+  </div>
+  
+</body>
+</html>

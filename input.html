@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="input2.css">
+  <link rel="stylesheet" href="input1.css">
+  
+  
+  <style>
+   a,
+   button,
+   input,
+   select,
+   h1,
+   h2,
+   h3,
+   h4,
+   h5,
+   * {
+       box-sizing: border-box;
+       margin: 0;
+       padding: 0;
+       border: none;
+       text-decoration: none;
+       appearance: none;
+       background: none;
+   
+       -webkit-font-smoothing: antialiased;
+   }
+   
+   menu, ol, ul {
+       list-style-type: none;
+       margin: 0;
+       padding: 0;
+   }
+   </style>
+  <title>Arduino Input & Output</title>
+</head>
+<body>
+  <div class="input-output">
+    <div class="logo">
+      <img class="rectangle-1" src="rectangle-10.svg" />
+      <div class="bbst">BBST</div>
+    </div>
+    <div class="line-2"></div>
+    <div class="about">
+      <a href="index.html">About</a></div>
+
+    <div class="team-interoduction">
+      <a href="team introduction.html">Team Interoduction</a></div>
+
+    <div class="team-member">
+      <a href="team index.html">Team Member</a></div>
+
+    <div class="course">
+      <a href="course index.html">Course</a></div>
+    <div class="final">Final</div>
+    <div class="course-input-output">Course → Input &amp; Output</div>
+    <div class="_1-class-practice-switch-controls-the-twin-lights">
+      <span>
+        <span class="_1-class-practice-switch-controls-the-twin-lights-span">
+          1.Class Practice
+        </span>
+        <span class="_1-class-practice-switch-controls-the-twin-lights-span2">
+          (Switch controls the twin lights)
+        </span>
+      </span>
+    </div>
+    <img class="_20240530111536-2" src="LED1.jpg" />
+    <img class="_20240530111536-3" src="LED2.png" />
+    <div class="arduino-code">Arduino Code</div>
+    <div class="group-8">
+      <img class="rectangle-2" src="rectangle-20.svg" />
+      <div
+        class="const-int-led-1-12-const-int-led-2-13-int-val-0-void-setup-pin-mode-led-1-output-pin-mode-led-2-output-pin-mode-7-input-void-loop-val-digital-read-7-if-val-high-digital-write-led-1-high-digital-write-led-2-low-else-digital-write-led-2-high-digital-write-led-1-low-delay-1000"
+      >
+        const int LED1=12;
+        <br />
+        const int LED2=13;
+        <br />
+        int val=0;
+        <br />
+        void setup()
+        <br />
+        &lcub;
+        <br />
+        pinMode(LED1, OUTPUT);
+        <br />
+        pinMode(LED2, OUTPUT);
+        <br />
+        pinMode(7, INPUT);
+        <br />
+        &rcub;
+        <br />
+        void loop()&lcub;
+        <br />
+        val=digitalRead(7);
+        <br />
+        if(val==HIGH)
+        <br />
+        &lcub;
+        <br />
+        digitalWrite(LED1,HIGH);
+        <br />
+        digitalWrite(LED2,LOW);
+        <br />
+        &rcub;
+        <br />
+        else
+        <br />
+        &lcub;
+        <br />
+        digitalWrite(LED2,HIGH);
+        <br />
+        digitalWrite(LED1,LOW);
+        <br />
+        &rcub;
+        <br />
+        delay(1000);
+        <br />
+        &rcub;
+        <br />
+      </div>
+    </div>
+    <div
+      class="components-nano-board-led-lights-expansion-board-du-pont-line-implementation-effect-through-switch-control-achieve-interactive-changes-in-lighting"
+    >
+      Components:：Nano board；LED lights；Expansion board；DuPont Line
+      <br />
+      Implementation effect：Through switch control, achieve interactive changes
+      in lighting.
+      <br />
+    </div>
+    <div class="group-25">
+      <div class="_2-class-practice-ultrasonic-distance-light-interaction">
+        <span>
+          <span
+            class="_2-class-practice-ultrasonic-distance-light-interaction-span"
+          >
+            2.Class Practice
+          </span>
+          <span
+            class="_2-class-practice-ultrasonic-distance-light-interaction-span2"
+          >
+            (Ultrasonic distance light interaction)
+          </span>
+        </span>
+      </div>
+      <img class="_20240530111536-22" src="_20240530111536-21.png" />
+      <img class="_20240530111536-32" src="_20240530111536-31.png" />
+      <div class="arduino-code2">Arduino Code</div>
+      <div class="group-82">
+        <img class="rectangle-22" src="rectangle-21.svg" />
+        <div
+          class="the-merged-code-controls-the-led-according-to-the-ultrasonic-detection-distance-define-the-pin-of-led-const-int-led-1-12-const-int-led-2-13-define-ultrasonic-sensor-pins-define-trig-pin-a-0-define-echo-pin-a-1-initialise-variables-int-val-0-variables-used-for-buttons-but-not-used-in-this-example-long-duration-int-threshold-distance-500-set-the-threshold-distance-500-mm-void-setup-set-the-led-pin-as-the-output-pin-mode-led-1-output-pin-mode-led-2-output-set-the-pin-of-the-ultrasonic-sensor-pin-mode-trig-pin-output-pin-mode-echo-pin-input-initialise-the-ultrasonic-sensor-pin-digital-write-trig-pin-low-delay-1-it-is-assumed-that-the-button-is-not-used-here-so-annotate-the-code-related-to-the-button-pin-mode-7-input-if-you-want-to-use-the-button-please-cancel-the-comment-void-loop-read-the-ultrasonic-distance-long-distance-get-distance-control-the-led-according-to-the-distance-if-distance-threshold-distance-digital-write-led-1-high-led-1-lights-up-when-the-distance-is-less-than-or-equal-to-the-threshold-digital-write-led-2-low-led-2-turns-off-else-digital-write-led-1-low-when-the-distance-is-greater-than-the-threshold-led-1-turns-off-digital-write-led-2-high-led-2-lights-up-send-the-distance-value-through-serial-communication-optional-serial-print-distance-serial-println-distance-delay-to-avoid-reading-and-sending-data-too-quickly-delay-1000-get-the-function-of-ultrasonic-distance-long-get-distance-send-an-ultrasonic-pulse-digital-write-trig-pin-low-delay-microseconds-2-digital-write-trig-pin-high-delay-microseconds-10-digital-write-trig-pin-low-read-the-echo-time-duration-pulse-in-echo-pin-high-unit-microseconds-calculate-the-distance-and-return-unit-millimetres-note-it-is-assumed-that-the-speed-of-sound-at-a-temperature-of-20-c-may-need-to-be-adjusted-in-actual-use-return-duration-0-0343-2-the-speed-of-ultrasound-in-20-c-air-is-about-343-m-s-that-is-0-0343-mm-us"
+        >
+          // The merged code controls the LED according to the ultrasonic
+          detection distance.
+          <br />
+          // Define the pin of LED
+          <br />
+          Const int LED1 = 12;
+          <br />
+          Const int LED2 = 13;
+          <br />
+          // Define ultrasonic sensor pins
+          <br />
+          #Define TrigPin A0
+          <br />
+          #Define EchoPin A1
+          <br />
+          // Initialise variables
+          <br />
+          Int val = 0; // Variables used for buttons, but not used in this example
+          <br />
+          Long duration;
+          <br />
+          Int thresholdDistance = 500; // Set the threshold distance, 500 mm
+          <br />
+          Void setup() &lcub;
+          <br />
+          // Set the LED pin as the output
+          <br />
+          pinMode(LED1, OUTPUT);
+          <br />
+          pinMode(LED2, OUTPUT);
+          <br />
+          // Set the pin of the ultrasonic sensor
+          <br />
+          pinMode(TrigPin, OUTPUT);
+          <br />
+          pinMode (EchoPin, INPUT);
+          <br />
+          // Initialise the ultrasonic sensor pin
+          <br />
+          digitalWrite(TrigPin, LOW);
+          <br />
+          Delay(1);
+          <br />
+          // It is assumed that the button is not used here, so annotate the code
+          related to the button.
+          <br />
+          // pinMode(7, INPUT); // If you want to use the button, please cancel
+          the comment
+          <br />
+          &rcub;
+          <br />
+          <br />
+          Void loop() &lcub;
+          <br />
+          // Read the ultrasonic distance
+          <br />
+          Long distance = getDistance();
+          <br />
+          // Control the LED according to the distance
+          <br />
+          If (distance &lt;= thresholdDistance) &lcub;
+          <br />
+          digitalWrite(LED1, HIGH); // LED1 lights up when the distance is less
+          than or equal to the threshold
+          <br />
+          digitalWrite(LED2, LOW); // LED2 turns off
+          <br />
+          &rcub; else &lcub;
+          <br />
+          digitalWrite(LED1, LOW); // When the distance is greater than the
+          threshold, LED1 turns off
+          <br />
+          digitalWrite(LED2, HIGH); // LED2 lights up
+          <br />
+          &rcub;
+          <br />
+          <br />
+          // Send the distance value through serial communication (optional)
+          <br />
+          Serial.print(&quot;Distance: &quot;);
+          <br />
+          Serial.println(distance);
+          <br />
+          // Delay to avoid reading and sending data too quickly
+          <br />
+          Delay(1000);
+          <br />
+          &rcub;
+          <br />
+          // Get the function of ultrasonic distance
+          <br />
+          Long get Distance() &lcub;
+          <br />
+          // Send an ultrasonic pulse
+          <br />
+          digitalWrite(TrigPin, LOW);
+          <br />
+          delayMicroseconds(2);
+          <br />
+          digitalWrite(TrigPin, HIGH);
+          <br />
+          DelayMicroseconds(10);
+          <br />
+          digitalWrite(TrigPin, LOW);
+          <br />
+          // Read the echo time
+          <br />
+          Duration = pulseIn(EchoPin, HIGH); // Unit: microseconds
+          <br />
+          // Calculate the distance and return (unit: millimetres)
+          <br />
+          // Note: It is assumed that the speed of sound at a temperature of 20°C
+          may need to be adjusted in actual use.
+          <br />
+          Return duration * 0.0343 / 2; // The speed of ultrasound in 20°C air is
+          about 343m/s, that is 0.0343mm/us
+          <br />
+          <br />
+          &rcub;
+        </div>
+      </div>
+      <div
+        class="components-nano-board-led-lights-expansion-board-du-pont-line-ultrasonic-sensor-implementation-effect-by-changing-the-distance-through-ultrasonic-information-the-light-can-be-fully-lit-with-one-led-lit-and-all-lights-turned-off"
+      >
+        <span>
+          <span
+            class="components-nano-board-led-lights-expansion-board-du-pont-line-ultrasonic-sensor-implementation-effect-by-changing-the-distance-through-ultrasonic-information-the-light-can-be-fully-lit-with-one-led-lit-and-all-lights-turned-off-span"
+          >
+            Components:：
+          </span>
+          <span
+            class="components-nano-board-led-lights-expansion-board-du-pont-line-ultrasonic-sensor-implementation-effect-by-changing-the-distance-through-ultrasonic-information-the-light-can-be-fully-lit-with-one-led-lit-and-all-lights-turned-off-span2"
+          >
+            Nano board；LED lights；Expansion board；DuPont Line；ultrasonic
+            sensor
+            <br />
+          </span>
+          <span
+            class="components-nano-board-led-lights-expansion-board-du-pont-line-ultrasonic-sensor-implementation-effect-by-changing-the-distance-through-ultrasonic-information-the-light-can-be-fully-lit-with-one-led-lit-and-all-lights-turned-off-span3"
+          >
+            Implementation effect：
+          </span>
+          <span
+            class="components-nano-board-led-lights-expansion-board-du-pont-line-ultrasonic-sensor-implementation-effect-by-changing-the-distance-through-ultrasonic-information-the-light-can-be-fully-lit-with-one-led-lit-and-all-lights-turned-off-span4"
+          >
+            By changing the distance through ultrasonic information, the light can
+            be fully lit, with one LED lit and all lights turned off.
+          </span>
+        </span>
+      </div>
+    </div>
+    <div class="_3-new-interactive-device-noise-display-screen">
+      <span>
+        <span class="_3-new-interactive-device-noise-display-screen-span">
+          3.New interactive device
+        </span>
+        <span class="_3-new-interactive-device-noise-display-screen-span2">
+          (
+        </span>
+        <span class="_3-new-interactive-device-noise-display-screen-span3">
+          Noise display screen
+        </span>
+        <span class="_3-new-interactive-device-noise-display-screen-span4">
+          )
+        </span>
+      </span>
+    </div>
+    <img class="_20240530111536-23" src="_20240530111536-22.png" />
+    <div class="arduino-code3">Arduino Code</div>
+    <div class="group-83">
+      <img class="rectangle-23" src="rectangle-22.svg" />
+      <div
+        class="include-spi-h-load-the-spi-library-include-wire-h-load-the-wire-library-include-adafruit-gfx-h-load-the-adafruit-gfx-library-include-adafruit-ssd-1306-h-load-the-adafruit-ssd-1306-library-define-the-resolution-of-oled-screens-adafruit-ssd-1306-display-adafruit-ssd-1306-128-64-wire-void-setup-serial-begin-9600-set-the-serial-port-baud-rate-serial-println-oled-feather-wing-test-serial-output-display-begin-ssd-1306-switchcapvcc-0-x-3-c-set-the-i-2-c-address-of-oled-display-clear-display-clear-screen-display-set-text-size-1-set-font-size-display-set-text-color-ssd-1306-white-set-font-color-display-set-cursor-0-0-set-the-coordinates-to-start-displaying-text-display-println-noise-output-characters-display-display-make-the-changed-display-effective-void-loop"
+      >
+        #Include&lt;SPI. h&gt;//Load the SPI library
+        <br />
+        #Include&lt;Wire. h&gt;//Load the Wire library
+        <br />
+        #Include&lt;Adafruit_GFX. h&gt;//Load the Adafruit_GFX library
+        <br />
+        #Include&lt;Adafruit-SSD1306. h&gt;//Load the Adafruit-SSD1306 library
+        <br />
+        //Define the resolution of OLED screens
+        <br />
+        Adafruit-SSD1306 display=Adafruit-SSD1306 (128, 64,&amp;Wire);
+        <br />
+        Void setup()&lcub;
+        <br />
+        Serial. begin (9600)// Set the serial port baud rate
+        <br />
+        Serial. println (&quot;OLED FeatherWing test&quot;)// Serial output
+        <br />
+        Display. begin (SSD1306_SWITCHCAPVCC, 0x3C)// Set the I2C address of OLED
+        <br />
+        Display. clearDisplay()// Clear screen
+        <br />
+        Display. setTextSize (1)// Set font size
+        <br />
+        Display. setTextColor (SSD1306_WHITE)// Set font color
+        <br />
+        Display. setCursor (0,0)// Set the coordinates to start displaying text
+        <br />
+        Display. println (&quot;noise&quot;)// Output Characters
+        <br />
+        Display. display()// Make the changed display effective
+        <br />
+        &rcub;
+        <br />
+        Void loop()&lcub;
+        <br />
+        &rcub;
+      </div>
+    </div>
+    <div
+      class="components-nano-board-expansion-board-du-pont-line-led-display-screen-sound-sensor-implementation-effect-display-the-data-from-the-sound-sensor-on-the-led-screen"
+    >
+      <span>
+        <span
+          class="components-nano-board-expansion-board-du-pont-line-led-display-screen-sound-sensor-implementation-effect-display-the-data-from-the-sound-sensor-on-the-led-screen-span"
+        >
+          Components:：
+        </span>
+        <span
+          class="components-nano-board-expansion-board-du-pont-line-led-display-screen-sound-sensor-implementation-effect-display-the-data-from-the-sound-sensor-on-the-led-screen-span2"
+        >
+          Nano board；Expansion board；DuPont Line；LED display screen；Sound
+          sensor
+          <br />
+        </span>
+        <span
+          class="components-nano-board-expansion-board-du-pont-line-led-display-screen-sound-sensor-implementation-effect-display-the-data-from-the-sound-sensor-on-the-led-screen-span3"
+        >
+          Implementation effect：
+        </span>
+        <span
+          class="components-nano-board-expansion-board-du-pont-line-led-display-screen-sound-sensor-implementation-effect-display-the-data-from-the-sound-sensor-on-the-led-screen-span4"
+        >
+          Display the data from the sound sensor on the LED screen.
+        </span>
+      </span>
+    </div>
+    <div
+      class="implementation-effect-input-noise-decibel-data-through-arduino-and-sound-sensor-and-then-pass-the-data-into-processing-through-the-serial-port-the-louder-the-noise-the-more-red-the-screen-colour-the-smaller-the-noise-the-greener-the-screen-colour"
+    >
+      <span>
+        <span
+          class="implementation-effect-input-noise-decibel-data-through-arduino-and-sound-sensor-and-then-pass-the-data-into-processing-through-the-serial-port-the-louder-the-noise-the-more-red-the-screen-colour-the-smaller-the-noise-the-greener-the-screen-colour-span"
+        >
+          Implementation effect
+        </span>
+        <span
+          class="implementation-effect-input-noise-decibel-data-through-arduino-and-sound-sensor-and-then-pass-the-data-into-processing-through-the-serial-port-the-louder-the-noise-the-more-red-the-screen-colour-the-smaller-the-noise-the-greener-the-screen-colour-span2"
+        >
+          ：Input noise decibel data through Arduino and sound sensor, and then
+          pass the data into processing through the
+        </span>
+        <span
+          class="implementation-effect-input-noise-decibel-data-through-arduino-and-sound-sensor-and-then-pass-the-data-into-processing-through-the-serial-port-the-louder-the-noise-the-more-red-the-screen-colour-the-smaller-the-noise-the-greener-the-screen-colour-span3"
+        >
+          serial port
+        </span>
+        <span
+          class="implementation-effect-input-noise-decibel-data-through-arduino-and-sound-sensor-and-then-pass-the-data-into-processing-through-the-serial-port-the-louder-the-noise-the-more-red-the-screen-colour-the-smaller-the-noise-the-greener-the-screen-colour-span4"
+        >
+          . The louder the noise, the more red the screen colour. The smaller the
+          noise, the greener the screen colour.
+        </span>
+      </span>
+    </div>
+    <div class="_4-classroom-practice-processing-diagonal-movement">
+      <span>
+        <span class="_4-classroom-practice-processing-diagonal-movement-span">
+          4.Classroom practice
+        </span>
+        <span class="_4-classroom-practice-processing-diagonal-movement-span2">
+          (
+        </span>
+        <span class="_4-classroom-practice-processing-diagonal-movement-span3">
+          processing Diagonal movement
+        </span>
+        <span class="_4-classroom-practice-processing-diagonal-movement-span4">
+          )
+        </span>
+      </span>
+    </div>
+    <div class="_5-processing-arduino-noise-control-color-change">
+      <span>
+        <span class="_5-processing-arduino-noise-control-color-change-span">
+          5.Processing &amp; Arduino
+        </span>
+        <span class="_5-processing-arduino-noise-control-color-change-span2">
+          (
+        </span>
+        <span class="_5-processing-arduino-noise-control-color-change-span3">
+          Noise control color change
+        </span>
+        <span class="_5-processing-arduino-noise-control-color-change-span4">
+          )
+        </span>
+      </span>
+    </div>
+    <img class="_20240530111536-4" src="_20240530111536-40.png" />
+    <img class="_20240530111536-5" src="_20240530111536-50.png" />
+    <div class="arduino-code4">Arduino Code</div>
+    <div class="group-26">
+      <img class="rectangle-24" src="rectangle-23.svg" />
+      <div
+        class="int-y-360-float-x-640-initialise-x-to-screen-width-void-setup-size-640-360-set-the-canvas-size-to-640-x-360-stroke-255-set-the-line-colour-to-white-void-draw-background-0-clear-the-background-and-set-it-to-black-line-0-y-width-y-draw-a-horizontal-line-from-the-left-edge-to-the-right-edge-y-y-1-move-down-the-position-of-the-horizontal-line-if-y-0-if-y-is-less-than-0-that-is-it-has-been-moved-out-of-the-screen-y-height-reset-y-to-the-bottom-of-the-screen-x-width-reset-x-to-the-right-side-of-the-screen-at-the-same-time-if-y-0-only-draw-vertical-lines-when-y-is-still-on-the-screen-line-x-0-x-height-draw-a-vertical-line-from-the-top-to-the-bottom-x-y-width-height-move-the-position-of-the-vertical-line-to-the-left-if-x-0-if-x-is-less-than-0-i-e-has-been-removed-from-the-screen-x-width-reset-x-to-the-right-side-of-the-screen"
+      >
+        Int y = 360;
+        <br />
+        Float x = 640; // Initialise x to screen width
+        <br />
+        <br />
+        Void setup() &lcub;
+        <br />
+        Size(640, 360); // Set the canvas size to 640x360
+        <br />
+        Stroke(255); // Set the line colour to white
+        <br />
+        &rcub;
+        <br />
+        <br />
+        Void draw() &lcub;
+        <br />
+        Background(0); // Clear the background and set it to black
+        <br />
+        Line(0, y, width, y); // Draw a horizontal line from the left edge to the
+        right edge
+        <br />
+        Y = y - 1; // Move down the position of the horizontal line
+        <br />
+        If (y &lt; 0) &lcub; // if y is less than 0 (that is, it has been moved
+        out of the screen)
+        <br />
+        Y = height; // reset y to the bottom of the screen
+        <br />
+        X = width; // reset x to the right side of the screen at the same time
+        <br />
+        &rcub;
+        <br />
+        If (y &gt;= 0) &lcub; // Only draw vertical lines when y is still on the
+        screen
+        <br />
+        Line(x, 0, x, height); // Draw a vertical line from the top to the bottom
+        <br />
+        X = y * width/ height; // Move the position of the vertical line to the
+        left
+        <br />
+        If (x &lt; 0) &lcub; // if x is less than 0 (i.e. has been removed from
+        the screen)
+        <br />
+        X = width; // reset x to the right side of the screen
+        <br />
+        &rcub;
+        <br />
+        &rcub;
+        <br />
+        &rcub;
+      </div>
+    </div>
+    <div class="arduino-code5">Arduino Code</div>
+    <div class="group-27">
+      <img class="rectangle-25" src="rectangle-24.svg" />
+      <div
+        class="void-setup-serial-begin-9600-initialise-serial-communication-with-a-baud-rate-of-9600-void-loop-int-noise-value-analogue-read-a-0-read-the-value-of-the-noise-detector-assuming-that-it-is-connected-in-a-0-serial-println-noise-value-send-noise-value-to-serial-port-delay-10-delay-a-little-to-prevent-data-from-being-sent-too-fast"
+      >
+        Void setup() &lcub;
+        <br />
+        Serial.begin(9600); // Initialise serial communication with a baud rate of
+        9600
+        <br />
+        &rcub;
+        <br />
+        <br />
+        Void loop() &lcub;
+        <br />
+        Int noiseValue = analogueRead(A0); // Read the value of the noise detector
+        (assuming that it is connected in A0)
+        <br />
+        Serial.println(noiseValue); // Send noise value to serial port
+        <br />
+        Delay(10); // Delay a little to prevent data from being sent too fast
+        <br />
+        &rcub;
+      </div>
+    </div>
+    <div class="processing-code">Processing Code</div>
+    <div class="group-28">
+      <img class="rectangle-26" src="rectangle-25.svg" />
+      <div
+        class="import-processing-serial-serial-my-port-serial-port-object-int-noise-value-0-read-the-noise-value-void-setup-size-800-600-set-the-canvas-size-string-port-name-serial-list-0-get-the-first-useable-serial-port-my-port-new-serial-this-port-name-9600-initialise-the-serial-port-with-a-baud-rate-of-9600-my-port-buffer-until-n-set-the-buffer-until-a-line-break-is-encountered-background-255-initialise-the-canvas-colour-to-white-void-draw-if-my-port-available-0-check-if-there-is-any-available-data-string-in-data-my-port-read-string-until-n-read-the-data-until-the-line-break-is-encountered-noise-value-integer-parse-int-in-data-convert-the-read-string-to-an-integer-calculate-the-colour-according-to-the-noise-value-int-red-map-noise-value-0-1023-255-0-assume-that-the-range-of-the-noise-detector-is-0-1023-mapped-to-red-0-255-int-green-map-1023-noise-value-0-1023-255-0-the-smaller-the-noise-the-deeper-the-green-int-blue-0-keep-blue-at-0-set-the-background-colour-background-red-green-blue"
+      >
+        Import processing.serial. *;
+        <br />
+        Serial myPort; // Serial Port Object
+        <br />
+        Int noiseValue = 0; // Read the noise value
+        <br />
+        <br />
+        Void setup() &lcub;
+        <br />
+        Size(800, 600); // Set the canvas size
+        <br />
+        String portName = Serial.list()[0]; // Get the first useable serial port
+        <br />
+        myPort = new Serial(this, portName, 9600); // Initialise the serial port
+        with a baud rate of 9600
+        <br />
+        myPort.bufferUntil(&#039;\n&#039;); // Set the buffer until a line break
+        is encountered
+        <br />
+        Background(255); // Initialise the canvas colour to white
+        <br />
+        &rcub;
+        <br />
+        <br />
+        Void draw() &lcub;
+        <br />
+        If (myPort.available() &gt; 0) &lcub; // Check if there is any available
+        data
+        <br />
+        String inData = myPort.readStringUntil(&#039;\n&#039;); // Read the data
+        until the line break is encountered
+        <br />
+        noiseValue = Integer.parseInt(inData); // Convert the read string to an
+        integer
+        <br />
+        // Calculate the colour according to the noise value
+        <br />
+        Int red = map(noiseValue, 0, 1023, 255, 0); // Assume that the range of
+        the noise detector is 0-1023, mapped to red 0-255
+        <br />
+        Int green = map(1023 - noiseValue, 0, 1023, 255, 0); // The smaller the
+        noise, the deeper the green
+        <br />
+        Int blue = 0; // keep blue at 0
+        <br />
+        // Set the background colour
+        <br />
+        Background(red, green, blue);
+        <br />
+        &rcub;
+        <br />
+        &rcub;
+      </div>
+    </div>
+    <div
+      class="implementation-effect-it-realises-the-movement-of-the-two-lines-from-the-bottom-right-to-the-top-left-and-the-intersection-of-the-two-lines-has-always-been-diagonally"
+    >
+      <span>
+        <span
+          class="implementation-effect-it-realises-the-movement-of-the-two-lines-from-the-bottom-right-to-the-top-left-and-the-intersection-of-the-two-lines-has-always-been-diagonally-span"
+        >
+          Implementation effect：
+        </span>
+        <span
+          class="implementation-effect-it-realises-the-movement-of-the-two-lines-from-the-bottom-right-to-the-top-left-and-the-intersection-of-the-two-lines-has-always-been-diagonally-span2"
+        >
+          It realises the movement of the two lines from the bottom right to the
+          top left, and the intersection of the two lines has always been
+          diagonally.
+        </span>
+      </span>
+    </div>
+    <div class="line-22"></div>
+    <div class="bsst-team-zwu">BSST Team | ZWU</div>
+    <div class="_2024-6">2024.6</div>
+  </div>
+  
+</body>
+</html>

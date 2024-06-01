@@ -4,8 +4,8 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="./arduino2.css">
-  <link rel="stylesheet" href="./arduino1.css">
+  <link rel="stylesheet" href="Arduino2.css">
+  <link rel="stylesheet" href="Arduino1.css">
   
   
   <style>
@@ -36,185 +36,338 @@
        padding: 0;
    }
    </style>
-  <title>Document</title>
+  <title>Arduino</title>
 </head>
 <body>
-  <div class="arduino-1">
-    <div class="info-section">
-      <div class="bread-crumbs">
-        <div class="page-name">COURSE PRCTICE</div>
-        <img class="arrow" src="arrow0.svg" />
-        <div class="page-name2">ARDUINO</div>
-      </div>
-      <div class="title-image-info-text-description">
-        <div class="titile">1.Arduino flow light</div>
-        <div class="titile2">Tinkercad Attempt</div>
-        <div class="image">
-          <img class="image2" src="image1.png" />
-        </div>
-        <div class="image">
-          <img class="image2" src="image3.png" />
-        </div>
-        <div class="image">
-          <img class="image2" src="image5.png" />
-        </div>
-        <div class="description">
-          We started using Tinkercad to try and learn about flowing lights.
-          Understand the operating rules of Nano boards.
-        </div>
+  <div class="arduino">
+    <div class="course-arduino">Course → Arduino</div>
+    <div class="_1-class-practice-switch-controls-the-twin-lights">
+      <span>
+        <span class="_1-class-practice-switch-controls-the-twin-lights-span">
+          1.Class Practice
+        </span>
+        <span class="_1-class-practice-switch-controls-the-twin-lights-span2">
+          (switch controls the twin lights)
+        </span>
+      </span>
+    </div>
+    <img class="_20240530111536-1" src="流水灯11.png" />
+    <img class="_20240530111536-2" src="流水灯12.png" />
+    <img class="_20240530111536-3" src="流水灯13.png" />
+    <div
+      class="we-started-using-tinkercad-to-try-and-learn-about-flowing-lights-understand-the-operating-rules-of-nano-boards"
+    >
+      We started using Tinkercad to try and learn about flowing lights. Understand
+      the operating rules of Nano boards.
+    </div>
+    <div class="tinkercad-attempt">Tinkercad Attempt</div>
+    <div class="_3-flowing-light-display">3.Flowing light display</div>
+    <div class="_20240530111536-4">
+      <video src="流水灯视频.mp4"></video>
+    </div>
+    <div class="_2-arduino-makes-flowing-lights">
+      2.Arduino makes flowing lights
+    </div>
+    <div class="code">Code</div>
+    <div class="explanation">Explanation</div>
+    <div class="group-8">
+      <img class="rectangle-2" src="rectangle-20.svg" />
+      <div
+        class="include-neo-pixel-bus-h-include-neo-pixel-animator-h-const-uint-16-t-pixel-count-16-make-sure-to-set-this-to-the-number-of-pixels-in-your-strip-const-uint-16-t-pixel-pin-2-make-sure-to-set-this-to-the-correct-pin-ignored-for-esp-8266-const-uint-16-t-anim-count-pixel-count-5-2-1-we-only-need-enough-animations-for-the-tail-and-one-extra-const-uint-16-t-pixel-fade-duration-300-third-of-a-second-one-second-divide-by-the-number-of-pixels-loop-once-a-second-const-uint-16-t-next-pixel-move-duration-1000-pixel-count-how-fast-we-move-through-the-pixels-neo-gamma-neo-gamma-table-method-color-gamma-for-any-fade-animations-best-to-correct-gamma-neo-pixel-bus-neo-grb-feature-neo-ws-2812-x-method-strip-pixel-count-pixel-pin-struct-my-animation-state-rgb-color-starting-color-rgb-color-ending-color-uint-16-t-index-pixel-which-pixel-this-animation-is-effecting-neo-pixel-animator-animations-anim-count-neo-pixel-animation-management-object-my-animation-state-animation-state-anim-count-uint-16-t-front-pixel-0-the-front-of-the-loop-rgb-color-front-color-the-color-at-the-front-of-the-loop-void-set-random-seed-uint-32-t-seed-seed-analog-read-0-delay-1-for-int-shifts-3-shifts-31-shifts-3-seed-analog-read-0-shifts-delay-1-serial-println-seed-random-seed-seed-void-fade-out-anim-update-const-animation-param-param-rgb-color-updated-color-rgb-color-linear-blend-animation-state-param-index-starting-color-animation-state-param-index-ending-color-param-progress-apply-the-color-to-the-strip-strip-set-pixel-color-animation-state-param-index-index-pixel-color-gamma-correct-updated-color-void-loop-anim-update-const-animation-param-param-if-param-state-animation-state-completed-done-time-to-restart-this-position-tracking-animation-timer-animations-restart-animation-param-index-front-pixel-front-pixel-1-pixel-count-increment-and-wrap-if-front-pixel-0-we-looped-lets-pick-a-new-front-color-front-color-hsl-color-random-360-360-0-f-1-0-f-0-25-f-uint-16-t-index-anim-if-animations-next-available-animation-index-anim-1-animation-state-index-anim-starting-color-front-color-animation-state-index-anim-ending-color-rgb-color-0-0-0-animation-state-index-anim-index-pixel-front-pixel-animations-start-animation-index-anim-pixel-fade-duration-fade-out-anim-update-void-setup-strip-begin-strip-show-set-random-seed-we-use-the-index-0-animation-to-time-how-often-we-move-to-the-next-pixel-in-the-strip-animations-start-animation-0-next-pixel-move-duration-loop-anim-update-void-loop-this-is-all-that-is-needed-to-keep-it-running-and-avoiding-using-delay-is-always-a-good-thing-for-any-timing-related-routines-animations-update-animations-strip-show"
+      >
+        #include &lt;NeoPixelBus.h&gt;
+        <br />
+        #include &lt;NeoPixelAnimator.h&gt;
+        <br />
+        const uint16_t PixelCount = 16; // make sure to set this to the number of
+        pixels in your strip
+        <br />
+        const uint16_t PixelPin = 2; // make sure to set this to the correct pin,
+        ignored for Esp8266
+        <br />
+        const uint16_t AnimCount = PixelCount / 5 * 2 + 1; // we only need enough
+        animations for the tail and one extra
+        <br />
+        const uint16_t PixelFadeDuration = 300; // third of a second
+        <br />
+        // one second divide by the number of pixels = loop once a second
+        <br />
+        const uint16_t NextPixelMoveDuration = 1000 / PixelCount; // how fast we
+        move through the pixels
+        <br />
+        NeoGamma&lt;NeoGammaTableMethod&gt; colorGamma; // for any fade
+        animations, best to correct gamma
+        <br />
+        NeoPixelBus&lt;NeoGrbFeature, NeoWs2812xMethod&gt; strip(PixelCount,
+        PixelPin);
+        <br />
+        struct MyAnimationState
+        <br />
+        &lcub;
+        <br />
+        RgbColor StartingColor;
+        <br />
+        RgbColor EndingColor;
+        <br />
+        uint16_t IndexPixel; // which pixel this animation is effecting
+        <br />
+        &rcub;;
+        <br />
+        NeoPixelAnimator animations(AnimCount); // NeoPixel animation management
+        object
+        <br />
+        MyAnimationState animationState[AnimCount];
+        <br />
+        uint16_t frontPixel = 0; // the front of the loop
+        <br />
+        RgbColor frontColor; // the color at the front of the loop
+        <br />
+        void SetRandomSeed()
+        <br />
+        &lcub;
+        <br />
+        uint32_t seed;
+        <br />
+        seed = analogRead(0);
+        <br />
+        delay(1);
+        <br />
+        for (int shifts = 3; shifts &lt; 31; shifts += 3)
+        <br />
+        &lcub;
+        <br />
+        seed ^= analogRead(0) &lt;&lt; shifts;
+        <br />
+        delay(1);
+        <br />
+        &rcub;
+        <br />
+        // Serial.println(seed);
+        <br />
+        randomSeed(seed);
+        <br />
+        &rcub;
+        <br />
+        void FadeOutAnimUpdate(const AnimationParam&amp; param)
+        <br />
+        &lcub;
+        <br />
+        RgbColor updatedColor = RgbColor::LinearBlend(
+        <br />
+        animationState[param.index].StartingColor,
+        <br />
+        animationState[param.index].EndingColor,
+        <br />
+        param.progress);
+        <br />
+        // apply the color to the strip
+        <br />
+        strip.SetPixelColor(animationState[param.index].IndexPixel,
+        <br />
+        colorGamma.Correct(updatedColor));
+        <br />
+        &rcub;
+        <br />
+        void LoopAnimUpdate(const AnimationParam&amp; param)
+        <br />
+        &lcub;
+        <br />
+        if (param.state == AnimationState_Completed)
+        <br />
+        &lcub;
+        <br />
+        // done, time to restart this position tracking animation/timer
+        <br />
+        animations.RestartAnimation(param.index);
+        <br />
+        frontPixel = (frontPixel + 1) % PixelCount; // increment and wrap
+        <br />
+        if (frontPixel == 0)
+        <br />
+        &lcub;
+        <br />
+        // we looped, lets pick a new front color
+        <br />
+        frontColor = HslColor(random(360) / 360.0f, 1.0f, 0.25f);
+        <br />
+        &rcub;
+        <br />
+        <br />
+        uint16_t indexAnim;
+        <br />
+        if (animations.NextAvailableAnimation(&amp;indexAnim, 1))
+        <br />
+        &lcub;
+        <br />
+        animationState[indexAnim].StartingColor = frontColor;
+        <br />
+        animationState[indexAnim].EndingColor = RgbColor(0, 0, 0);
+        <br />
+        animationState[indexAnim].IndexPixel = frontPixel;
+        <br />
+        <br />
+        animations.StartAnimation(indexAnim, PixelFadeDuration,
+        FadeOutAnimUpdate);
+        <br />
+        &rcub;
+        <br />
+        &rcub;
+        <br />
+        &rcub;
+        <br />
+        void setup()
+        <br />
+        &lcub;
+        <br />
+        strip.Begin();
+        <br />
+        strip.Show();
+        <br />
+        <br />
+        SetRandomSeed();
+        <br />
+        <br />
+        // we use the index 0 animation to time how often we move to the next
+        <br />
+        // pixel in the strip
+        <br />
+        animations.StartAnimation(0, NextPixelMoveDuration, LoopAnimUpdate);
+        <br />
+        &rcub;
+        <br />
+        void loop()
+        <br />
+        &lcub;
+        <br />
+        // this is all that is needed to keep it running
+        <br />
+        // and avoiding using delay() is always a good thing for
+        <br />
+        // any timing related routines
+        <br />
+        animations.UpdateAnimations();
+        <br />
+        strip.Show();
+        <br />
+        &rcub;
       </div>
     </div>
-    <div class="info-section2">
-      <div class="title-image-info-text-description">
-        <div class="titile">3.Flowing light display</div>
-        <div class="image">
-          <div class="image3"></div>
-        </div>
-      </div>
+    <div
+      class="hardware-configuration-and-initialization-pixel-count-and-pixel-pin-define-the-number-of-le-ds-on-the-light-strip-and-the-pins-they-are-connected-to-ensure-that-these-values-match-your-hardware-settings-neo-pixel-bus-and-neo-pixel-animator-these-two-libraries-provide-the-necessary-functions-to-control-neo-pixel-light-strips-including-color-settings-animation-and-more-neo-gamma-neo-gamma-table-method-color-gamma-used-for-color-gamma-correction-to-ensure-more-accurate-color-display-animation-parameter-anim-count-calculate-the-number-of-animations-based-on-the-number-of-le-ds-and-the-number-of-le-ds-covered-by-each-animation-assuming-that-each-animation-affects-approximately-one-fifth-of-the-led-on-the-light-strip-pixel-fade-duration-defines-the-length-of-time-a-color-fades-in-and-out-next-pixel-move-duration-defines-the-speed-of-led-movement-in-an-animation-which-is-the-time-required-to-move-from-one-led-to-the-next-animation-state-management-my-animation-state-structure-defines-the-state-of-each-animation-including-the-start-color-end-color-and-affected-led-index-neo-pixel-animator-animations-anim-count-create-a-neo-pixel-animation-management-object-to-control-multiple-animations-animation-state-anim-count-an-array-that-stores-all-animation-states-animation-logic-preparation-front-pixel-and-front-color-these-two-variables-will-be-used-to-track-the-index-and-color-of-the-led-flowing-to-the-front-in-the-animation-although-the-complete-animation-logic-is-not-displayed-in-the-code-snippet-these-two-variables-are-key-to-achieving-a-flowing-light-effect-random-seed-setting-although-this-part-may-not-be-directly-related-to-animation-logic-set-random-seed-function-used-to-set-the-seed-for-the-random-number-generator-this-is-very-useful-for-animations-that-require-randomness-such-as-random-color-changes-the-method-of-simulating-the-reading-of-unconnected-pins-is-used-here-combined-with-bit-operations-to-generate-a-31-bit-random-seed"
+    >
+      Hardware configuration and initialization: PixelCount and PixelPin: define
+      the number of LEDs on the light strip and the pins they are connected to.
+      Ensure that these values match your hardware settings.
+      <br />
+      NeoPixelBus and NeoPixelAnimator: These two libraries provide the necessary
+      functions to control NeoPixel light strips, including color settings,
+      animation, and more.
+      <br />
+      NeoGamma&lt;NeoGammaTableMethod&gt;colorGamma;: used for color gamma
+      correction to ensure more accurate color display.
+      <br />
+      Animation parameter: AnimCount: Calculate the number of animations based on
+      the number of LEDs and the number of LEDs covered by each animation.
+      Assuming that each animation affects approximately one-fifth of the LED on
+      the light strip.
+      <br />
+      PixelFadeDuration: defines the length of time a color fades in and out.
+      <br />
+      NextPixelMoveDuration: defines the speed of LED movement in an animation,
+      which is the time required to move from one LED to the next.
+      <br />
+      Animation State Management: MyAnimationState Structure: defines the state of
+      each animation, including the start color, end color, and affected LED
+      index.
+      <br />
+      NeoPixelAnimator animations (AnimCount);: Create a NeoPixel animation
+      management object to control multiple animations.
+      <br />
+      AnimationState [AnimCount];: An array that stores all animation states.
+      <br />
+      Animation logic preparation: frontPixel and frontColor: These two variables
+      will be used to track the index and color of the LED flowing to the front in
+      the animation. Although the complete animation logic is not displayed in the
+      code snippet, these two variables are key to achieving a flowing light
+      effect.
+      <br />
+      Random Seed Setting (although this part may not be directly related to
+      animation logic): SetRandomSeed() function: used to set the seed for the
+      random number generator. This is very useful for animations that require
+      randomness, such as random color changes. The method of simulating the
+      reading of unconnected pins is used here, combined with bit operations to
+      generate a 31 bit random seed.
     </div>
-    <div class="info-section3">
-      <div class="title-image-info-text-description">
-        <div class="titile">2.Arduino makes flowing lights</div>
-        <div class="image">
-          <img class="image2" src="image9.png" />
-        </div>
-        <div class="image">
-          <img class="image2" src="image11.png" />
-        </div>
-        <div class="titile3">Code Explanation</div>
-        <div class="description2">
-          Hardware configuration and initialization: PixelCount and PixelPin:
-          define the number of LEDs on the light strip and the pins they are
-          connected to. Ensure that these values match your hardware settings.
-          <br />
-          NeoPixelBus and NeoPixelAnimator: These two libraries provide the
-          necessary functions to control NeoPixel light strips, including color
-          settings, animation, and more.
-          <br />
-          NeoGamma&lt;NeoGammaTableMethod&gt;colorGamma;: used for color gamma
-          correction to ensure more accurate color display.
-          <br />
-          Animation parameter: AnimCount: Calculate the number of animations based
-          on the number of LEDs and the number of LEDs covered by each animation.
-          Assuming that each animation affects approximately one-fifth of the LED
-          on the light strip.
-          <br />
-          PixelFadeDuration: defines the length of time a color fades in and out.
-          <br />
-          NextPixelMoveDuration: defines the speed of LED movement in an
-          animation, which is the time required to move from one LED to the next.
-          <br />
-          Animation State Management: MyAnimationState Structure: defines the
-          state of each animation, including the start color, end color, and
-          affected LED index.
-          <br />
-          NeoPixelAnimator animations (AnimCount);: Create a NeoPixel animation
-          management object to control multiple animations.
-          <br />
-          AnimationState [AnimCount];: An array that stores all animation states.
-          <br />
-          Animation logic preparation: frontPixel and frontColor: These two
-          variables will be used to track the index and color of the LED flowing
-          to the front in the animation. Although the complete animation logic is
-          not displayed in the code snippet, these two variables are key to
-          achieving a flowing light effect.
-          <br />
-          Random Seed Setting (although this part may not be directly related to
-          animation logic): SetRandomSeed() function: used to set the seed for the
-          random number generator. This is very useful for animations that require
-          randomness, such as random color changes. The method of simulating the
-          reading of unconnected pins is used here, combined with bit operations
-          to generate a 31 bit random seed.
-        </div>
-      </div>
+    <div class="logo">
+      <img class="rectangle-1" src="rectangle-10.svg" />
+      <div class="bbst">BBST</div>
     </div>
-    <div class="footer">
-      <div class="divider"></div>
-      <div class="copywriting-privacy">
-        <div class="frame-38">
-          <div class="div">©</div>
-          <div class="description3">BSST Team</div>
-          <div class="description4">|</div>
-          <div class="description3">ZWU</div>
-        </div>
-        <div class="privacy">
-          <div class="description4">Terms of Use</div>
-          <div class="description4">|</div>
-          <div class="description3">Public</div>
-        </div>
-      </div>
+    <div class="line-5"></div>
+    <div class="about">
+      <a href="index.html">About</a></div>
+
+    <div class="team-interoduction">
+      <a href="team introduction.html">Team Interoduction</a></div>
+
+    <div class="team-member">
+      <a href="team index.html">Team Member</a></div>
+
+    <div class="course">
+      <a href="course index.html">Course</a></div>
+    <div class="final">Final</div>
+    <div class="line-2"></div>
+    <div class="bsst-team-zwu">BSST Team | ZWU</div>
+    <div class="_2024-6">2024.6</div>
+    <div class="_4-some-open-source-projects">4.some open source projects</div>
+    <img class="image" src="image0.png" />
+    <div
+      class="the-name-of-the-project-is-to-build-a-tall-weathercloud-weather-station-in-ardiuno-advantages-using-the-ardiuno-nano-board-which-is-the-same-as-the-board-used-in-the-previous-hardware-class-it-is-better-for-us-to-learn-to-use-and-operate-disadvantages-at-present-the-hardware-knowledge-is-relatively-small-and-a-lot-of-learning-and-practice-are-still-needed-at-the-same-time-the-project-was-just-a-meteorological-device-and-we-needed-to-integrate-it-with-our-thematic-climate-action-and-as-art-and-technology-students-we-needed-a-more-aesthetically-pleasing-and-thought-provoking-design-solution"
+    >
+      <span>
+        <span
+          class="the-name-of-the-project-is-to-build-a-tall-weathercloud-weather-station-in-ardiuno-advantages-using-the-ardiuno-nano-board-which-is-the-same-as-the-board-used-in-the-previous-hardware-class-it-is-better-for-us-to-learn-to-use-and-operate-disadvantages-at-present-the-hardware-knowledge-is-relatively-small-and-a-lot-of-learning-and-practice-are-still-needed-at-the-same-time-the-project-was-just-a-meteorological-device-and-we-needed-to-integrate-it-with-our-thematic-climate-action-and-as-art-and-technology-students-we-needed-a-more-aesthetically-pleasing-and-thought-provoking-design-solution-span"
+        >
+          The name of the project is to build a tall Weathercloud weather station
+          in Ardiuno
+          <br />
+          <br />
+        </span>
+        <span
+          class="the-name-of-the-project-is-to-build-a-tall-weathercloud-weather-station-in-ardiuno-advantages-using-the-ardiuno-nano-board-which-is-the-same-as-the-board-used-in-the-previous-hardware-class-it-is-better-for-us-to-learn-to-use-and-operate-disadvantages-at-present-the-hardware-knowledge-is-relatively-small-and-a-lot-of-learning-and-practice-are-still-needed-at-the-same-time-the-project-was-just-a-meteorological-device-and-we-needed-to-integrate-it-with-our-thematic-climate-action-and-as-art-and-technology-students-we-needed-a-more-aesthetically-pleasing-and-thought-provoking-design-solution-span2"
+        >
+          Advantages:
+        </span>
+        <span
+          class="the-name-of-the-project-is-to-build-a-tall-weathercloud-weather-station-in-ardiuno-advantages-using-the-ardiuno-nano-board-which-is-the-same-as-the-board-used-in-the-previous-hardware-class-it-is-better-for-us-to-learn-to-use-and-operate-disadvantages-at-present-the-hardware-knowledge-is-relatively-small-and-a-lot-of-learning-and-practice-are-still-needed-at-the-same-time-the-project-was-just-a-meteorological-device-and-we-needed-to-integrate-it-with-our-thematic-climate-action-and-as-art-and-technology-students-we-needed-a-more-aesthetically-pleasing-and-thought-provoking-design-solution-span3"
+        ></span>
+        <span
+          class="the-name-of-the-project-is-to-build-a-tall-weathercloud-weather-station-in-ardiuno-advantages-using-the-ardiuno-nano-board-which-is-the-same-as-the-board-used-in-the-previous-hardware-class-it-is-better-for-us-to-learn-to-use-and-operate-disadvantages-at-present-the-hardware-knowledge-is-relatively-small-and-a-lot-of-learning-and-practice-are-still-needed-at-the-same-time-the-project-was-just-a-meteorological-device-and-we-needed-to-integrate-it-with-our-thematic-climate-action-and-as-art-and-technology-students-we-needed-a-more-aesthetically-pleasing-and-thought-provoking-design-solution-span4"
+        >
+          Using the Ardiuno nano board, which is the same as the board used in the
+          previous hardware class, it is better for us to learn to use and
+          operate.
+          <br />
+          <br />
+        </span>
+        <span
+          class="the-name-of-the-project-is-to-build-a-tall-weathercloud-weather-station-in-ardiuno-advantages-using-the-ardiuno-nano-board-which-is-the-same-as-the-board-used-in-the-previous-hardware-class-it-is-better-for-us-to-learn-to-use-and-operate-disadvantages-at-present-the-hardware-knowledge-is-relatively-small-and-a-lot-of-learning-and-practice-are-still-needed-at-the-same-time-the-project-was-just-a-meteorological-device-and-we-needed-to-integrate-it-with-our-thematic-climate-action-and-as-art-and-technology-students-we-needed-a-more-aesthetically-pleasing-and-thought-provoking-design-solution-span5"
+        >
+          Disadvantages:
+        </span>
+        <span
+          class="the-name-of-the-project-is-to-build-a-tall-weathercloud-weather-station-in-ardiuno-advantages-using-the-ardiuno-nano-board-which-is-the-same-as-the-board-used-in-the-previous-hardware-class-it-is-better-for-us-to-learn-to-use-and-operate-disadvantages-at-present-the-hardware-knowledge-is-relatively-small-and-a-lot-of-learning-and-practice-are-still-needed-at-the-same-time-the-project-was-just-a-meteorological-device-and-we-needed-to-integrate-it-with-our-thematic-climate-action-and-as-art-and-technology-students-we-needed-a-more-aesthetically-pleasing-and-thought-provoking-design-solution-span6"
+        >
+          At present, the hardware knowledge is relatively small, and a lot of
+          learning and practice are still needed. At the same time, the project
+          was just a meteorological device, and we needed to integrate it with our
+          thematic climate action, and as art and technology students, we needed a
+          more aesthetically pleasing and thought-provoking design solution.。
+        </span>
+      </span>
     </div>
-    <div class="info-section4">
-      <div class="title-image-info-text-description">
-        <div class="titile4">4.some open source projects</div>
-        <div class="image">
-          <img class="image2" src="image13.png" />
-        </div>
-        <div class="image">
-          <img class="image2" src="image15.png" />
-        </div>
-        <div class="image">
-          <img class="image2" src="image17.png" />
-        </div>
-        <div class="image">
-          <img class="image2" src="image19.png" />
-        </div>
-        <div class="description5">
-          <span>
-            <span class="description-5-span">
-              The name of the project is to build a tall Weathercloud weather
-              station in Ardiuno
-              <br />
-              <br />
-              Advantages: Using the Ardiuno nano board, which is the same as the
-              board used in the previous hardware class, it is better for us to
-              learn to use and operate.
-              <br />
-              <br />
-              Disadvantages: At present, the hardware knowledge is relatively
-              small, and a lot of learning and practice are still needed. At the
-              same time, the project was just a meteorological device, and we
-              needed to integrate it with our thematic climate action, and as art
-              and technology students, we needed a more aesthetically pleasing and
-              thought-provoking design solution.
-            </span>
-            <span class="description-5-span2">。</span>
-          </span>
-        </div>
-      </div>
-    </div>
-    <div class="header">
-      <div class="logo">
-        <div class="bsst">BSST</div>
-      </div>
-      <div class="menu">
-        <div class="number-menu-item">
-          <div class="number">1</div>
-          <div class="menu-item">
-            <a href="index.html">About</a></div>
-        </div>
-        <div class="number-menu-item">
-          <div class="number">2</div>
-          <div class="menu-item">
-            <a href="team introduction.html">Team Introduction</a></div>
-        </div>
-        <div class="number-menu-item">
-          <div class="number">3</div>
-          <div class="menu-item">
-            <a href="team index.html">Team Member</a></div>
-        </div>
-        <div class="number-menu-item2">
-          <div class="number">4</div>
-          <div class="menu-item">
-            <a href="course index.html">Course Practice</a></div>
-        </div>
-        <div class="number-menu-item">
-          <div class="number">5</div>
-          <div class="menu-item">Final</div>
-        </div>
-      </div>
-      <div class="divider2"></div>
-    </div>
+    <img class="image2" src="image1.png" />
+    <img class="image3" src="image2.png" />
+    <img class="image4" src="image3.png" />
   </div>
   
 </body>

@@ -4,57 +4,69 @@
 }
 .course-index {
   background: #ffffff;
-  height: 1024px;
+  height: 950px;
   position: relative;
   overflow: hidden;
-}
-.group-31 {
-  position: absolute;
-  inset: 0;
 }
 .web-build {
   color: #000000;
   text-align: left;
-  font-family: "Inter-SemiBold", sans-serif;
-  font-size: 36px;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
   letter-spacing: 0.05em;
-  font-weight: 600;
+  font-weight: 400;
   position: absolute;
-  left: 259px;
-  top: 225px;
+  left: calc(50% - 459px);
+  top: calc(50% - 323px);
   width: 337px;
   height: 43px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
 }
-.arduino {
+.arduino-basic-input {
   color: #000000;
   text-align: left;
-  font-family: "Inter-SemiBold", sans-serif;
-  font-size: 36px;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
   letter-spacing: 0.05em;
-  font-weight: 600;
+  font-weight: 400;
   position: absolute;
-  left: 259px;
-  top: 329px;
-  width: 337px;
-  height: 43px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.input-output {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-SemiBold", sans-serif;
-  font-size: 36px;
-  letter-spacing: 0.05em;
-  font-weight: 600;
-  position: absolute;
-  left: 262px;
-  top: 433px;
+  left: calc(50% - 459px);
+  top: calc(50% - 245px);
   width: 511px;
+  height: 43px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.output {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 459px);
+  top: calc(50% - 167px);
+  width: 511px;
+  height: 43px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.interface-application-programming {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 459px);
+  top: calc(50% - 89px);
+  width: 756px;
   height: 43px;
   display: flex;
   align-items: center;
@@ -63,13 +75,29 @@
 .computer-aided-design {
   color: #000000;
   text-align: left;
-  font-family: "Inter-SemiBold", sans-serif;
-  font-size: 36px;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
   letter-spacing: 0.05em;
-  font-weight: 600;
+  font-weight: 400;
   position: absolute;
-  left: 259px;
-  top: 537px;
+  left: calc(50% - 459px);
+  top: calc(50% - 11px);
+  width: 511px;
+  height: 43px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.material {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 461px);
+  top: calc(50% - -67px);
   width: 511px;
   height: 43px;
   display: flex;

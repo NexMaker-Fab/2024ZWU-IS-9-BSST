@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="接口2.css">
+  <link rel="stylesheet" href="接口1.css">
+  
+  
+  <style>
+   a,
+   button,
+   input,
+   select,
+   h1,
+   h2,
+   h3,
+   h4,
+   h5,
+   * {
+       box-sizing: border-box;
+       margin: 0;
+       padding: 0;
+       border: none;
+       text-decoration: none;
+       background: none;
+   
+       -webkit-font-smoothing: antialiased;
+   }
+   
+   menu, ol, ul {
+       list-style-type: none;
+       margin: 0;
+       padding: 0;
+   }
+   </style>
+  <title>Interface Application Programming</title>
+</head>
+<body>
+  <div class="div">
+    <div class="logo">
+      <img class="rectangle-1" src="rectangle-10.svg" />
+      <div class="bbst">BBST</div>
+    </div>
+    <div class="line-2"></div>
+    <div class="about">
+      <a href="index.html">About</a></div>
+    <div class="team-interoduction">
+      <a href="team introduction.html">Team Interoduction</a></div>
+    <div class="team-member">
+      <a href="member index.html">Team Member</a></div>
+    <div class="course">
+      <a href="course index.html">Course</a></div>
+    <div class="final">Final</div>
+    <div class="line-22"></div>
+    <div class="bsst-team-zwu">BSST Team | ZWU</div>
+    <div class="_2024-6">2024.6</div>
+    <div class="course-interface-application-programming">
+      Course → Interface Application Programming
+    </div>
+    <div class="_1-processing">1.Processing</div>
+    <div class="_20240530111536-5"></div>
+    <div class="group-37">
+      <div class="_20240530111536-6"></div>
+    </div>
+    <div class="group-36">
+      <div class="processing-code">Processing Code</div>
+    </div>
+    <div class="code-snippet-wrapper">
+      <div class="code-line-numbers">
+        1
+        <br />
+        2
+        <br />
+        3
+        <br />
+        4
+        <br />
+        5
+        <br />
+        6
+        <br />
+        7
+        <br />
+        8
+        <br />
+        9
+        <br />
+        10
+        <br />
+        11
+        <br />
+        12
+        <br />
+        13
+        <br />
+        14
+        <br />
+        15
+        <br />
+        16
+        <br />
+        17
+        <br />
+        18
+        <br />
+        19
+      </div>
+      <div class="code-snippet">
+        <span>
+          <span class="code-snippet-span">Void</span>
+          <span class="code-snippet-span2">setup</span>
+          <span class="code-snippet-span3">
+            () &lcub;
+            <br />
+          </span>
+          <span class="code-snippet-span4"><br /></span>
+          <span class="code-snippet-span5">Size</span>
+          <span class="code-snippet-span6">(</span>
+          <span class="code-snippet-span7">800</span>
+          <span class="code-snippet-span8">,</span>
+          <span class="code-snippet-span9">600</span>
+          <span class="code-snippet-span10">);</span>
+          <span class="code-snippet-span11">
+            // Set the canvas size
+            <br />
+          </span>
+          <span class="code-snippet-span12"><br /></span>
+          <span class="code-snippet-span13">Background</span>
+          <span class="code-snippet-span14">(</span>
+          <span class="code-snippet-span15">0</span>
+          <span class="code-snippet-span16">);</span>
+          <span class="code-snippet-span17">
+            // Set the background colour to black
+            <br />
+          </span>
+          <span class="code-snippet-span18"><br /></span>
+          <span class="code-snippet-span19">Fill</span>
+          <span class="code-snippet-span20">(</span>
+          <span class="code-snippet-span21">255</span>
+          <span class="code-snippet-span22">,</span>
+          <span class="code-snippet-span23">255</span>
+          <span class="code-snippet-span24">,</span>
+          <span class="code-snippet-span25">0</span>
+          <span class="code-snippet-span26">);</span>
+          <span class="code-snippet-span27">
+            // Set the fill colour to yellow
+            <br />
+          </span>
+          <span class="code-snippet-span28"><br /></span>
+          <span class="code-snippet-span29">noStroke</span>
+          <span class="code-snippet-span30">();</span>
+          <span class="code-snippet-span31">
+            // No border displayed
+            <br />
+          </span>
+          <span class="code-snippet-span32"><br /></span>
+          <span class="code-snippet-span33">
+            &rcub;
+            <br />
+          </span>
+          <span class="code-snippet-span34"><br /></span>
+          <span class="code-snippet-span35">Void</span>
+          <span class="code-snippet-span36">draw</span>
+          <span class="code-snippet-span37">
+            () &lcub;
+            <br />
+          </span>
+          <span class="code-snippet-span38"><br /></span>
+          <span class="code-snippet-span39">Background</span>
+          <span class="code-snippet-span40">(</span>
+          <span class="code-snippet-span41">0</span>
+          <span class="code-snippet-span42">);</span>
+          <span class="code-snippet-span43">
+            // Empty the canvas every time you redraw
+            <br />
+          </span>
+          <span class="code-snippet-span44"><br /></span>
+          <span class="code-snippet-span45">triangle</span>
+          <span class="code-snippet-span46">(mouseX, mouseY</span>
+          <span class="code-snippet-span47">-</span>
+          <span class="code-snippet-span48">20</span>
+          <span class="code-snippet-span49">, mouseX</span>
+          <span class="code-snippet-span50">-</span>
+          <span class="code-snippet-span51">20</span>
+          <span class="code-snippet-span52">, mouseY</span>
+          <span class="code-snippet-span53">+</span>
+          <span class="code-snippet-span54">20</span>
+          <span class="code-snippet-span55">, mouseX</span>
+          <span class="code-snippet-span56">+</span>
+          <span class="code-snippet-span57">20</span>
+          <span class="code-snippet-span58">, mouseY</span>
+          <span class="code-snippet-span59">+</span>
+          <span class="code-snippet-span60">20</span>
+          <span class="code-snippet-span61">);</span>
+          <span class="code-snippet-span62">
+            // Draw a triangle, and the vertex follows the mouse position
+            <br />
+          </span>
+          <span class="code-snippet-span63"><br /></span>
+          <span class="code-snippet-span64">&rcub;</span>
+        </span>
+      </div>
+    </div>
+    <div class="effect-display">Effect display</div>
+    <div class="_1-processing2">1.Processing</div>
+    <div class="_20240530111536-52"></div>
+    <div class="group-49">
+      <img class="_20240530111536-62" src="接口1.jpg" />
+      <img class="_20240530111536-7" src="接口2.jpg" />
+      <img class="_20240530111536-8" src="接口3.jpg" />
+    </div>
+    <div class="processing-code2">Processing Code</div>
+    <div class="effect-display2">Effect display</div>
+    <div class="arduino-code">Arduino Code</div>
+    <div class="code-snippet-wrapper2">
+      <div class="code-line-numbers2">
+        1
+        <br />
+        2
+        <br />
+        3
+        <br />
+        4
+        <br />
+        5
+        <br />
+        6
+        <br />
+        7
+        <br />
+        8
+        <br />
+        9
+        <br />
+        10
+        <br />
+        11
+        <br />
+        12
+        <br />
+        13
+        <br />
+        14
+        <br />
+        15
+        <br />
+        16
+      </div>
+      <div class="code-snippet2">
+        <span>
+          <span class="code-snippet-2-span">import</span>
+          <span class="code-snippet-2-span2">processing.serial.</span>
+          <span class="code-snippet-2-span3">*</span>
+          <span class="code-snippet-2-span4">;</span>
+          <span class="code-snippet-2-span5">
+            // 导入串行通信库
+            <br />
+          </span>
+          <span class="code-snippet-2-span6">Serial myPort;</span>
+          <span class="code-snippet-2-span7">
+            // 创建一个Serial对象
+            <br />
+          </span>
+          <span class="code-snippet-2-span8">int sensorValue = 0;</span>
+          <span class="code-snippet-2-span9">
+            // 存储传感器的值
+            <br />
+          </span>
+          <span class="code-snippet-2-span10"><br /></span>
+          <span class="code-snippet-2-span11">
+            void setup() &lcub;
+            <br />
+            size(800, 600);
+          </span>
+          <span class="code-snippet-2-span12">
+            // 设置画布大小
+            <br />
+          </span>
+          <span class="code-snippet-2-span13">
+            myPort = new Serial(this, Serial.list()[0], 9600);
+          </span>
+          <span class="code-snippet-2-span14">
+            // 打开与Arduino的串行连接
+            <br />
+          </span>
+          <span class="code-snippet-2-span15">
+            &rcub;
+            <br />
+          </span>
+          <span class="code-snippet-2-span16"><br /></span>
+          <span class="code-snippet-2-span17">
+            void draw() &lcub;
+            <br />
+            if (myPort.available() &gt; 0) &lcub;
+          </span>
+          <span class="code-snippet-2-span18">
+            // 如果有可用的数据
+            <br />
+          </span>
+          <span class="code-snippet-2-span19">sensorValue = myPort.read();</span>
+          <span class="code-snippet-2-span20">
+            // 读取数据
+            <br />
+          </span>
+          <span class="code-snippet-2-span21">
+            &rcub;
+            <br />
+            background(0);
+          </span>
+          <span class="code-snippet-2-span22">
+            // 清空画布
+            <br />
+          </span>
+          <span class="code-snippet-2-span23">
+            ellipse(width/2, height/2, sensorValue, sensorValue);
+          </span>
+          <span class="code-snippet-2-span24">
+            // 根据传感器的值画一个圆形
+            <br />
+          </span>
+          <span class="code-snippet-2-span25">&rcub;</span>
+        </span>
+      </div>
+    </div>
+    <div class="code-snippet-wrapper3">
+      <div class="code-line-numbers2">
+        1
+        <br />
+        2
+        <br />
+        3
+        <br />
+        4
+        <br />
+        5
+        <br />
+        6
+        <br />
+        7
+        <br />
+        8
+        <br />
+        9
+      </div>
+      <div class="code-snippet2">
+        <span>
+          <span class="code-snippet-2-span26">int sensorPin</span>
+          <span class="code-snippet-2-span27">=</span>
+          <span class="code-snippet-2-span28"></span>
+          <span class="code-snippet-2-span29">A0</span>
+          <span class="code-snippet-2-span30">;</span>
+          <span class="code-snippet-2-span31">
+            // 将传感器连接到模拟引脚A0
+            <br />
+          </span>
+          <span class="code-snippet-2-span32">void</span>
+          <span class="code-snippet-2-span33"></span>
+          <span class="code-snippet-2-span34">setup</span>
+          <span class="code-snippet-2-span35">
+            () &lcub;
+            <br />
+            Serial.
+          </span>
+          <span class="code-snippet-2-span36">begin</span>
+          <span class="code-snippet-2-span37">(</span>
+          <span class="code-snippet-2-span38">9600</span>
+          <span class="code-snippet-2-span39">);</span>
+          <span class="code-snippet-2-span40">
+            // 设置串行通信的波特率
+            <br />
+          </span>
+          <span class="code-snippet-2-span41">
+            &rcub;
+            <br />
+          </span>
+          <span class="code-snippet-2-span42">void</span>
+          <span class="code-snippet-2-span43"></span>
+          <span class="code-snippet-2-span44">loop</span>
+          <span class="code-snippet-2-span45">
+            () &lcub;
+            <br />
+            int sensorValue
+          </span>
+          <span class="code-snippet-2-span46">=</span>
+          <span class="code-snippet-2-span47"></span>
+          <span class="code-snippet-2-span48">analogRead</span>
+          <span class="code-snippet-2-span49">(sensorPin);</span>
+          <span class="code-snippet-2-span50">
+            // 读取传感器的值
+            <br />
+          </span>
+          <span class="code-snippet-2-span51">Serial.</span>
+          <span class="code-snippet-2-span52">println</span>
+          <span class="code-snippet-2-span53">(sensorValue);</span>
+          <span class="code-snippet-2-span54">
+            // 将传感器的值发送到串行端口
+            <br />
+          </span>
+          <span class="code-snippet-2-span55"></span>
+          <span class="code-snippet-2-span56">delay</span>
+          <span class="code-snippet-2-span57">(</span>
+          <span class="code-snippet-2-span58">1000</span>
+          <span class="code-snippet-2-span59">);</span>
+          <span class="code-snippet-2-span60">
+            // 等待1秒
+            <br />
+          </span>
+          <span class="code-snippet-2-span61">&rcub;</span>
+        </span>
+      </div>
+    </div>
+  </div>
+  
+</body>
+</html>

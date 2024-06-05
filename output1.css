@@ -1,0 +1,1884 @@
+.output,
+.output * {
+  box-sizing: border-box;
+}
+.output {
+  background: #ffffff;
+  height: 5462px;
+  position: relative;
+  overflow: hidden;
+}
+.course-output {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  right: 870px;
+  left: 111px;
+  top: 106px;
+  height: 29px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.logo {
+  width: 188.65px;
+  height: 72.25px;
+  position: absolute;
+  left: 73px;
+  top: 0px;
+}
+.rectangle-1 {
+  width: 99.78%;
+  height: 99.85%;
+  position: absolute;
+  right: 0%;
+  left: 0.22%;
+  bottom: 0%;
+  top: 0.15%;
+  transform: translate(0px, 0px);
+  overflow: visible;
+}
+.bbst {
+  color: #ffffff;
+  text-align: center;
+  font-family: "KronaOne-Regular", sans-serif;
+  font-size: 36px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  right: 0.35%;
+  left: 0%;
+  width: 99.65%;
+  bottom: 0.35%;
+  top: 0%;
+  height: 99.65%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.line-5 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  height: 0px;
+  position: absolute;
+  right: 107.97px;
+  left: 73px;
+  top: 72px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.group-7 {
+  position: absolute;
+  inset: 0;
+}
+.about {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  position: absolute;
+  right: 925px;
+  top: 24px;
+  width: 134px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.team-interoduction {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  position: absolute;
+  right: 587px;
+  top: 24px;
+  width: 361px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.team-member {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  position: absolute;
+  right: 296px;
+  top: 24px;
+  width: 315px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.course {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  position: absolute;
+  right: 185px;
+  top: 24px;
+  width: 134px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.final {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  position: absolute;
+  right: 74px;
+  top: 24px;
+  width: 134px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-4 {
+  position: absolute;
+  inset: 0;
+}
+.line-2 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  height: 0px;
+  position: absolute;
+  right: 80.97px;
+  left: 100px;
+  bottom: 48px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.bsst-team-zwu {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 1063px;
+  left: 80px;
+  bottom: 0px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+._2024-6 {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 81px;
+  left: 1062px;
+  bottom: 0px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-38 {
+  position: absolute;
+  inset: 0;
+}
+._1-servo-controls-the-linkage {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 609px);
+  top: calc(50% - 2556px);
+  width: 695px;
+  height: 30px;
+}
+.objective-use-the-arduino-to-control-the-servo-and-drive-the-connecting-rod-to-control-the-opening-and-closing-of-the-flower-through-the-servo-swing-arm {
+  color: var(--color, rgba(9, 51, 202, 0.78));
+  text-align: justified;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 527px);
+  top: calc(50% - 2507px);
+  width: 1053px;
+  height: 60px;
+}
+.group-34 {
+  width: 1064px;
+  height: 2665px;
+  position: static;
+}
+.group-35 {
+  width: 1064px;
+  height: 2665px;
+  position: static;
+}
+._20240530111536-5 {
+  border-radius: 35px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 541px);
+  top: calc(50% - 2398px);
+  object-fit: cover;
+}
+.group-37 {
+  width: 1064px;
+  height: 1359px;
+  position: static;
+}
+.effect-display {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 540.89px);
+  top: calc(50% - 1118px);
+  width: 342.54px;
+  height: 26px;
+}
+._20240530111536-6 {
+  border-radius: 35px;
+  width: 1064px;
+  height: 1333px;
+  position: absolute;
+  left: calc(50% - 552px);
+  top: calc(50% - 1092px);
+}
+.circuit-diagram-connection {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 541px);
+  top: calc(50% - 2424px);
+  width: 339px;
+  height: 26px;
+}
+.group-36 {
+  width: 339px;
+  height: 26px;
+  position: static;
+}
+.arduino-code {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 541px);
+  top: calc(50% - 1772px);
+  width: 339px;
+  height: 26px;
+}
+.group-39 {
+  position: absolute;
+  inset: 0;
+}
+._2-arduino-controls-the-lights {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 630px);
+  top: calc(50% - -344px);
+  width: 695px;
+  height: 30px;
+}
+.objective-use-the-arduino-to-control-the-servo-and-drive-the-connecting-rod-to-control-the-opening-and-closing-of-the-flower-through-the-servo-swing-arm2 {
+  color: var(--color, rgba(9, 51, 202, 0.78));
+  text-align: justified;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 548px);
+  top: calc(50% - -393px);
+  width: 1053px;
+  height: 60px;
+}
+.group-342 {
+  width: 1064px;
+  height: 1917px;
+  position: static;
+}
+.group-352 {
+  width: 1064px;
+  height: 1917px;
+  position: static;
+}
+._20240530111536-52 {
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 562px);
+  top: calc(50% - -502px);
+  object-fit: cover;
+}
+.group-372 {
+  width: 1064px;
+  height: 611px;
+  position: static;
+}
+.effect-display2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 561.89px);
+  top: calc(50% - -1782px);
+  width: 342.54px;
+  height: 26px;
+}
+._20240530111536-62 {
+  border-radius: 35px;
+  width: 1064px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 573px);
+  top: calc(50% - -1808px);
+}
+.circuit-diagram-connection2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 562px);
+  top: calc(50% - -476px);
+  width: 339px;
+  height: 26px;
+}
+.arduino-code2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 562px);
+  top: calc(50% - -1128px);
+  width: 339px;
+  height: 26px;
+}
+.code-snippet-wrapper {
+  background: #24292e;
+  padding: 10px;
+  width: 1053px;
+  height: 596px;
+  position: absolute;
+  left: calc(50% - 562px);
+  top: calc(50% - -1166px);
+  overflow: hidden;
+}
+.code-line-numbers {
+  color: rgba(225, 228, 232, 0.3);
+  text-align: right;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 10px;
+  top: 10px;
+}
+.code-snippet {
+  text-align: left;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 47px;
+  top: 10px;
+}
+.code-snippet-span {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span2 {
+  color: #9ecbff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span3 {
+  color: #000000;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span4 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span5 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span6 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span7 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span8 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span9 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span10 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span11 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span12 {
+  color: #000000;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span13 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span14 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span15 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span16 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span17 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span18 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span19 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span20 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span21 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span22 {
+  color: #000000;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span23 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span24 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span25 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span26 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span27 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span28 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span29 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span30 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span31 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span32 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span33 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span34 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span35 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span36 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span37 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span38 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span39 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span40 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span41 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span42 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span43 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span44 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span45 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span46 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span47 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span48 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span49 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span50 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span51 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span52 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span53 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span54 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span55 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span56 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span57 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span58 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span59 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span60 {
+  color: #000000;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span61 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span62 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span63 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span64 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span65 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span66 {
+  color: #000000;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span67 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span68 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span69 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span70 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span71 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span72 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span73 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span74 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span75 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span76 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span77 {
+  color: #000000;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span78 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span79 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span80 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span81 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span82 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span83 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span84 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span85 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span86 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span87 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span88 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span89 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span90 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span91 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span92 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span93 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span94 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span95 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span96 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span97 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span98 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span99 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span100 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span101 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span102 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span103 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span104 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span105 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span106 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span107 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span108 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span109 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span110 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span111 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span112 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span113 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span114 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span115 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span116 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span117 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span118 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span119 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-wrapper2 {
+  background: #24292e;
+  padding: 10px;
+  width: 1051px;
+  height: 590px;
+  position: absolute;
+  left: calc(50% - 546px);
+  top: calc(50% - 1737px);
+  overflow: hidden;
+}
+.code-snippet-span120 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span121 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span122 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span123 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span124 {
+  color: #000000;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span125 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span126 {
+  color: #6a737d;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span127 {
+  color: #000000;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span128 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span129 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span130 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span131 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span132 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span133 {
+  color: #6a737d;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span134 {
+  color: #000000;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span135 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span136 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span137 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span138 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span139 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span140 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span141 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span142 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span143 {
+  color: #6a737d;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span144 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span145 {
+  color: #000000;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span146 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span147 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span148 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span149 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span150 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span151 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span152 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span153 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span154 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span155 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span156 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span157 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span158 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span159 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span160 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span161 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span162 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span163 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span164 {
+  color: #6a737d;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span165 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span166 {
+  color: #6a737d;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span167 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span168 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span169 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span170 {
+  color: #6a737d;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span171 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span172 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span173 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span174 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span175 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span176 {
+  color: #6a737d;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span177 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span178 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span179 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span180 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span181 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span182 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span183 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span184 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span185 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span186 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span187 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span188 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span189 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span190 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span191 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span192 {
+  color: #6a737d;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span193 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span194 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span195 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span196 {
+  color: #6a737d;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span197 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span198 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span199 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span200 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span201 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span202 {
+  color: #6a737d;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span203 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}

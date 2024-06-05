@@ -1,0 +1,470 @@
+.div,
+.div * {
+  box-sizing: border-box;
+}
+.div {
+  background: #ffffff;
+  height: 1254px;
+  position: relative;
+  overflow: hidden;
+}
+.logo {
+  width: 188.65px;
+  height: 72.25px;
+  position: absolute;
+  left: 90px;
+  top: 0px;
+}
+.rectangle-1 {
+  width: 99.78%;
+  height: 99.85%;
+  position: absolute;
+  right: 0%;
+  left: 0.22%;
+  bottom: 0%;
+  top: 0.15%;
+  transform: translate(0px, 0px);
+  overflow: visible;
+}
+.bbst {
+  color: #ffffff;
+  text-align: center;
+  font-family: "KronaOne-Regular", sans-serif;
+  font-size: 36px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  right: 0.35%;
+  left: 0%;
+  width: 99.65%;
+  bottom: 0.35%;
+  top: 0%;
+  height: 99.65%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.line-2 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  height: 0px;
+  position: absolute;
+  right: 90.97px;
+  left: 90px;
+  top: 72px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.group-3 {
+  position: absolute;
+  inset: 0;
+}
+.about {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  position: absolute;
+  right: 908px;
+  top: 24px;
+  width: 134px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.team-interoduction {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  position: absolute;
+  right: 570px;
+  top: 24px;
+  width: 361px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.team-member {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  position: absolute;
+  right: 279px;
+  top: 24px;
+  width: 315px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.course {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  position: absolute;
+  right: 168px;
+  top: 24px;
+  width: 134px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.final {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  position: absolute;
+  right: 57px;
+  top: 24px;
+  width: 134px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-13 {
+  position: absolute;
+  inset: 0;
+}
+.line-22 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  height: 0px;
+  position: absolute;
+  right: 80.97px;
+  left: 100px;
+  bottom: 48px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.bsst-team-zwu {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 1063px;
+  left: 80px;
+  bottom: 0px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+._2024-6 {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 81px;
+  left: 1062px;
+  bottom: 0px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-23 {
+  position: absolute;
+  inset: 0;
+}
+._1-class-practice-autodesk-fusion-shapr-3-d {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 595px);
+  top: calc(50% - 7804px);
+  width: 695px;
+  height: 30px;
+}
+._1-class-practice-autodesk-fusion-shapr-3-d-span {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+}
+._1-class-practice-autodesk-fusion-shapr-3-d-span2 {
+  color: #000000;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 300;
+}
+._20240530111536-1 {
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 955px;
+  height: 574px;
+  position: absolute;
+  left: calc(50% - 473px);
+  top: calc(50% - 7737px);
+  object-fit: cover;
+}
+.on-the-left-is-our-group-s-warehouse-where-you-can-share-and-edit-the-parts-you-have-made-if-we-want-to-create-a-new-component-we-need-to-click-the-new-component-button-as-shown-in-the-picture {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 473px);
+  top: calc(50% - 7146px);
+  width: 1127px;
+  height: 76.02px;
+}
+.group-57 {
+  position: absolute;
+  inset: 0;
+}
+.course-material {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 611px);
+  top: calc(50% - 517px);
+  width: 400px;
+  height: 29px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-56 {
+  width: 1141px;
+  height: 198px;
+  position: static;
+}
+.metal-aluminum-is-a-common-metal-used-in-daily-life-it-s-found-in-kitchen-utensils-cans-foils-and-even-in-the-construction-of-airplanes-and-buildings-due-to-its-light-weight-and-resistance-to-corrosion-plastic-polyethylene-is-the-most-common-type-of-plastic-it-s-used-in-a-variety-of-products-from-plastic-bags-to-water-bottles-toys-and-even-bulletproof-vests-it-s-known-for-its-durability-and-flexibility {
+  text-align: justified;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 516px);
+  top: calc(50% - 422px);
+  width: 1127px;
+  height: 162px;
+}
+.metal-aluminum-is-a-common-metal-used-in-daily-life-it-s-found-in-kitchen-utensils-cans-foils-and-even-in-the-construction-of-airplanes-and-buildings-due-to-its-light-weight-and-resistance-to-corrosion-plastic-polyethylene-is-the-most-common-type-of-plastic-it-s-used-in-a-variety-of-products-from-plastic-bags-to-water-bottles-toys-and-even-bulletproof-vests-it-s-known-for-its-durability-and-flexibility-span {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 500;
+}
+.metal-aluminum-is-a-common-metal-used-in-daily-life-it-s-found-in-kitchen-utensils-cans-foils-and-even-in-the-construction-of-airplanes-and-buildings-due-to-its-light-weight-and-resistance-to-corrosion-plastic-polyethylene-is-the-most-common-type-of-plastic-it-s-used-in-a-variety-of-products-from-plastic-bags-to-water-bottles-toys-and-even-bulletproof-vests-it-s-known-for-its-durability-and-flexibility-span2 {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+}
+.metal-aluminum-is-a-common-metal-used-in-daily-life-it-s-found-in-kitchen-utensils-cans-foils-and-even-in-the-construction-of-airplanes-and-buildings-due-to-its-light-weight-and-resistance-to-corrosion-plastic-polyethylene-is-the-most-common-type-of-plastic-it-s-used-in-a-variety-of-products-from-plastic-bags-to-water-bottles-toys-and-even-bulletproof-vests-it-s-known-for-its-durability-and-flexibility-span3 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+}
+.metal-aluminum-is-a-common-metal-used-in-daily-life-it-s-found-in-kitchen-utensils-cans-foils-and-even-in-the-construction-of-airplanes-and-buildings-due-to-its-light-weight-and-resistance-to-corrosion-plastic-polyethylene-is-the-most-common-type-of-plastic-it-s-used-in-a-variety-of-products-from-plastic-bags-to-water-bottles-toys-and-even-bulletproof-vests-it-s-known-for-its-durability-and-flexibility-span4 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+}
+.metal-aluminum-is-a-common-metal-used-in-daily-life-it-s-found-in-kitchen-utensils-cans-foils-and-even-in-the-construction-of-airplanes-and-buildings-due-to-its-light-weight-and-resistance-to-corrosion-plastic-polyethylene-is-the-most-common-type-of-plastic-it-s-used-in-a-variety-of-products-from-plastic-bags-to-water-bottles-toys-and-even-bulletproof-vests-it-s-known-for-its-durability-and-flexibility-span5 {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 500;
+}
+.metal-aluminum-is-a-common-metal-used-in-daily-life-it-s-found-in-kitchen-utensils-cans-foils-and-even-in-the-construction-of-airplanes-and-buildings-due-to-its-light-weight-and-resistance-to-corrosion-plastic-polyethylene-is-the-most-common-type-of-plastic-it-s-used-in-a-variety-of-products-from-plastic-bags-to-water-bottles-toys-and-even-bulletproof-vests-it-s-known-for-its-durability-and-flexibility-span6 {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+}
+.metal-aluminum-is-a-common-metal-used-in-daily-life-it-s-found-in-kitchen-utensils-cans-foils-and-even-in-the-construction-of-airplanes-and-buildings-due-to-its-light-weight-and-resistance-to-corrosion-plastic-polyethylene-is-the-most-common-type-of-plastic-it-s-used-in-a-variety-of-products-from-plastic-bags-to-water-bottles-toys-and-even-bulletproof-vests-it-s-known-for-its-durability-and-flexibility-span7 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+}
+._1-common-materials-in-daily-life {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 530px);
+  top: calc(50% - 458px);
+  width: 695px;
+  height: 30px;
+}
+.graphene-this-is-a-new-material-that-is-a-single-layer-of-carbon-atoms-arranged-in-a-two-dimensional-honeycomb-lattice-it-s-known-for-its-exceptional-strength-electrical-conductivity-and-flexibility-self-healing-concrete-this-is-a-new-type-of-concrete-that-can-repair-its-own-cracks-it-contains-a-specific-type-of-bacteria-that-produces-limestone-when-activated-by-water-effectively-sealing-any-cracks-that-may-appear {
+  text-align: justified;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 516px);
+  top: calc(50% - 179px);
+  width: 1127px;
+  height: 155px;
+}
+.graphene-this-is-a-new-material-that-is-a-single-layer-of-carbon-atoms-arranged-in-a-two-dimensional-honeycomb-lattice-it-s-known-for-its-exceptional-strength-electrical-conductivity-and-flexibility-self-healing-concrete-this-is-a-new-type-of-concrete-that-can-repair-its-own-cracks-it-contains-a-specific-type-of-bacteria-that-produces-limestone-when-activated-by-water-effectively-sealing-any-cracks-that-may-appear-span {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+}
+.graphene-this-is-a-new-material-that-is-a-single-layer-of-carbon-atoms-arranged-in-a-two-dimensional-honeycomb-lattice-it-s-known-for-its-exceptional-strength-electrical-conductivity-and-flexibility-self-healing-concrete-this-is-a-new-type-of-concrete-that-can-repair-its-own-cracks-it-contains-a-specific-type-of-bacteria-that-produces-limestone-when-activated-by-water-effectively-sealing-any-cracks-that-may-appear-span2 {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 500;
+}
+.graphene-this-is-a-new-material-that-is-a-single-layer-of-carbon-atoms-arranged-in-a-two-dimensional-honeycomb-lattice-it-s-known-for-its-exceptional-strength-electrical-conductivity-and-flexibility-self-healing-concrete-this-is-a-new-type-of-concrete-that-can-repair-its-own-cracks-it-contains-a-specific-type-of-bacteria-that-produces-limestone-when-activated-by-water-effectively-sealing-any-cracks-that-may-appear-span3 {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+}
+.graphene-this-is-a-new-material-that-is-a-single-layer-of-carbon-atoms-arranged-in-a-two-dimensional-honeycomb-lattice-it-s-known-for-its-exceptional-strength-electrical-conductivity-and-flexibility-self-healing-concrete-this-is-a-new-type-of-concrete-that-can-repair-its-own-cracks-it-contains-a-specific-type-of-bacteria-that-produces-limestone-when-activated-by-water-effectively-sealing-any-cracks-that-may-appear-span4 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+}
+.graphene-this-is-a-new-material-that-is-a-single-layer-of-carbon-atoms-arranged-in-a-two-dimensional-honeycomb-lattice-it-s-known-for-its-exceptional-strength-electrical-conductivity-and-flexibility-self-healing-concrete-this-is-a-new-type-of-concrete-that-can-repair-its-own-cracks-it-contains-a-specific-type-of-bacteria-that-produces-limestone-when-activated-by-water-effectively-sealing-any-cracks-that-may-appear-span5 {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 500;
+}
+.graphene-this-is-a-new-material-that-is-a-single-layer-of-carbon-atoms-arranged-in-a-two-dimensional-honeycomb-lattice-it-s-known-for-its-exceptional-strength-electrical-conductivity-and-flexibility-self-healing-concrete-this-is-a-new-type-of-concrete-that-can-repair-its-own-cracks-it-contains-a-specific-type-of-bacteria-that-produces-limestone-when-activated-by-water-effectively-sealing-any-cracks-that-may-appear-span6 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+}
+.metal-aluminum-anodizing-is-a-common-post-processing-method-for-aluminum-it-increases-resistance-to-corrosion-and-wear-and-provides-better-adhesion-for-paint-primers-and-glues-plastic-polyethylene-injection-molding-is-a-common-post-processing-method-for-polyethylene-it-involves-heating-the-plastic-until-it-becomes-liquid-then-injecting-it-into-a-mold-where-it-cools-and-solidifies-wood-sanding-is-a-common-post-processing-method-for-wood-it-smooths-the-surface-of-the-wood-removing-any-imperfections-and-preparing-it-for-finishing-with-paint-or-varnish {
+  text-align: justified;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 516px);
+  top: calc(50% - -67px);
+  width: 1127px;
+  height: 194px;
+}
+.metal-aluminum-anodizing-is-a-common-post-processing-method-for-aluminum-it-increases-resistance-to-corrosion-and-wear-and-provides-better-adhesion-for-paint-primers-and-glues-plastic-polyethylene-injection-molding-is-a-common-post-processing-method-for-polyethylene-it-involves-heating-the-plastic-until-it-becomes-liquid-then-injecting-it-into-a-mold-where-it-cools-and-solidifies-wood-sanding-is-a-common-post-processing-method-for-wood-it-smooths-the-surface-of-the-wood-removing-any-imperfections-and-preparing-it-for-finishing-with-paint-or-varnish-span {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 500;
+}
+.metal-aluminum-anodizing-is-a-common-post-processing-method-for-aluminum-it-increases-resistance-to-corrosion-and-wear-and-provides-better-adhesion-for-paint-primers-and-glues-plastic-polyethylene-injection-molding-is-a-common-post-processing-method-for-polyethylene-it-involves-heating-the-plastic-until-it-becomes-liquid-then-injecting-it-into-a-mold-where-it-cools-and-solidifies-wood-sanding-is-a-common-post-processing-method-for-wood-it-smooths-the-surface-of-the-wood-removing-any-imperfections-and-preparing-it-for-finishing-with-paint-or-varnish-span2 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+}
+.metal-aluminum-anodizing-is-a-common-post-processing-method-for-aluminum-it-increases-resistance-to-corrosion-and-wear-and-provides-better-adhesion-for-paint-primers-and-glues-plastic-polyethylene-injection-molding-is-a-common-post-processing-method-for-polyethylene-it-involves-heating-the-plastic-until-it-becomes-liquid-then-injecting-it-into-a-mold-where-it-cools-and-solidifies-wood-sanding-is-a-common-post-processing-method-for-wood-it-smooths-the-surface-of-the-wood-removing-any-imperfections-and-preparing-it-for-finishing-with-paint-or-varnish-span3 {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 500;
+}
+.metal-aluminum-anodizing-is-a-common-post-processing-method-for-aluminum-it-increases-resistance-to-corrosion-and-wear-and-provides-better-adhesion-for-paint-primers-and-glues-plastic-polyethylene-injection-molding-is-a-common-post-processing-method-for-polyethylene-it-involves-heating-the-plastic-until-it-becomes-liquid-then-injecting-it-into-a-mold-where-it-cools-and-solidifies-wood-sanding-is-a-common-post-processing-method-for-wood-it-smooths-the-surface-of-the-wood-removing-any-imperfections-and-preparing-it-for-finishing-with-paint-or-varnish-span4 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+}
+._2-two-new-materials {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 530px);
+  top: calc(50% - 215px);
+  width: 695px;
+  height: 30px;
+}
+._3-post-processing-methods {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 522px);
+  top: calc(50% - -31px);
+  width: 695px;
+  height: 30px;
+}

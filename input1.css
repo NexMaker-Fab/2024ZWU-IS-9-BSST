@@ -1,10 +1,10 @@
-.input-output,
-.input-output * {
+.input,
+.input * {
   box-sizing: border-box;
 }
-.input-output {
+.input {
   background: #ffffff;
-  height: 9552px;
+  height: 8698px;
   position: relative;
   overflow: hidden;
 }
@@ -12,7 +12,7 @@
   width: 188.65px;
   height: 72.25px;
   position: absolute;
-  left: 90px;
+  left: 73px;
   top: 0px;
 }
 .rectangle-1 {
@@ -44,19 +44,19 @@
   align-items: center;
   justify-content: center;
 }
-.line-2 {
+.line-5 {
   border-style: solid;
   border-color: #000000;
   border-width: 1px 0 0 0;
   height: 0px;
   position: absolute;
-  right: 90.97px;
-  left: 90px;
+  right: 107.97px;
+  left: 73px;
   top: 72px;
   transform-origin: 0 0;
   transform: rotate(0deg) scale(1, 1);
 }
-.group-3 {
+.group-7 {
   position: absolute;
   inset: 0;
 }
@@ -68,7 +68,7 @@
   letter-spacing: 0.1em;
   font-weight: 600;
   position: absolute;
-  right: 908px;
+  right: 925px;
   top: 24px;
   width: 134px;
   height: 48px;
@@ -84,7 +84,7 @@
   letter-spacing: 0.1em;
   font-weight: 600;
   position: absolute;
-  right: 570px;
+  right: 587px;
   top: 24px;
   width: 361px;
   height: 48px;
@@ -100,7 +100,7 @@
   letter-spacing: 0.1em;
   font-weight: 600;
   position: absolute;
-  right: 279px;
+  right: 296px;
   top: 24px;
   width: 315px;
   height: 48px;
@@ -116,7 +116,7 @@
   letter-spacing: 0.1em;
   font-weight: 600;
   position: absolute;
-  right: 168px;
+  right: 185px;
   top: 24px;
   width: 134px;
   height: 48px;
@@ -132,7 +132,7 @@
   letter-spacing: 0.1em;
   font-weight: 600;
   position: absolute;
-  right: 57px;
+  right: 74px;
   top: 24px;
   width: 134px;
   height: 48px;
@@ -140,729 +140,11 @@
   align-items: center;
   justify-content: center;
 }
-.course-input-output {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 18px;
-  letter-spacing: 0.1em;
-  font-weight: 400;
-  position: absolute;
-  left: 112px;
-  top: 103px;
-  width: 270px;
-  height: 29px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.group-29 {
+.group-4 {
   position: absolute;
   inset: 0;
 }
-._1-class-practice-switch-controls-the-twin-lights {
-  color: #000000;
-  text-align: left;
-  font-family: "-", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 400;
-  position: absolute;
-  left: 151px;
-  top: 160px;
-  width: 695px;
-  height: 30px;
-}
-._1-class-practice-switch-controls-the-twin-lights-span {
-  color: #000000;
-  font-family: "Inter-SemiBold", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 600;
-}
-._1-class-practice-switch-controls-the-twin-lights-span2 {
-  color: #000000;
-  font-family: "Inter-Light", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 300;
-}
-._20240530111536-2 {
-  border-radius: 35px;
-  border-style: solid;
-  border-color: #000000;
-  border-width: 1px;
-  width: 955px;
-  height: 574px;
-  position: absolute;
-  left: calc(50% - 478px);
-  top: calc(50% - 4533px);
-  object-fit: cover;
-}
-._20240530111536-3 {
-  border-radius: 35px;
-  border-style: solid;
-  border-color: #000000;
-  border-width: 1px;
-  width: 955px;
-  height: 574px;
-  position: absolute;
-  left: calc(50% - 478px);
-  top: calc(50% - 3924px);
-  object-fit: cover;
-}
-.arduino-code {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-SemiBold", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 600;
-  position: absolute;
-  left: calc(50% - 449px);
-  top: calc(50% - 3301px);
-  width: 308.12px;
-  height: 26.08px;
-}
-.group-8 {
-  width: 955px;
-  height: 498px;
-  position: static;
-}
-.rectangle-2 {
-  border-radius: 0px;
-  width: 955px;
-  height: 498px;
-  position: absolute;
-  left: calc(50% - 478px);
-  top: calc(50% - 3275px);
-  overflow: visible;
-}
-.const-int-led-1-12-const-int-led-2-13-int-val-0-void-setup-pin-mode-led-1-output-pin-mode-led-2-output-pin-mode-7-input-void-loop-val-digital-read-7-if-val-high-digital-write-led-1-high-digital-write-led-2-low-else-digital-write-led-2-high-digital-write-led-1-low-delay-1000 {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 400;
-  position: absolute;
-  left: calc(50% - 449px);
-  top: calc(50% - 3255px);
-  width: 877px;
-  height: 478px;
-}
-.components-nano-board-led-lights-expansion-board-du-pont-line-implementation-effect-through-switch-control-achieve-interactive-changes-in-lighting {
-  color: #000000;
-  text-align: justified;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 20px;
-  line-height: 42px;
-  font-weight: 200;
-  position: absolute;
-  left: calc(50% - 478px);
-  top: calc(50% - 2759px);
-  width: 955px;
-  height: 107px;
-}
-.group-25 {
-  width: 1022px;
-  height: 2661px;
-  position: static;
-}
-._2-class-practice-ultrasonic-distance-light-interaction {
-  color: #000000;
-  text-align: left;
-  font-family: "-", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 400;
-  position: absolute;
-  left: 175px;
-  top: 2160px;
-  width: 695px;
-  height: 30px;
-}
-._2-class-practice-ultrasonic-distance-light-interaction-span {
-  color: #000000;
-  font-family: "Inter-SemiBold", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 600;
-}
-._2-class-practice-ultrasonic-distance-light-interaction-span2 {
-  color: #000000;
-  font-family: "Inter-Light", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 300;
-}
-._20240530111536-22 {
-  border-radius: 35px;
-  border-style: solid;
-  border-color: #000000;
-  border-width: 1px;
-  width: 955px;
-  height: 574px;
-  position: absolute;
-  left: calc(50% - 478px);
-  top: calc(50% - 2550px);
-  object-fit: cover;
-}
-._20240530111536-32 {
-  border-radius: 35px;
-  border-style: solid;
-  border-color: #000000;
-  border-width: 1px;
-  width: 955px;
-  height: 574px;
-  position: absolute;
-  left: calc(50% - 478px);
-  top: calc(50% - 1940px);
-  object-fit: cover;
-}
-.arduino-code2 {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-SemiBold", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 600;
-  position: absolute;
-  left: calc(50% - 449px);
-  top: calc(50% - 1330px);
-  width: 308.12px;
-  height: 26.08px;
-}
-.group-82 {
-  width: 955px;
-  height: 1197px;
-  position: static;
-}
-.rectangle-22 {
-  border-radius: 0px;
-  width: 955px;
-  height: 1197px;
-  position: absolute;
-  left: calc(50% - 478px);
-  top: calc(50% - 1304px);
-  overflow: visible;
-}
-.the-merged-code-controls-the-led-according-to-the-ultrasonic-detection-distance-define-the-pin-of-led-const-int-led-1-12-const-int-led-2-13-define-ultrasonic-sensor-pins-define-trig-pin-a-0-define-echo-pin-a-1-initialise-variables-int-val-0-variables-used-for-buttons-but-not-used-in-this-example-long-duration-int-threshold-distance-500-set-the-threshold-distance-500-mm-void-setup-set-the-led-pin-as-the-output-pin-mode-led-1-output-pin-mode-led-2-output-set-the-pin-of-the-ultrasonic-sensor-pin-mode-trig-pin-output-pin-mode-echo-pin-input-initialise-the-ultrasonic-sensor-pin-digital-write-trig-pin-low-delay-1-it-is-assumed-that-the-button-is-not-used-here-so-annotate-the-code-related-to-the-button-pin-mode-7-input-if-you-want-to-use-the-button-please-cancel-the-comment-void-loop-read-the-ultrasonic-distance-long-distance-get-distance-control-the-led-according-to-the-distance-if-distance-threshold-distance-digital-write-led-1-high-led-1-lights-up-when-the-distance-is-less-than-or-equal-to-the-threshold-digital-write-led-2-low-led-2-turns-off-else-digital-write-led-1-low-when-the-distance-is-greater-than-the-threshold-led-1-turns-off-digital-write-led-2-high-led-2-lights-up-send-the-distance-value-through-serial-communication-optional-serial-print-distance-serial-println-distance-delay-to-avoid-reading-and-sending-data-too-quickly-delay-1000-get-the-function-of-ultrasonic-distance-long-get-distance-send-an-ultrasonic-pulse-digital-write-trig-pin-low-delay-microseconds-2-digital-write-trig-pin-high-delay-microseconds-10-digital-write-trig-pin-low-read-the-echo-time-duration-pulse-in-echo-pin-high-unit-microseconds-calculate-the-distance-and-return-unit-millimetres-note-it-is-assumed-that-the-speed-of-sound-at-a-temperature-of-20-c-may-need-to-be-adjusted-in-actual-use-return-duration-0-0343-2-the-speed-of-ultrasound-in-20-c-air-is-about-343-m-s-that-is-0-0343-mm-us {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 400;
-  position: absolute;
-  left: calc(50% - 449px);
-  top: calc(50% - 1275.57px);
-  width: 877px;
-  height: 679.49px;
-}
-.components-nano-board-led-lights-expansion-board-du-pont-line-ultrasonic-sensor-implementation-effect-by-changing-the-distance-through-ultrasonic-information-the-light-can-be-fully-lit-with-one-led-lit-and-all-lights-turned-off {
-  text-align: justified;
-  font-family: "-", sans-serif;
-  font-size: 20px;
-  line-height: 42px;
-  font-weight: 400;
-  position: absolute;
-  left: calc(50% - 478px);
-  top: calc(50% - 89px);
-  width: 949px;
-  height: 134px;
-}
-.components-nano-board-led-lights-expansion-board-du-pont-line-ultrasonic-sensor-implementation-effect-by-changing-the-distance-through-ultrasonic-information-the-light-can-be-fully-lit-with-one-led-lit-and-all-lights-turned-off-span {
-  color: rgba(9, 51, 202, 0.78);
-  font-family: "Inter-Medium", sans-serif;
-  font-size: 20px;
-  line-height: 42px;
-  font-weight: 500;
-}
-.components-nano-board-led-lights-expansion-board-du-pont-line-ultrasonic-sensor-implementation-effect-by-changing-the-distance-through-ultrasonic-information-the-light-can-be-fully-lit-with-one-led-lit-and-all-lights-turned-off-span2 {
-  color: #000000;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 20px;
-  line-height: 42px;
-  font-weight: 200;
-}
-.components-nano-board-led-lights-expansion-board-du-pont-line-ultrasonic-sensor-implementation-effect-by-changing-the-distance-through-ultrasonic-information-the-light-can-be-fully-lit-with-one-led-lit-and-all-lights-turned-off-span3 {
-  color: rgba(9, 51, 202, 0.78);
-  font-family: "Inter-Medium", sans-serif;
-  font-size: 20px;
-  line-height: 42px;
-  font-weight: 500;
-}
-.components-nano-board-led-lights-expansion-board-du-pont-line-ultrasonic-sensor-implementation-effect-by-changing-the-distance-through-ultrasonic-information-the-light-can-be-fully-lit-with-one-led-lit-and-all-lights-turned-off-span4 {
-  color: #000000;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 20px;
-  line-height: 42px;
-  font-weight: 200;
-}
-._3-new-interactive-device-noise-display-screen {
-  color: #000000;
-  text-align: left;
-  font-family: "-", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 400;
-  position: absolute;
-  left: 151px;
-  top: 4872px;
-  width: 695px;
-  height: 30px;
-}
-._3-new-interactive-device-noise-display-screen-span {
-  color: #000000;
-  font-family: "Inter-SemiBold", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 600;
-}
-._3-new-interactive-device-noise-display-screen-span2 {
-  color: #000000;
-  font-family: "Inter-Light", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 300;
-}
-._3-new-interactive-device-noise-display-screen-span3 {
-  color: #000000;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 400;
-}
-._3-new-interactive-device-noise-display-screen-span4 {
-  color: #000000;
-  font-family: "Inter-Light", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 300;
-}
-._20240530111536-23 {
-  border-radius: 35px;
-  border-style: solid;
-  border-color: #000000;
-  border-width: 1px;
-  width: 955px;
-  height: 574px;
-  position: absolute;
-  left: calc(50% - 478px);
-  top: calc(50% - -145px);
-  object-fit: cover;
-}
-.arduino-code3 {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-SemiBold", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 600;
-  position: absolute;
-  left: calc(50% - 468px);
-  top: calc(50% - -755px);
-  width: 308.12px;
-  height: 26.08px;
-}
-.group-83 {
-  width: 955px;
-  height: 438px;
-  position: static;
-}
-.rectangle-23 {
-  border-radius: 0px;
-  width: 955px;
-  height: 438px;
-  position: absolute;
-  left: calc(50% - 478px);
-  top: calc(50% - -781px);
-  overflow: visible;
-}
-.include-spi-h-load-the-spi-library-include-wire-h-load-the-wire-library-include-adafruit-gfx-h-load-the-adafruit-gfx-library-include-adafruit-ssd-1306-h-load-the-adafruit-ssd-1306-library-define-the-resolution-of-oled-screens-adafruit-ssd-1306-display-adafruit-ssd-1306-128-64-wire-void-setup-serial-begin-9600-set-the-serial-port-baud-rate-serial-println-oled-feather-wing-test-serial-output-display-begin-ssd-1306-switchcapvcc-0-x-3-c-set-the-i-2-c-address-of-oled-display-clear-display-clear-screen-display-set-text-size-1-set-font-size-display-set-text-color-ssd-1306-white-set-font-color-display-set-cursor-0-0-set-the-coordinates-to-start-displaying-text-display-println-noise-output-characters-display-display-make-the-changed-display-effective-void-loop {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 400;
-  position: absolute;
-  left: calc(50% - 449px);
-  top: calc(50% - -809px);
-  width: 877px;
-  height: 386px;
-}
-.components-nano-board-expansion-board-du-pont-line-led-display-screen-sound-sensor-implementation-effect-display-the-data-from-the-sound-sensor-on-the-led-screen {
-  text-align: justified;
-  font-family: "-", sans-serif;
-  font-size: 20px;
-  line-height: 42px;
-  font-weight: 400;
-  position: absolute;
-  left: calc(50% - 468px);
-  top: calc(50% - -1255px);
-  width: 949px;
-  height: 134px;
-}
-.components-nano-board-expansion-board-du-pont-line-led-display-screen-sound-sensor-implementation-effect-display-the-data-from-the-sound-sensor-on-the-led-screen-span {
-  color: rgba(9, 51, 202, 0.78);
-  font-family: "Inter-Medium", sans-serif;
-  font-size: 20px;
-  line-height: 42px;
-  font-weight: 500;
-}
-.components-nano-board-expansion-board-du-pont-line-led-display-screen-sound-sensor-implementation-effect-display-the-data-from-the-sound-sensor-on-the-led-screen-span2 {
-  color: #000000;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 20px;
-  line-height: 42px;
-  font-weight: 200;
-}
-.components-nano-board-expansion-board-du-pont-line-led-display-screen-sound-sensor-implementation-effect-display-the-data-from-the-sound-sensor-on-the-led-screen-span3 {
-  color: rgba(9, 51, 202, 0.78);
-  font-family: "Inter-Medium", sans-serif;
-  font-size: 20px;
-  line-height: 42px;
-  font-weight: 500;
-}
-.components-nano-board-expansion-board-du-pont-line-led-display-screen-sound-sensor-implementation-effect-display-the-data-from-the-sound-sensor-on-the-led-screen-span4 {
-  color: #000000;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 20px;
-  line-height: 42px;
-  font-weight: 200;
-}
-.implementation-effect-input-noise-decibel-data-through-arduino-and-sound-sensor-and-then-pass-the-data-into-processing-through-the-serial-port-the-louder-the-noise-the-more-red-the-screen-colour-the-smaller-the-noise-the-greener-the-screen-colour {
-  text-align: justified;
-  font-family: "-", sans-serif;
-  font-size: 20px;
-  line-height: 42px;
-  font-weight: 400;
-  position: absolute;
-  left: calc(50% - 488px);
-  top: calc(50% - -4320px);
-  width: 949px;
-  height: 134px;
-}
-.implementation-effect-input-noise-decibel-data-through-arduino-and-sound-sensor-and-then-pass-the-data-into-processing-through-the-serial-port-the-louder-the-noise-the-more-red-the-screen-colour-the-smaller-the-noise-the-greener-the-screen-colour-span {
-  color: rgba(9, 51, 202, 0.78);
-  font-family: "Inter-Medium", sans-serif;
-  font-size: 20px;
-  line-height: 42px;
-  font-weight: 500;
-}
-.implementation-effect-input-noise-decibel-data-through-arduino-and-sound-sensor-and-then-pass-the-data-into-processing-through-the-serial-port-the-louder-the-noise-the-more-red-the-screen-colour-the-smaller-the-noise-the-greener-the-screen-colour-span2 {
-  color: #000000;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 20px;
-  line-height: 42px;
-  font-weight: 200;
-}
-.implementation-effect-input-noise-decibel-data-through-arduino-and-sound-sensor-and-then-pass-the-data-into-processing-through-the-serial-port-the-louder-the-noise-the-more-red-the-screen-colour-the-smaller-the-noise-the-greener-the-screen-colour-span3 {
-  color: #b70000;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 20px;
-  line-height: 42px;
-  font-weight: 400;
-}
-.implementation-effect-input-noise-decibel-data-through-arduino-and-sound-sensor-and-then-pass-the-data-into-processing-through-the-serial-port-the-louder-the-noise-the-more-red-the-screen-colour-the-smaller-the-noise-the-greener-the-screen-colour-span4 {
-  color: #000000;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 20px;
-  line-height: 42px;
-  font-weight: 200;
-}
-._4-classroom-practice-processing-diagonal-movement {
-  color: #000000;
-  text-align: left;
-  font-family: "-", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 400;
-  position: absolute;
-  left: 117px;
-  top: 6165px;
-  width: 695px;
-  height: 30px;
-}
-._4-classroom-practice-processing-diagonal-movement-span {
-  color: #000000;
-  font-family: "Inter-SemiBold", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 600;
-}
-._4-classroom-practice-processing-diagonal-movement-span2 {
-  color: #000000;
-  font-family: "Inter-Light", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 300;
-}
-._4-classroom-practice-processing-diagonal-movement-span3 {
-  color: #000000;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 400;
-}
-._4-classroom-practice-processing-diagonal-movement-span4 {
-  color: #000000;
-  font-family: "Inter-Light", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 300;
-}
-._5-processing-arduino-noise-control-color-change {
-  color: #000000;
-  text-align: left;
-  font-family: "-", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 400;
-  position: absolute;
-  left: 98px;
-  top: 8143px;
-  width: 695px;
-  height: 30px;
-}
-._5-processing-arduino-noise-control-color-change-span {
-  color: #000000;
-  font-family: "Inter-SemiBold", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 600;
-}
-._5-processing-arduino-noise-control-color-change-span2 {
-  color: #000000;
-  font-family: "Inter-Light", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 300;
-}
-._5-processing-arduino-noise-control-color-change-span3 {
-  color: #000000;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 400;
-}
-._5-processing-arduino-noise-control-color-change-span4 {
-  color: #000000;
-  font-family: "Inter-Light", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 300;
-}
-._20240530111536-4 {
-  border-radius: 35px;
-  border-style: solid;
-  border-color: #000000;
-  border-width: 1px;
-  width: 955px;
-  height: 574px;
-  position: absolute;
-  left: calc(50% - 488px);
-  top: calc(50% - -1443px);
-  object-fit: cover;
-}
-._20240530111536-5 {
-  border-radius: 35px;
-  border-style: solid;
-  border-color: #000000;
-  border-width: 1px;
-  width: 955px;
-  height: 574px;
-  position: absolute;
-  left: calc(50% - 488px);
-  top: calc(50% - -2044px);
-  object-fit: cover;
-}
-.arduino-code4 {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-SemiBold", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 600;
-  position: absolute;
-  left: calc(50% - 459px);
-  top: calc(50% - -2645px);
-  width: 308.12px;
-  height: 26.08px;
-}
-.group-26 {
-  width: 955px;
-  height: 549px;
-  position: static;
-}
-.rectangle-24 {
-  border-radius: 0px;
-  width: 955px;
-  height: 549px;
-  position: absolute;
-  left: calc(50% - 488px);
-  top: calc(50% - -2671px);
-  overflow: visible;
-}
-.int-y-360-float-x-640-initialise-x-to-screen-width-void-setup-size-640-360-set-the-canvas-size-to-640-x-360-stroke-255-set-the-line-colour-to-white-void-draw-background-0-clear-the-background-and-set-it-to-black-line-0-y-width-y-draw-a-horizontal-line-from-the-left-edge-to-the-right-edge-y-y-1-move-down-the-position-of-the-horizontal-line-if-y-0-if-y-is-less-than-0-that-is-it-has-been-moved-out-of-the-screen-y-height-reset-y-to-the-bottom-of-the-screen-x-width-reset-x-to-the-right-side-of-the-screen-at-the-same-time-if-y-0-only-draw-vertical-lines-when-y-is-still-on-the-screen-line-x-0-x-height-draw-a-vertical-line-from-the-top-to-the-bottom-x-y-width-height-move-the-position-of-the-vertical-line-to-the-left-if-x-0-if-x-is-less-than-0-i-e-has-been-removed-from-the-screen-x-width-reset-x-to-the-right-side-of-the-screen {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 400;
-  position: absolute;
-  left: calc(50% - 459px);
-  top: calc(50% - -2699px);
-  width: 877px;
-  height: 386px;
-}
-.arduino-code5 {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-SemiBold", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 600;
-  position: absolute;
-  left: calc(50% - 468px);
-  top: calc(50% - -3424px);
-  width: 308.12px;
-  height: 26.08px;
-}
-.group-27 {
-  width: 955px;
-  height: 247px;
-  position: static;
-}
-.rectangle-25 {
-  border-radius: 0px;
-  width: 955px;
-  height: 247px;
-  position: absolute;
-  left: calc(50% - 497px);
-  top: calc(50% - -3450px);
-  overflow: visible;
-}
-.void-setup-serial-begin-9600-initialise-serial-communication-with-a-baud-rate-of-9600-void-loop-int-noise-value-analogue-read-a-0-read-the-value-of-the-noise-detector-assuming-that-it-is-connected-in-a-0-serial-println-noise-value-send-noise-value-to-serial-port-delay-10-delay-a-little-to-prevent-data-from-being-sent-too-fast {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 400;
-  position: absolute;
-  left: calc(50% - 468px);
-  top: calc(50% - -3478px);
-  width: 877px;
-  height: 219px;
-}
-.processing-code {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-SemiBold", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 600;
-  position: absolute;
-  left: calc(50% - 468px);
-  top: calc(50% - -3724px);
-  width: 308.12px;
-  height: 26.08px;
-}
-.group-28 {
-  width: 955px;
-  height: 543px;
-  position: static;
-}
-.rectangle-26 {
-  border-radius: 0px;
-  width: 955px;
-  height: 543px;
-  position: absolute;
-  left: calc(50% - 497px);
-  top: calc(50% - -3750px);
-  overflow: visible;
-}
-.import-processing-serial-serial-my-port-serial-port-object-int-noise-value-0-read-the-noise-value-void-setup-size-800-600-set-the-canvas-size-string-port-name-serial-list-0-get-the-first-useable-serial-port-my-port-new-serial-this-port-name-9600-initialise-the-serial-port-with-a-baud-rate-of-9600-my-port-buffer-until-n-set-the-buffer-until-a-line-break-is-encountered-background-255-initialise-the-canvas-colour-to-white-void-draw-if-my-port-available-0-check-if-there-is-any-available-data-string-in-data-my-port-read-string-until-n-read-the-data-until-the-line-break-is-encountered-noise-value-integer-parse-int-in-data-convert-the-read-string-to-an-integer-calculate-the-colour-according-to-the-noise-value-int-red-map-noise-value-0-1023-255-0-assume-that-the-range-of-the-noise-detector-is-0-1023-mapped-to-red-0-255-int-green-map-1023-noise-value-0-1023-255-0-the-smaller-the-noise-the-deeper-the-green-int-blue-0-keep-blue-at-0-set-the-background-colour-background-red-green-blue {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 400;
-  position: absolute;
-  left: calc(50% - 468px);
-  top: calc(50% - -3778px);
-  width: 877px;
-  height: 219px;
-}
-.implementation-effect-it-realises-the-movement-of-the-two-lines-from-the-bottom-right-to-the-top-left-and-the-intersection-of-the-two-lines-has-always-been-diagonally {
-  text-align: justified;
-  font-family: "-", sans-serif;
-  font-size: 20px;
-  line-height: 42px;
-  font-weight: 400;
-  position: absolute;
-  left: calc(50% - 488px);
-  top: calc(50% - -3233px);
-  width: 949px;
-  height: 134px;
-}
-.implementation-effect-it-realises-the-movement-of-the-two-lines-from-the-bottom-right-to-the-top-left-and-the-intersection-of-the-two-lines-has-always-been-diagonally-span {
-  color: rgba(9, 51, 202, 0.78);
-  font-family: "Inter-Medium", sans-serif;
-  font-size: 20px;
-  line-height: 42px;
-  font-weight: 500;
-}
-.implementation-effect-it-realises-the-movement-of-the-two-lines-from-the-bottom-right-to-the-top-left-and-the-intersection-of-the-two-lines-has-always-been-diagonally-span2 {
-  color: #000000;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 20px;
-  line-height: 42px;
-  font-weight: 200;
-}
-.group-13 {
-  position: absolute;
-  inset: 0;
-}
-.line-22 {
+.line-2 {
   border-style: solid;
   border-color: #000000;
   border-width: 1px 0 0 0;
@@ -903,4 +185,1793 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+.group-55 {
+  position: absolute;
+  inset: 0;
+}
+.group-54 {
+  width: 1122px;
+  height: 8454px;
+  position: static;
+}
+.the-name-of-the-project-is-to-build-a-tall-weathercloud-weather-station-in-ardiuno-advantages-using-the-ardiuno-nano-board-which-is-the-same-as-the-board-used-in-the-previous-hardware-class-it-is-better-for-us-to-learn-to-use-and-operate-disadvantages-at-present-the-hardware-knowledge-is-relatively-small-and-a-lot-of-learning-and-practice-are-still-needed-at-the-same-time-the-project-was-just-a-meteorological-device-and-we-needed-to-integrate-it-with-our-thematic-climate-action-and-as-art-and-technology-students-we-needed-a-more-aesthetically-pleasing-and-thought-provoking-design-solution {
+  text-align: justified;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 512px);
+  top: calc(50% - -3833px);
+  width: 1045px;
+  height: 394px;
+}
+.the-name-of-the-project-is-to-build-a-tall-weathercloud-weather-station-in-ardiuno-advantages-using-the-ardiuno-nano-board-which-is-the-same-as-the-board-used-in-the-previous-hardware-class-it-is-better-for-us-to-learn-to-use-and-operate-disadvantages-at-present-the-hardware-knowledge-is-relatively-small-and-a-lot-of-learning-and-practice-are-still-needed-at-the-same-time-the-project-was-just-a-meteorological-device-and-we-needed-to-integrate-it-with-our-thematic-climate-action-and-as-art-and-technology-students-we-needed-a-more-aesthetically-pleasing-and-thought-provoking-design-solution-span {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 200;
+}
+.the-name-of-the-project-is-to-build-a-tall-weathercloud-weather-station-in-ardiuno-advantages-using-the-ardiuno-nano-board-which-is-the-same-as-the-board-used-in-the-previous-hardware-class-it-is-better-for-us-to-learn-to-use-and-operate-disadvantages-at-present-the-hardware-knowledge-is-relatively-small-and-a-lot-of-learning-and-practice-are-still-needed-at-the-same-time-the-project-was-just-a-meteorological-device-and-we-needed-to-integrate-it-with-our-thematic-climate-action-and-as-art-and-technology-students-we-needed-a-more-aesthetically-pleasing-and-thought-provoking-design-solution-span2 {
+  color: var(--color, rgba(9, 51, 202, 0.78));
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+}
+.the-name-of-the-project-is-to-build-a-tall-weathercloud-weather-station-in-ardiuno-advantages-using-the-ardiuno-nano-board-which-is-the-same-as-the-board-used-in-the-previous-hardware-class-it-is-better-for-us-to-learn-to-use-and-operate-disadvantages-at-present-the-hardware-knowledge-is-relatively-small-and-a-lot-of-learning-and-practice-are-still-needed-at-the-same-time-the-project-was-just-a-meteorological-device-and-we-needed-to-integrate-it-with-our-thematic-climate-action-and-as-art-and-technology-students-we-needed-a-more-aesthetically-pleasing-and-thought-provoking-design-solution-span3 {
+  color: var(--color, rgba(9, 51, 202, 0.78));
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 200;
+}
+.the-name-of-the-project-is-to-build-a-tall-weathercloud-weather-station-in-ardiuno-advantages-using-the-ardiuno-nano-board-which-is-the-same-as-the-board-used-in-the-previous-hardware-class-it-is-better-for-us-to-learn-to-use-and-operate-disadvantages-at-present-the-hardware-knowledge-is-relatively-small-and-a-lot-of-learning-and-practice-are-still-needed-at-the-same-time-the-project-was-just-a-meteorological-device-and-we-needed-to-integrate-it-with-our-thematic-climate-action-and-as-art-and-technology-students-we-needed-a-more-aesthetically-pleasing-and-thought-provoking-design-solution-span4 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 200;
+}
+.the-name-of-the-project-is-to-build-a-tall-weathercloud-weather-station-in-ardiuno-advantages-using-the-ardiuno-nano-board-which-is-the-same-as-the-board-used-in-the-previous-hardware-class-it-is-better-for-us-to-learn-to-use-and-operate-disadvantages-at-present-the-hardware-knowledge-is-relatively-small-and-a-lot-of-learning-and-practice-are-still-needed-at-the-same-time-the-project-was-just-a-meteorological-device-and-we-needed-to-integrate-it-with-our-thematic-climate-action-and-as-art-and-technology-students-we-needed-a-more-aesthetically-pleasing-and-thought-provoking-design-solution-span5 {
+  color: var(--color, rgba(9, 51, 202, 0.78));
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+}
+.the-name-of-the-project-is-to-build-a-tall-weathercloud-weather-station-in-ardiuno-advantages-using-the-ardiuno-nano-board-which-is-the-same-as-the-board-used-in-the-previous-hardware-class-it-is-better-for-us-to-learn-to-use-and-operate-disadvantages-at-present-the-hardware-knowledge-is-relatively-small-and-a-lot-of-learning-and-practice-are-still-needed-at-the-same-time-the-project-was-just-a-meteorological-device-and-we-needed-to-integrate-it-with-our-thematic-climate-action-and-as-art-and-technology-students-we-needed-a-more-aesthetically-pleasing-and-thought-provoking-design-solution-span6 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 200;
+}
+.group-51 {
+  width: 1122px;
+  height: 8017px;
+  position: static;
+}
+.course-arduino-basic-input {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 578px);
+  top: calc(50% - 4227px);
+  width: 459px;
+  height: 29px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._3-some-open-source-projects {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 535px);
+  top: calc(50% - -1067px);
+  width: 695px;
+  height: 30px;
+}
+.image {
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1064px;
+  height: 632px;
+  position: absolute;
+  left: calc(50% - 531px);
+  top: calc(50% - -1129px);
+  object-fit: cover;
+}
+.image2 {
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1064px;
+  height: 632px;
+  position: absolute;
+  left: calc(50% - 531px);
+  top: calc(50% - -1793px);
+  object-fit: cover;
+}
+.image3 {
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1064px;
+  height: 634px;
+  position: absolute;
+  left: calc(50% - 531px);
+  top: calc(50% - -2474px);
+  object-fit: cover;
+}
+.image4 {
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1064px;
+  height: 633px;
+  position: absolute;
+  left: calc(50% - 531px);
+  top: calc(50% - -3157px);
+  object-fit: cover;
+}
+._1-noise-input-detection {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 578px);
+  top: calc(50% - 2118px);
+  width: 695px;
+  height: 30px;
+}
+.objective-collect-the-current-real-time-ambient-sound-through-the-sound-sensor-and-convert-it-into-digital-information-to-realize-the-detection-of-sound-decibels {
+  color: var(--color, rgba(9, 51, 202, 0.78));
+  text-align: justified;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 510px);
+  top: calc(50% - 2069px);
+  width: 1053px;
+  height: 60px;
+}
+._20240530111536-5 {
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 510px);
+  top: calc(50% - 1960px);
+  object-fit: cover;
+}
+.group-37 {
+  width: 1064px;
+  height: 709px;
+  position: static;
+}
+.effect-display {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 508.89px);
+  top: calc(50% - -93px);
+  width: 342.54px;
+  height: 26px;
+}
+._20240530111536-6 {
+  border-radius: 35px;
+  width: 1064px;
+  height: 683px;
+  position: absolute;
+  left: calc(50% - 520px);
+  top: calc(50% - -119px);
+  object-fit: cover;
+}
+.circuit-diagram-connection {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 510px);
+  top: calc(50% - 1986px);
+  width: 339px;
+  height: 26px;
+}
+.arduino-code {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 510px);
+  top: calc(50% - 1334px);
+  width: 339px;
+  height: 26px;
+}
+.group-41 {
+  width: 1122px;
+  height: 5086px;
+  position: static;
+}
+._1-introduction-to-the-open-source-website {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 578px);
+  top: calc(50% - 4164px);
+  width: 695px;
+  height: 30px;
+}
+.raspberry-pi-official-website-provides-hardware-information-documents-resources-and-projects-of-raspberry-pi-single-board-computers-website-www-raspberrypi-org {
+  text-align: justified;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 510px);
+  top: calc(50% - 4115px);
+  width: 1053px;
+  height: 83px;
+}
+.raspberry-pi-official-website-provides-hardware-information-documents-resources-and-projects-of-raspberry-pi-single-board-computers-website-www-raspberrypi-org-span {
+  color: #000000;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+}
+.raspberry-pi-official-website-provides-hardware-information-documents-resources-and-projects-of-raspberry-pi-single-board-computers-website-www-raspberrypi-org-span2 {
+  color: var(--color, rgba(9, 51, 202, 0.78));
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+}
+.raspberry-pi-official-website-provides-hardware-information-documents-resources-and-projects-of-raspberry-pi-single-board-computers-website-www-raspberrypi-org-span3 {
+  color: var(--color, rgba(9, 51, 202, 0.78));
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  text-decoration: underline;
+}
+.https-m-tb-cn-h-g-v-hg-98-tt-psa-1-xz-l-tk-k-9-mq-wdks-8-c-d-cz-3458-2-42-oled-128-64-spi-iic-ssd-1309 {
+  color: var(--color, rgba(9, 51, 202, 0.78));
+  text-align: justified;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 520px);
+  top: calc(50% - -839px);
+  width: 1053px;
+  height: 83px;
+}
+.main-content-product-information-raspberry-pi-official-website-provides-detailed-information-about-various-raspberry-pi-board-computers-including-technical-specifications-function-introduction-performance-parameters-etc-educational-resources-the-official-website-provides-educators-students-and-enthusiasts-with-rich-educational-resources-including-teaching-guides-curriculum-plans-project-examples-etc-to-help-them-use-raspberry-pi-for-programming-and-electronic-experiments-community-forum-the-official-website-has-a-community-forum-for-users-to-exchange-experience-share-projects-and-solve-problems-this-is-an-active-community-that-brings-together-raspberry-pi-lovers-from-all-over-the-world-news-and-activities-the-official-website-regularly-publishes-news-and-activity-information-related-to-raspberry-pi-including-product-releases-technical-updates-competition-events-etc-so-that-users-can-keep-abreast-of-the-latest-developments-store-there-is-an-official-store-on-the-official-website-where-users-can-buy-raspberry-pie-board-computers-and-accessories-which-is-convenient-and-fast-documentation-and-support-the-official-website-provides-detailed-documentation-and-technical-support-to-help-users-understand-how-to-use-raspberry-pi-solve-common-problems-and-carry-out-project-development-and-creation-the-official-website-of-raspberry-pi-is-the-core-platform-of-the-raspberry-pi-community-which-provides-users-with-comprehensive-resources-and-support-and-promotes-the-application-and-development-of-raspberry-pi-in-the-fields-of-education-maker-and-internet-of-things {
+  color: #000000;
+  text-align: justified;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 509px);
+  top: calc(50% - 2787px);
+  width: 1053px;
+  height: 580px;
+}
+.main-content-product-information-raspberry-pi-official-website-provides-detailed-information-about-various-raspberry-pi-board-computers-including-technical-specifications-function-introduction-performance-parameters-etc-educational-resources-the-official-website-provides-educators-students-and-enthusiasts-with-rich-educational-resources-including-teaching-guides-curriculum-plans-project-examples-etc-to-help-them-use-raspberry-pi-for-programming-and-electronic-experiments-community-forum-the-official-website-has-a-community-forum-for-users-to-exchange-experience-share-projects-and-solve-problems-this-is-an-active-community-that-brings-together-raspberry-pi-lovers-from-all-over-the-world-news-and-activities-the-official-website-regularly-publishes-news-and-activity-information-related-to-raspberry-pi-including-product-releases-technical-updates-competition-events-etc-so-that-users-can-keep-abreast-of-the-latest-developments-store-there-is-an-official-store-on-the-official-website-where-users-can-buy-raspberry-pie-board-computers-and-accessories-which-is-convenient-and-fast-documentation-and-support-the-official-website-provides-detailed-documentation-and-technical-support-to-help-users-understand-how-to-use-raspberry-pi-solve-common-problems-and-carry-out-project-development-and-creation-the-official-website-of-raspberry-pi-is-the-core-platform-of-the-raspberry-pi-community-which-provides-users-with-comprehensive-resources-and-support-and-promotes-the-application-and-development-of-raspberry-pi-in-the-fields-of-education-maker-and-internet-of-things-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.main-content-product-information-raspberry-pi-official-website-provides-detailed-information-about-various-raspberry-pi-board-computers-including-technical-specifications-function-introduction-performance-parameters-etc-educational-resources-the-official-website-provides-educators-students-and-enthusiasts-with-rich-educational-resources-including-teaching-guides-curriculum-plans-project-examples-etc-to-help-them-use-raspberry-pi-for-programming-and-electronic-experiments-community-forum-the-official-website-has-a-community-forum-for-users-to-exchange-experience-share-projects-and-solve-problems-this-is-an-active-community-that-brings-together-raspberry-pi-lovers-from-all-over-the-world-news-and-activities-the-official-website-regularly-publishes-news-and-activity-information-related-to-raspberry-pi-including-product-releases-technical-updates-competition-events-etc-so-that-users-can-keep-abreast-of-the-latest-developments-store-there-is-an-official-store-on-the-official-website-where-users-can-buy-raspberry-pie-board-computers-and-accessories-which-is-convenient-and-fast-documentation-and-support-the-official-website-provides-detailed-documentation-and-technical-support-to-help-users-understand-how-to-use-raspberry-pi-solve-common-problems-and-carry-out-project-development-and-creation-the-official-website-of-raspberry-pi-is-the-core-platform-of-the-raspberry-pi-community-which-provides-users-with-comprehensive-resources-and-support-and-promotes-the-application-and-development-of-raspberry-pi-in-the-fields-of-education-maker-and-internet-of-things-span2 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 200;
+}
+.main-content-product-information-raspberry-pi-official-website-provides-detailed-information-about-various-raspberry-pi-board-computers-including-technical-specifications-function-introduction-performance-parameters-etc-educational-resources-the-official-website-provides-educators-students-and-enthusiasts-with-rich-educational-resources-including-teaching-guides-curriculum-plans-project-examples-etc-to-help-them-use-raspberry-pi-for-programming-and-electronic-experiments-community-forum-the-official-website-has-a-community-forum-for-users-to-exchange-experience-share-projects-and-solve-problems-this-is-an-active-community-that-brings-together-raspberry-pi-lovers-from-all-over-the-world-news-and-activities-the-official-website-regularly-publishes-news-and-activity-information-related-to-raspberry-pi-including-product-releases-technical-updates-competition-events-etc-so-that-users-can-keep-abreast-of-the-latest-developments-store-there-is-an-official-store-on-the-official-website-where-users-can-buy-raspberry-pie-board-computers-and-accessories-which-is-convenient-and-fast-documentation-and-support-the-official-website-provides-detailed-documentation-and-technical-support-to-help-users-understand-how-to-use-raspberry-pi-solve-common-problems-and-carry-out-project-development-and-creation-the-official-website-of-raspberry-pi-is-the-core-platform-of-the-raspberry-pi-community-which-provides-users-with-comprehensive-resources-and-support-and-promotes-the-application-and-development-of-raspberry-pi-in-the-fields-of-education-maker-and-internet-of-things-span3 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.main-content-product-information-raspberry-pi-official-website-provides-detailed-information-about-various-raspberry-pi-board-computers-including-technical-specifications-function-introduction-performance-parameters-etc-educational-resources-the-official-website-provides-educators-students-and-enthusiasts-with-rich-educational-resources-including-teaching-guides-curriculum-plans-project-examples-etc-to-help-them-use-raspberry-pi-for-programming-and-electronic-experiments-community-forum-the-official-website-has-a-community-forum-for-users-to-exchange-experience-share-projects-and-solve-problems-this-is-an-active-community-that-brings-together-raspberry-pi-lovers-from-all-over-the-world-news-and-activities-the-official-website-regularly-publishes-news-and-activity-information-related-to-raspberry-pi-including-product-releases-technical-updates-competition-events-etc-so-that-users-can-keep-abreast-of-the-latest-developments-store-there-is-an-official-store-on-the-official-website-where-users-can-buy-raspberry-pie-board-computers-and-accessories-which-is-convenient-and-fast-documentation-and-support-the-official-website-provides-detailed-documentation-and-technical-support-to-help-users-understand-how-to-use-raspberry-pi-solve-common-problems-and-carry-out-project-development-and-creation-the-official-website-of-raspberry-pi-is-the-core-platform-of-the-raspberry-pi-community-which-provides-users-with-comprehensive-resources-and-support-and-promotes-the-application-and-development-of-raspberry-pi-in-the-fields-of-education-maker-and-internet-of-things-span4 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 200;
+}
+.main-content-product-information-raspberry-pi-official-website-provides-detailed-information-about-various-raspberry-pi-board-computers-including-technical-specifications-function-introduction-performance-parameters-etc-educational-resources-the-official-website-provides-educators-students-and-enthusiasts-with-rich-educational-resources-including-teaching-guides-curriculum-plans-project-examples-etc-to-help-them-use-raspberry-pi-for-programming-and-electronic-experiments-community-forum-the-official-website-has-a-community-forum-for-users-to-exchange-experience-share-projects-and-solve-problems-this-is-an-active-community-that-brings-together-raspberry-pi-lovers-from-all-over-the-world-news-and-activities-the-official-website-regularly-publishes-news-and-activity-information-related-to-raspberry-pi-including-product-releases-technical-updates-competition-events-etc-so-that-users-can-keep-abreast-of-the-latest-developments-store-there-is-an-official-store-on-the-official-website-where-users-can-buy-raspberry-pie-board-computers-and-accessories-which-is-convenient-and-fast-documentation-and-support-the-official-website-provides-detailed-documentation-and-technical-support-to-help-users-understand-how-to-use-raspberry-pi-solve-common-problems-and-carry-out-project-development-and-creation-the-official-website-of-raspberry-pi-is-the-core-platform-of-the-raspberry-pi-community-which-provides-users-with-comprehensive-resources-and-support-and-promotes-the-application-and-development-of-raspberry-pi-in-the-fields-of-education-maker-and-internet-of-things-span5 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.main-content-product-information-raspberry-pi-official-website-provides-detailed-information-about-various-raspberry-pi-board-computers-including-technical-specifications-function-introduction-performance-parameters-etc-educational-resources-the-official-website-provides-educators-students-and-enthusiasts-with-rich-educational-resources-including-teaching-guides-curriculum-plans-project-examples-etc-to-help-them-use-raspberry-pi-for-programming-and-electronic-experiments-community-forum-the-official-website-has-a-community-forum-for-users-to-exchange-experience-share-projects-and-solve-problems-this-is-an-active-community-that-brings-together-raspberry-pi-lovers-from-all-over-the-world-news-and-activities-the-official-website-regularly-publishes-news-and-activity-information-related-to-raspberry-pi-including-product-releases-technical-updates-competition-events-etc-so-that-users-can-keep-abreast-of-the-latest-developments-store-there-is-an-official-store-on-the-official-website-where-users-can-buy-raspberry-pie-board-computers-and-accessories-which-is-convenient-and-fast-documentation-and-support-the-official-website-provides-detailed-documentation-and-technical-support-to-help-users-understand-how-to-use-raspberry-pi-solve-common-problems-and-carry-out-project-development-and-creation-the-official-website-of-raspberry-pi-is-the-core-platform-of-the-raspberry-pi-community-which-provides-users-with-comprehensive-resources-and-support-and-promotes-the-application-and-development-of-raspberry-pi-in-the-fields-of-education-maker-and-internet-of-things-span6 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 200;
+}
+.main-content-product-information-raspberry-pi-official-website-provides-detailed-information-about-various-raspberry-pi-board-computers-including-technical-specifications-function-introduction-performance-parameters-etc-educational-resources-the-official-website-provides-educators-students-and-enthusiasts-with-rich-educational-resources-including-teaching-guides-curriculum-plans-project-examples-etc-to-help-them-use-raspberry-pi-for-programming-and-electronic-experiments-community-forum-the-official-website-has-a-community-forum-for-users-to-exchange-experience-share-projects-and-solve-problems-this-is-an-active-community-that-brings-together-raspberry-pi-lovers-from-all-over-the-world-news-and-activities-the-official-website-regularly-publishes-news-and-activity-information-related-to-raspberry-pi-including-product-releases-technical-updates-competition-events-etc-so-that-users-can-keep-abreast-of-the-latest-developments-store-there-is-an-official-store-on-the-official-website-where-users-can-buy-raspberry-pie-board-computers-and-accessories-which-is-convenient-and-fast-documentation-and-support-the-official-website-provides-detailed-documentation-and-technical-support-to-help-users-understand-how-to-use-raspberry-pi-solve-common-problems-and-carry-out-project-development-and-creation-the-official-website-of-raspberry-pi-is-the-core-platform-of-the-raspberry-pi-community-which-provides-users-with-comprehensive-resources-and-support-and-promotes-the-application-and-development-of-raspberry-pi-in-the-fields-of-education-maker-and-internet-of-things-span7 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.main-content-product-information-raspberry-pi-official-website-provides-detailed-information-about-various-raspberry-pi-board-computers-including-technical-specifications-function-introduction-performance-parameters-etc-educational-resources-the-official-website-provides-educators-students-and-enthusiasts-with-rich-educational-resources-including-teaching-guides-curriculum-plans-project-examples-etc-to-help-them-use-raspberry-pi-for-programming-and-electronic-experiments-community-forum-the-official-website-has-a-community-forum-for-users-to-exchange-experience-share-projects-and-solve-problems-this-is-an-active-community-that-brings-together-raspberry-pi-lovers-from-all-over-the-world-news-and-activities-the-official-website-regularly-publishes-news-and-activity-information-related-to-raspberry-pi-including-product-releases-technical-updates-competition-events-etc-so-that-users-can-keep-abreast-of-the-latest-developments-store-there-is-an-official-store-on-the-official-website-where-users-can-buy-raspberry-pie-board-computers-and-accessories-which-is-convenient-and-fast-documentation-and-support-the-official-website-provides-detailed-documentation-and-technical-support-to-help-users-understand-how-to-use-raspberry-pi-solve-common-problems-and-carry-out-project-development-and-creation-the-official-website-of-raspberry-pi-is-the-core-platform-of-the-raspberry-pi-community-which-provides-users-with-comprehensive-resources-and-support-and-promotes-the-application-and-development-of-raspberry-pi-in-the-fields-of-education-maker-and-internet-of-things-span8 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 200;
+}
+.main-content-product-information-raspberry-pi-official-website-provides-detailed-information-about-various-raspberry-pi-board-computers-including-technical-specifications-function-introduction-performance-parameters-etc-educational-resources-the-official-website-provides-educators-students-and-enthusiasts-with-rich-educational-resources-including-teaching-guides-curriculum-plans-project-examples-etc-to-help-them-use-raspberry-pi-for-programming-and-electronic-experiments-community-forum-the-official-website-has-a-community-forum-for-users-to-exchange-experience-share-projects-and-solve-problems-this-is-an-active-community-that-brings-together-raspberry-pi-lovers-from-all-over-the-world-news-and-activities-the-official-website-regularly-publishes-news-and-activity-information-related-to-raspberry-pi-including-product-releases-technical-updates-competition-events-etc-so-that-users-can-keep-abreast-of-the-latest-developments-store-there-is-an-official-store-on-the-official-website-where-users-can-buy-raspberry-pie-board-computers-and-accessories-which-is-convenient-and-fast-documentation-and-support-the-official-website-provides-detailed-documentation-and-technical-support-to-help-users-understand-how-to-use-raspberry-pi-solve-common-problems-and-carry-out-project-development-and-creation-the-official-website-of-raspberry-pi-is-the-core-platform-of-the-raspberry-pi-community-which-provides-users-with-comprehensive-resources-and-support-and-promotes-the-application-and-development-of-raspberry-pi-in-the-fields-of-education-maker-and-internet-of-things-span9 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.main-content-product-information-raspberry-pi-official-website-provides-detailed-information-about-various-raspberry-pi-board-computers-including-technical-specifications-function-introduction-performance-parameters-etc-educational-resources-the-official-website-provides-educators-students-and-enthusiasts-with-rich-educational-resources-including-teaching-guides-curriculum-plans-project-examples-etc-to-help-them-use-raspberry-pi-for-programming-and-electronic-experiments-community-forum-the-official-website-has-a-community-forum-for-users-to-exchange-experience-share-projects-and-solve-problems-this-is-an-active-community-that-brings-together-raspberry-pi-lovers-from-all-over-the-world-news-and-activities-the-official-website-regularly-publishes-news-and-activity-information-related-to-raspberry-pi-including-product-releases-technical-updates-competition-events-etc-so-that-users-can-keep-abreast-of-the-latest-developments-store-there-is-an-official-store-on-the-official-website-where-users-can-buy-raspberry-pie-board-computers-and-accessories-which-is-convenient-and-fast-documentation-and-support-the-official-website-provides-detailed-documentation-and-technical-support-to-help-users-understand-how-to-use-raspberry-pi-solve-common-problems-and-carry-out-project-development-and-creation-the-official-website-of-raspberry-pi-is-the-core-platform-of-the-raspberry-pi-community-which-provides-users-with-comprehensive-resources-and-support-and-promotes-the-application-and-development-of-raspberry-pi-in-the-fields-of-education-maker-and-internet-of-things-span10 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 200;
+}
+.main-content-product-information-raspberry-pi-official-website-provides-detailed-information-about-various-raspberry-pi-board-computers-including-technical-specifications-function-introduction-performance-parameters-etc-educational-resources-the-official-website-provides-educators-students-and-enthusiasts-with-rich-educational-resources-including-teaching-guides-curriculum-plans-project-examples-etc-to-help-them-use-raspberry-pi-for-programming-and-electronic-experiments-community-forum-the-official-website-has-a-community-forum-for-users-to-exchange-experience-share-projects-and-solve-problems-this-is-an-active-community-that-brings-together-raspberry-pi-lovers-from-all-over-the-world-news-and-activities-the-official-website-regularly-publishes-news-and-activity-information-related-to-raspberry-pi-including-product-releases-technical-updates-competition-events-etc-so-that-users-can-keep-abreast-of-the-latest-developments-store-there-is-an-official-store-on-the-official-website-where-users-can-buy-raspberry-pie-board-computers-and-accessories-which-is-convenient-and-fast-documentation-and-support-the-official-website-provides-detailed-documentation-and-technical-support-to-help-users-understand-how-to-use-raspberry-pi-solve-common-problems-and-carry-out-project-development-and-creation-the-official-website-of-raspberry-pi-is-the-core-platform-of-the-raspberry-pi-community-which-provides-users-with-comprehensive-resources-and-support-and-promotes-the-application-and-development-of-raspberry-pi-in-the-fields-of-education-maker-and-internet-of-things-span11 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.main-content-product-information-raspberry-pi-official-website-provides-detailed-information-about-various-raspberry-pi-board-computers-including-technical-specifications-function-introduction-performance-parameters-etc-educational-resources-the-official-website-provides-educators-students-and-enthusiasts-with-rich-educational-resources-including-teaching-guides-curriculum-plans-project-examples-etc-to-help-them-use-raspberry-pi-for-programming-and-electronic-experiments-community-forum-the-official-website-has-a-community-forum-for-users-to-exchange-experience-share-projects-and-solve-problems-this-is-an-active-community-that-brings-together-raspberry-pi-lovers-from-all-over-the-world-news-and-activities-the-official-website-regularly-publishes-news-and-activity-information-related-to-raspberry-pi-including-product-releases-technical-updates-competition-events-etc-so-that-users-can-keep-abreast-of-the-latest-developments-store-there-is-an-official-store-on-the-official-website-where-users-can-buy-raspberry-pie-board-computers-and-accessories-which-is-convenient-and-fast-documentation-and-support-the-official-website-provides-detailed-documentation-and-technical-support-to-help-users-understand-how-to-use-raspberry-pi-solve-common-problems-and-carry-out-project-development-and-creation-the-official-website-of-raspberry-pi-is-the-core-platform-of-the-raspberry-pi-community-which-provides-users-with-comprehensive-resources-and-support-and-promotes-the-application-and-development-of-raspberry-pi-in-the-fields-of-education-maker-and-internet-of-things-span12 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 200;
+}
+.main-content-product-information-raspberry-pi-official-website-provides-detailed-information-about-various-raspberry-pi-board-computers-including-technical-specifications-function-introduction-performance-parameters-etc-educational-resources-the-official-website-provides-educators-students-and-enthusiasts-with-rich-educational-resources-including-teaching-guides-curriculum-plans-project-examples-etc-to-help-them-use-raspberry-pi-for-programming-and-electronic-experiments-community-forum-the-official-website-has-a-community-forum-for-users-to-exchange-experience-share-projects-and-solve-problems-this-is-an-active-community-that-brings-together-raspberry-pi-lovers-from-all-over-the-world-news-and-activities-the-official-website-regularly-publishes-news-and-activity-information-related-to-raspberry-pi-including-product-releases-technical-updates-competition-events-etc-so-that-users-can-keep-abreast-of-the-latest-developments-store-there-is-an-official-store-on-the-official-website-where-users-can-buy-raspberry-pie-board-computers-and-accessories-which-is-convenient-and-fast-documentation-and-support-the-official-website-provides-detailed-documentation-and-technical-support-to-help-users-understand-how-to-use-raspberry-pi-solve-common-problems-and-carry-out-project-development-and-creation-the-official-website-of-raspberry-pi-is-the-core-platform-of-the-raspberry-pi-community-which-provides-users-with-comprehensive-resources-and-support-and-promotes-the-application-and-development-of-raspberry-pi-in-the-fields-of-education-maker-and-internet-of-things-span13 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.main-content-product-information-raspberry-pi-official-website-provides-detailed-information-about-various-raspberry-pi-board-computers-including-technical-specifications-function-introduction-performance-parameters-etc-educational-resources-the-official-website-provides-educators-students-and-enthusiasts-with-rich-educational-resources-including-teaching-guides-curriculum-plans-project-examples-etc-to-help-them-use-raspberry-pi-for-programming-and-electronic-experiments-community-forum-the-official-website-has-a-community-forum-for-users-to-exchange-experience-share-projects-and-solve-problems-this-is-an-active-community-that-brings-together-raspberry-pi-lovers-from-all-over-the-world-news-and-activities-the-official-website-regularly-publishes-news-and-activity-information-related-to-raspberry-pi-including-product-releases-technical-updates-competition-events-etc-so-that-users-can-keep-abreast-of-the-latest-developments-store-there-is-an-official-store-on-the-official-website-where-users-can-buy-raspberry-pie-board-computers-and-accessories-which-is-convenient-and-fast-documentation-and-support-the-official-website-provides-detailed-documentation-and-technical-support-to-help-users-understand-how-to-use-raspberry-pi-solve-common-problems-and-carry-out-project-development-and-creation-the-official-website-of-raspberry-pi-is-the-core-platform-of-the-raspberry-pi-community-which-provides-users-with-comprehensive-resources-and-support-and-promotes-the-application-and-development-of-raspberry-pi-in-the-fields-of-education-maker-and-internet-of-things-span14 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 200;
+}
+._20240530111536-52 {
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 510px);
+  top: calc(50% - 4021px);
+  object-fit: cover;
+}
+._20240530111536-62 {
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 510px);
+  top: calc(50% - 3404px);
+  object-fit: cover;
+}
+.code-snippet-wrapper {
+  background: #24292e;
+  padding: 10px;
+  height: 1305px;
+  position: absolute;
+  right: 176px;
+  left: 211px;
+  top: calc(50% - 1276px);
+  overflow: hidden;
+}
+.code-line-numbers {
+  color: rgba(225, 228, 232, 0.3);
+  text-align: right;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 10px;
+  top: 10px;
+}
+.code-snippet {
+  text-align: left;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 47px;
+  top: 10px;
+}
+.code-snippet-span {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span2 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span3 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span4 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span5 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span6 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span7 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span8 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span9 {
+  color: #000000;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span10 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span11 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span12 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span13 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span14 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span15 {
+  color: #6a737d;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span16 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span17 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span18 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span19 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span20 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span21 {
+  color: #6a737d;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span22 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span23 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span24 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span25 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span26 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span27 {
+  color: #6a737d;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span28 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span29 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span30 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span31 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span32 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span33 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span34 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span35 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span36 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span37 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span38 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span39 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span40 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span41 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span42 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span43 {
+  color: #000000;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span44 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span45 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span46 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span47 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span48 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span49 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span50 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span51 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span52 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span53 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span54 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span55 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span56 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span57 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span58 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span59 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span60 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span61 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span62 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span63 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span64 {
+  color: #9ecbff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span65 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span66 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span67 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span68 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span69 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span70 {
+  color: #6a737d;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span71 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span72 {
+  color: #6a737d;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span73 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span74 {
+  color: #6a737d;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span75 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span76 {
+  color: #6a737d;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span77 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span78 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span79 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span80 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span81 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span82 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span83 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span84 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span85 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span86 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span87 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span88 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span89 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span90 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span91 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span92 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span93 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span94 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span95 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span96 {
+  color: #9ecbff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span97 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span98 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span99 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span100 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span101 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span102 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span103 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span104 {
+  color: #000000;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span105 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span106 {
+  color: #000000;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span107 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span108 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span109 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span110 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span111 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span112 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span113 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span114 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span115 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span116 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span117 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span118 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span119 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span120 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span121 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span122 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span123 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span124 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span125 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span126 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span127 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span128 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span129 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span130 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span131 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span132 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span133 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span134 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span135 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span136 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span137 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span138 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span139 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span140 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span141 {
+  color: #f97583;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span142 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span143 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span144 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span145 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span146 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span147 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span148 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span149 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span150 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span151 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span152 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span153 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span154 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span155 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span156 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span157 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span158 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span159 {
+  color: #9ecbff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span160 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span161 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span162 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span163 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span164 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span165 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span166 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span167 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span168 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span169 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span170 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span171 {
+  color: #9ecbff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span172 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span173 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span174 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span175 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span176 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span177 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span178 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span179 {
+  color: #9ecbff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span180 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span181 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span182 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span183 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span184 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span185 {
+  color: #b392f0;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span186 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span187 {
+  color: #79b8ff;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-snippet-span188 {
+  color: #e1e4e8;
+  font-family: "AzeretMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
 }

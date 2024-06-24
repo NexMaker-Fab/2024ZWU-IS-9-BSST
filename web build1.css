@@ -13,6 +13,7 @@
   inset: 0;
 }
 .line-2 {
+  margin-top: -1px;
   border-style: solid;
   border-color: #000000;
   border-width: 1px 0 0 0;
@@ -91,6 +92,7 @@
   justify-content: center;
 }
 .line-4 {
+  margin-top: -1px;
   border-style: solid;
   border-color: #000000;
   border-width: 1px 0 0 0;

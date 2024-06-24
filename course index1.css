@@ -120,11 +120,28 @@
   align-items: center;
   justify-content: flex-start;
 }
+.cnc {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 461px);
+  top: calc(50% - -223px);
+  width: 511px;
+  height: 43px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
 .group-4 {
   position: absolute;
   inset: 0;
 }
 .line-2 {
+  margin-top: -1px;
   border-style: solid;
   border-color: #000000;
   border-width: 1px 0 0 0;
@@ -203,6 +220,7 @@
   justify-content: center;
 }
 .line-3 {
+  margin-top: -1px;
   border-style: solid;
   border-color: #000000;
   border-width: 1px 0 0 0;

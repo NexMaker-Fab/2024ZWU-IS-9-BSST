@@ -61,6 +61,7 @@
   justify-content: center;
 }
 .line-5 {
+  margin-top: -1px;
   border-style: solid;
   border-color: #000000;
   border-width: 1px 0 0 0;
@@ -161,6 +162,7 @@
   inset: 0;
 }
 .line-2 {
+  margin-top: -1px;
   border-style: solid;
   border-color: #000000;
   border-width: 1px 0 0 0;
@@ -278,6 +280,7 @@
   position: absolute;
   left: calc(50% - 552px);
   top: calc(50% - 1092px);
+  object-fit: cover;
 }
 .circuit-diagram-connection {
   color: #000000;
@@ -391,6 +394,7 @@
   position: absolute;
   left: calc(50% - 573px);
   top: calc(50% - -1808px);
+  object-fit: cover;
 }
 .circuit-diagram-connection2 {
   color: #000000;

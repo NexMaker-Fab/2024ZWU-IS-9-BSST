@@ -4,7 +4,7 @@
 }
 ._3-d-printing {
   background: #ffffff;
-  height: 11627px;
+  height: 14776px;
   position: relative;
   overflow: hidden;
 }
@@ -45,6 +45,7 @@
   justify-content: center;
 }
 .line-2 {
+  margin-top: -1px;
   border-style: solid;
   border-color: #000000;
   border-width: 1px 0 0 0;
@@ -145,6 +146,7 @@
   inset: 0;
 }
 .line-22 {
+  margin-top: -1px;
   border-style: solid;
   border-color: #000000;
   border-width: 1px 0 0 0;
@@ -186,7 +188,7 @@
   align-items: center;
   justify-content: center;
 }
-.course-3-d-printing {
+.course-3-d-printing-cnc {
   color: #000000;
   text-align: left;
   font-family: "Inter-Regular", sans-serif;
@@ -194,19 +196,76 @@
   letter-spacing: 0.1em;
   font-weight: 400;
   position: absolute;
-  left: calc(50% - 580px);
-  top: calc(50% - 5711.5px);
+  left: calc(50% - 630px);
+  top: calc(50% - 8397px);
   width: 400px;
   height: 24.18px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
 }
-.group-63 {
+.refrence-http-pfxbzlx-gdvdc-com-cn-10-3969-j-issn-1674-8468-2023-04-014 {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 430px);
+  top: calc(50% - -6068px);
+  width: 791px;
+  height: 67px;
+}
+.refrence-http-pfxbzlx-gdvdc-com-cn-10-3969-j-issn-1674-8468-2023-04-014-span {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+}
+.refrence-http-pfxbzlx-gdvdc-com-cn-10-3969-j-issn-1674-8468-2023-04-014-span2 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+}
+.refrence-http-pfxbzlx-gdvdc-com-cn-10-3969-j-issn-1674-8468-2023-04-014-span3 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+  text-decoration: underline;
+}
+.new-application-new-technology-about-material-machine-new-paper {
+  color: rgba(9, 51, 202, 0.78);
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 564px);
+  top: calc(50% - 6482px);
+  width: 821px;
+  height: 23px;
+}
+.group-58 {
   position: absolute;
   inset: 0;
 }
-._3-d-printing-technology-also-known-as-additive-manufacturing-is-a-technique-of-manufacturing-three-dimensional-objects-by-stacking-materials-layer-by-layer-the-emergence-and-development-of-this-technology-have-a-rich-historical-background-early-development-the-origin-of-3-d-printing-technology-can-be-traced-back-to-the-1980-s-in-1984-american-inventor-charles-hull-proposed-the-concept-of-stereo-printing-and-obtained-a-patent-for-stereo-printing-in-1986-his-invention-is-regarded-as-the-origin-of-3-d-printing-technology-technological-progress-in-the-1990-s-with-the-development-of-computer-technology-and-materials-science-3-d-printing-technology-also-made-significant-progress-people-have-started-using-computer-aided-design-cad-software-to-create-3-d-models-and-using-3-d-printers-to-convert-these-models-into-solid-objects-commercial-application-in-the-early-21st-century-3-d-printing-technology-began-to-be-widely-applied-in-various-fields-including-medical-aerospace-automotive-construction-etc-for-example-doctors-can-use-3-d-printing-technology-to-manufacture-customized-prosthetics-and-human-organs-while-engineers-can-use-3-d-printing-technology-to-manufacture-complex-mechanical-parts-and-building-structures-popularization-trend-in-recent-years-with-the-continuous-improvement-and-cost-reduction-of-3-d-printing-technology-this-technology-is-increasingly-entering-the-lives-of-ordinary-consumers-people-can-use-3-d-printers-to-create-various-items-at-home-from-toys-accessories-to-household-items-etc-overall-the-emergence-and-development-of-3-d-printing-technology-is-the-result-of-technological-progress-and-innovative-spirit-and-it-is-changing-our-production-and-lifestyle {
+.group-56 {
+  width: 1127px;
+  height: 167px;
+  position: static;
+}
+.printing-has-significant-application-potential-in-the-field-of-skin-repair-researchers-can-maximize-skin-activity-and-other-natural-properties-by-integrating-different-extracellular-matrices-into-skin-3-d-printing-technology-thereby-achieving-effective-repair-of-damaged-skin-and-fusion-with-normal-skin-in-addition-for-patients-with-severe-skin-burns-caused-by-fires-3-d-printing-technology-can-quickly-and-accurately-print-materials-containing-skin-cells-construct-biomimetic-skin-structures-thereby-shortening-the-treatment-cycle-and-reducing-postoperative-scars {
   color: #000000;
   text-align: justified;
   font-family: "Inter-ExtraLight", sans-serif;
@@ -214,19 +273,58 @@
   line-height: 39px;
   font-weight: 200;
   position: absolute;
-  left: calc(50% - 554px);
-  top: calc(50% - 5606.27px);
+  left: calc(50% - 564px);
+  top: calc(50% - -4331px);
   width: 1127px;
-  height: 539.95px;
+  height: 167px;
 }
-._3-d-printing-technology-also-known-as-additive-manufacturing-is-a-technique-of-manufacturing-three-dimensional-objects-by-stacking-materials-layer-by-layer-the-emergence-and-development-of-this-technology-have-a-rich-historical-background-early-development-the-origin-of-3-d-printing-technology-can-be-traced-back-to-the-1980-s-in-1984-american-inventor-charles-hull-proposed-the-concept-of-stereo-printing-and-obtained-a-patent-for-stereo-printing-in-1986-his-invention-is-regarded-as-the-origin-of-3-d-printing-technology-technological-progress-in-the-1990-s-with-the-development-of-computer-technology-and-materials-science-3-d-printing-technology-also-made-significant-progress-people-have-started-using-computer-aided-design-cad-software-to-create-3-d-models-and-using-3-d-printers-to-convert-these-models-into-solid-objects-commercial-application-in-the-early-21st-century-3-d-printing-technology-began-to-be-widely-applied-in-various-fields-including-medical-aerospace-automotive-construction-etc-for-example-doctors-can-use-3-d-printing-technology-to-manufacture-customized-prosthetics-and-human-organs-while-engineers-can-use-3-d-printing-technology-to-manufacture-complex-mechanical-parts-and-building-structures-popularization-trend-in-recent-years-with-the-continuous-improvement-and-cost-reduction-of-3-d-printing-technology-this-technology-is-increasingly-entering-the-lives-of-ordinary-consumers-people-can-use-3-d-printers-to-create-various-items-at-home-from-toys-accessories-to-household-items-etc-overall-the-emergence-and-development-of-3-d-printing-technology-is-the-result-of-technological-progress-and-innovative-spirit-and-it-is-changing-our-production-and-lifestyle-span {
-  color: #000000;
-  font-family: "Inter-ExtraLight", sans-serif;
+.e-40-c-710-fa-25906-e-7-fa-8-ad-6-c-4833-dfcc-1 {
+  border-radius: 39px;
+  width: 622px;
+  height: 296px;
+  position: absolute;
+  left: calc(50% - 572px);
+  top: calc(50% - -4544px);
+  object-fit: cover;
+}
+._32888934544-b-7-a-6-def-144-fa-90203062-1 {
+  border-radius: 38px;
+  width: 530px;
+  height: 309px;
+  position: absolute;
+  left: calc(50% - -61px);
+  top: calc(50% - -4537px);
+  object-fit: cover;
+}
+.e-9-de-7-f-173539-d-1-e-7-ce-1812-fbab-35004-1 {
+  border-radius: 46px;
+  width: 755px;
+  height: 466px;
+  position: absolute;
+  left: calc(50% - 394px);
+  top: calc(50% - -5549px);
+  object-fit: cover;
+}
+.application-of-in-situ-skin-bioprinting-in-situ-skin-bioprinting-utilizes-inkjet-bioprinting-technology-which-uses-handheld-devices-or-robot-automation-systems-to-directly-print-cell-filled-bioprinting-onto-the-human-wound-site-6-this-bioprinting-method-can-print-concentrated-skin-cell-suspensions-onto-wounds-to-accelerate-their-healing-hakimi-et-al-14-developed-a-handheld-3-d-in-situ-bioprinter-that-can-be-directly-printed-in-mouse-and-pig-wound-models-with-cells-forming-skin-patches-in-situ-on-the-wound-albanna-et-al-6-used-portable-inkjet-bioprinters-and-laser-bioprinters-to-print-high-density-suspensions-of-human-fibroblasts-and-keratinocytes-onto-full-thickness-skin-excised-wounds-in-experimental-mice-using-fibrin-collagen-bioprinters-the-skin-structure-printed-on-the-wound-retains-a-high-cell-density-and-for-up-to-6-weeks-after-printing-human-cells-can-also-be-observed-in-the-tissue-compared-to-untreated-and-cell-free-grafts-direct-in-situ-skin-3-d-bioprinting-therapy-leads-to-faster-wound-healing-skardal-et-al-7-also-evaluated-the-role-of-stem-cell-derived-seed-cells-in-wound-healing-by-using-a-robotic-inkjet-bioprinter-to-directly-print-amniotic-fluid-derived-stem-cells-afsc-and-fibrin-collagen-bioprinters-carrying-bone-marrow-mesenchymal-stem-cells-bm-ms-cs-onto-the-wounds-of-mice-undergoing-full-layer-skin-resection-compared-with-the-pure-gel-control-group-the-mice-treated-with-afs-cs-and-bm-ms-cs-had-faster-wound-closure-and-epidermal-formation-in-another-experiment-to-regulate-paracrine-activity-at-the-wound-site-skardal-et-al-7-printed-heparin-coupled-hyaluronic-acid-hydrogel-containing-afs-cs-directly-on-the-wound-of-full-thickness-skin-resection-the-hydrogel-can-isolate-the-cytokines-secreted-by-afsc-in-situ-extend-paracrine-activity-and-make-the-full-thickness-wound-faster-closed-and-vascularized-the-main-advantage-of-in-situ-bioprinting-is-the-ability-to-layer-cell-ink-based-on-the-precise-shape-of-the-wound-making-it-particularly-suitable-for-treating-irregularly {
+  text-align: justified;
+  font-family: "-", sans-serif;
   font-size: 16px;
   line-height: 39px;
-  font-weight: 200;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 558px);
+  top: calc(50% - -4899px);
+  width: 1127px;
+  height: 597px;
 }
-._3-d-printing-technology-also-known-as-additive-manufacturing-is-a-technique-of-manufacturing-three-dimensional-objects-by-stacking-materials-layer-by-layer-the-emergence-and-development-of-this-technology-have-a-rich-historical-background-early-development-the-origin-of-3-d-printing-technology-can-be-traced-back-to-the-1980-s-in-1984-american-inventor-charles-hull-proposed-the-concept-of-stereo-printing-and-obtained-a-patent-for-stereo-printing-in-1986-his-invention-is-regarded-as-the-origin-of-3-d-printing-technology-technological-progress-in-the-1990-s-with-the-development-of-computer-technology-and-materials-science-3-d-printing-technology-also-made-significant-progress-people-have-started-using-computer-aided-design-cad-software-to-create-3-d-models-and-using-3-d-printers-to-convert-these-models-into-solid-objects-commercial-application-in-the-early-21st-century-3-d-printing-technology-began-to-be-widely-applied-in-various-fields-including-medical-aerospace-automotive-construction-etc-for-example-doctors-can-use-3-d-printing-technology-to-manufacture-customized-prosthetics-and-human-organs-while-engineers-can-use-3-d-printing-technology-to-manufacture-complex-mechanical-parts-and-building-structures-popularization-trend-in-recent-years-with-the-continuous-improvement-and-cost-reduction-of-3-d-printing-technology-this-technology-is-increasingly-entering-the-lives-of-ordinary-consumers-people-can-use-3-d-printers-to-create-various-items-at-home-from-toys-accessories-to-household-items-etc-overall-the-emergence-and-development-of-3-d-printing-technology-is-the-result-of-technological-progress-and-innovative-spirit-and-it-is-changing-our-production-and-lifestyle-span2 {
+.application-of-in-situ-skin-bioprinting-in-situ-skin-bioprinting-utilizes-inkjet-bioprinting-technology-which-uses-handheld-devices-or-robot-automation-systems-to-directly-print-cell-filled-bioprinting-onto-the-human-wound-site-6-this-bioprinting-method-can-print-concentrated-skin-cell-suspensions-onto-wounds-to-accelerate-their-healing-hakimi-et-al-14-developed-a-handheld-3-d-in-situ-bioprinter-that-can-be-directly-printed-in-mouse-and-pig-wound-models-with-cells-forming-skin-patches-in-situ-on-the-wound-albanna-et-al-6-used-portable-inkjet-bioprinters-and-laser-bioprinters-to-print-high-density-suspensions-of-human-fibroblasts-and-keratinocytes-onto-full-thickness-skin-excised-wounds-in-experimental-mice-using-fibrin-collagen-bioprinters-the-skin-structure-printed-on-the-wound-retains-a-high-cell-density-and-for-up-to-6-weeks-after-printing-human-cells-can-also-be-observed-in-the-tissue-compared-to-untreated-and-cell-free-grafts-direct-in-situ-skin-3-d-bioprinting-therapy-leads-to-faster-wound-healing-skardal-et-al-7-also-evaluated-the-role-of-stem-cell-derived-seed-cells-in-wound-healing-by-using-a-robotic-inkjet-bioprinter-to-directly-print-amniotic-fluid-derived-stem-cells-afsc-and-fibrin-collagen-bioprinters-carrying-bone-marrow-mesenchymal-stem-cells-bm-ms-cs-onto-the-wounds-of-mice-undergoing-full-layer-skin-resection-compared-with-the-pure-gel-control-group-the-mice-treated-with-afs-cs-and-bm-ms-cs-had-faster-wound-closure-and-epidermal-formation-in-another-experiment-to-regulate-paracrine-activity-at-the-wound-site-skardal-et-al-7-printed-heparin-coupled-hyaluronic-acid-hydrogel-containing-afs-cs-directly-on-the-wound-of-full-thickness-skin-resection-the-hydrogel-can-isolate-the-cytokines-secreted-by-afsc-in-situ-extend-paracrine-activity-and-make-the-full-thickness-wound-faster-closed-and-vascularized-the-main-advantage-of-in-situ-bioprinting-is-the-ability-to-layer-cell-ink-based-on-the-precise-shape-of-the-wound-making-it-particularly-suitable-for-treating-irregularly-span {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 500;
+}
+.application-of-in-situ-skin-bioprinting-in-situ-skin-bioprinting-utilizes-inkjet-bioprinting-technology-which-uses-handheld-devices-or-robot-automation-systems-to-directly-print-cell-filled-bioprinting-onto-the-human-wound-site-6-this-bioprinting-method-can-print-concentrated-skin-cell-suspensions-onto-wounds-to-accelerate-their-healing-hakimi-et-al-14-developed-a-handheld-3-d-in-situ-bioprinter-that-can-be-directly-printed-in-mouse-and-pig-wound-models-with-cells-forming-skin-patches-in-situ-on-the-wound-albanna-et-al-6-used-portable-inkjet-bioprinters-and-laser-bioprinters-to-print-high-density-suspensions-of-human-fibroblasts-and-keratinocytes-onto-full-thickness-skin-excised-wounds-in-experimental-mice-using-fibrin-collagen-bioprinters-the-skin-structure-printed-on-the-wound-retains-a-high-cell-density-and-for-up-to-6-weeks-after-printing-human-cells-can-also-be-observed-in-the-tissue-compared-to-untreated-and-cell-free-grafts-direct-in-situ-skin-3-d-bioprinting-therapy-leads-to-faster-wound-healing-skardal-et-al-7-also-evaluated-the-role-of-stem-cell-derived-seed-cells-in-wound-healing-by-using-a-robotic-inkjet-bioprinter-to-directly-print-amniotic-fluid-derived-stem-cells-afsc-and-fibrin-collagen-bioprinters-carrying-bone-marrow-mesenchymal-stem-cells-bm-ms-cs-onto-the-wounds-of-mice-undergoing-full-layer-skin-resection-compared-with-the-pure-gel-control-group-the-mice-treated-with-afs-cs-and-bm-ms-cs-had-faster-wound-closure-and-epidermal-formation-in-another-experiment-to-regulate-paracrine-activity-at-the-wound-site-skardal-et-al-7-printed-heparin-coupled-hyaluronic-acid-hydrogel-containing-afs-cs-directly-on-the-wound-of-full-thickness-skin-resection-the-hydrogel-can-isolate-the-cytokines-secreted-by-afsc-in-situ-extend-paracrine-activity-and-make-the-full-thickness-wound-faster-closed-and-vascularized-the-main-advantage-of-in-situ-bioprinting-is-the-ability-to-layer-cell-ink-based-on-the-precise-shape-of-the-wound-making-it-particularly-suitable-for-treating-irregularly-span2 {
   color: #000000;
   list-style-type: decimal;
   padding-left: 1em;
@@ -234,6 +332,19 @@
   font-size: 16px;
   line-height: 39px;
   font-weight: 200;
+}
+._3-d-printing-also-known-as-stereoscopic-printing-or-additive-manufacturing-is-a-technology-that-manufactures-physical-parts-based-on-3-d-cad-data-through-the-method-of-layer-by-layer-material-accumulation-the-core-principle-of-this-technique-is-to-add-materials-layer-by-layer-transforming-the-digital-design-into-a-physical-object {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 564px);
+  top: calc(50% - 7174px);
+  width: 1127px;
+  height: 125px;
 }
 ._1-3-d-printer-background {
   color: #000000;
@@ -244,80 +355,19 @@
   letter-spacing: 0.05em;
   font-weight: 600;
   position: absolute;
-  left: calc(50% - 568px);
-  top: calc(50% - 5636.5px);
+  left: calc(50% - 564px);
+  top: calc(50% - 7211px);
   width: 695px;
   height: 25.02px;
 }
-.new-application-new-technology-about-material-machine-new-paper {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Light", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 300;
-  position: absolute;
-  left: calc(50% - 554px);
-  top: calc(50% - 5006.55px);
-  width: 821px;
-  height: 25.02px;
-}
-.group-58 {
-  width: 1127px;
-  height: 516px;
-  position: static;
-}
-.group-56 {
-  width: 1127px;
-  height: 516px;
-  position: static;
-}
-.new-applications-3-d-printing-has-been-widely-used-in-various-fields-including-healthcare-aerospace-architecture-education-etc-for-example-in-the-medical-field-3-d-printing-technology-is-used-to-manufacture-customized-prosthetics-teeth-and-human-organs-in-the-field-of-architecture-3-d-printing-technology-is-used-to-manufacture-models-and-actual-building-structures-new-technology-in-3-d-printing-technology-there-is-a-new-technology-called-selective-laser-melting-slm-slm-is-a-3-d-printing-technology-that-uses-a-high-power-laser-beam-to-melt-metal-powder-into-a-solid-which-can-manufacture-metal-parts-with-complex-shapes-and-high-strength-new-materials-in-terms-of-3-d-printing-materials-there-is-a-new-type-of-material-called-biomaterials-biomaterials-are-materials-that-can-be-accepted-and-utilized-by-living-organisms-such-as-cell-inks-that-can-be-used-to-manufacture-human-organs-the-emergence-of-this-material-has-opened-up-new-possibilities-for-3-d-printing-in-the-medical-field-new-machine-in-terms-of-3-d-printing-machines-there-is-a-new-type-of-machine-called-a-multi-material-3-d-printer-this-type-of-machine-can-use-multiple-different-materials-in-the-same-printing-process-to-create-composite-objects-with-multiple-properties-and-functions-5-new-paper-in-terms-of-3-d-printing-paper-there-is-a-new-type-of-paper-called-3-d-printing-paper-this-type-of-paper-is-a-special-type-of-paper-that-can-be-used-by-3-d-printers-to-create-three-dimensional-objects-by-stacking-and-bonding-them-layer-by-layer-the-emergence-of-this-type-of-paper-provides-a-new-low-cost-material-choice-for-3-d-printing {
-  color: #000000;
-  text-align: justified;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 200;
-  position: absolute;
-  left: calc(50% - 554px);
-  top: calc(50% - 4955.69px);
-  width: 1127px;
-  height: 516px;
-}
-.group-64 {
-  position: absolute;
-  inset: 0;
-}
-._3-d-printing-technology-also-known-as-additive-manufacturing-is-a-technique-of-manufacturing-three-dimensional-objects-by-stacking-materials-layer-by-layer-the-emergence-and-development-of-this-technology-have-a-rich-historical-background-early-development-the-origin-of-3-d-printing-technology-can-be-traced-back-to-the-1980-s-in-1984-american-inventor-charles-hull-proposed-the-concept-of-stereo-printing-and-obtained-a-patent-for-stereo-printing-in-1986-his-invention-is-regarded-as-the-origin-of-3-d-printing-technology-technological-progress-in-the-1990-s-with-the-development-of-computer-technology-and-materials-science-3-d-printing-technology-also-made-significant-progress-people-have-started-using-computer-aided-design-cad-software-to-create-3-d-models-and-using-3-d-printers-to-convert-these-models-into-solid-objects-commercial-application-in-the-early-21st-century-3-d-printing-technology-began-to-be-widely-applied-in-various-fields-including-medical-aerospace-automotive-construction-etc-for-example-doctors-can-use-3-d-printing-technology-to-manufacture-customized-prosthetics-and-human-organs-while-engineers-can-use-3-d-printing-technology-to-manufacture-complex-mechanical-parts-and-building-structures-popularization-trend-in-recent-years-with-the-continuous-improvement-and-cost-reduction-of-3-d-printing-technology-this-technology-is-increasingly-entering-the-lives-of-ordinary-consumers-people-can-use-3-d-printers-to-create-various-items-at-home-from-toys-accessories-to-household-items-etc-overall-the-emergence-and-development-of-3-d-printing-technology-is-the-result-of-technological-progress-and-innovative-spirit-and-it-is-changing-our-production-and-lifestyle2 {
-  color: #000000;
-  text-align: justified;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 200;
+._0-e-9045-c-9475-d-4-f-56796-b-0929-b-681-ca-4-1 {
+  border-radius: 56px;
+  width: 918px;
+  height: 522px;
   position: absolute;
   left: calc(50% - 530px);
-  top: calc(50% - 1020.5px);
-  width: 1069px;
-  height: 540px;
-}
-._3-d-printing-technology-also-known-as-additive-manufacturing-is-a-technique-of-manufacturing-three-dimensional-objects-by-stacking-materials-layer-by-layer-the-emergence-and-development-of-this-technology-have-a-rich-historical-background-early-development-the-origin-of-3-d-printing-technology-can-be-traced-back-to-the-1980-s-in-1984-american-inventor-charles-hull-proposed-the-concept-of-stereo-printing-and-obtained-a-patent-for-stereo-printing-in-1986-his-invention-is-regarded-as-the-origin-of-3-d-printing-technology-technological-progress-in-the-1990-s-with-the-development-of-computer-technology-and-materials-science-3-d-printing-technology-also-made-significant-progress-people-have-started-using-computer-aided-design-cad-software-to-create-3-d-models-and-using-3-d-printers-to-convert-these-models-into-solid-objects-commercial-application-in-the-early-21st-century-3-d-printing-technology-began-to-be-widely-applied-in-various-fields-including-medical-aerospace-automotive-construction-etc-for-example-doctors-can-use-3-d-printing-technology-to-manufacture-customized-prosthetics-and-human-organs-while-engineers-can-use-3-d-printing-technology-to-manufacture-complex-mechanical-parts-and-building-structures-popularization-trend-in-recent-years-with-the-continuous-improvement-and-cost-reduction-of-3-d-printing-technology-this-technology-is-increasingly-entering-the-lives-of-ordinary-consumers-people-can-use-3-d-printers-to-create-various-items-at-home-from-toys-accessories-to-household-items-etc-overall-the-emergence-and-development-of-3-d-printing-technology-is-the-result-of-technological-progress-and-innovative-spirit-and-it-is-changing-our-production-and-lifestyle-2-span {
-  color: #000000;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 200;
-}
-._3-d-printing-technology-also-known-as-additive-manufacturing-is-a-technique-of-manufacturing-three-dimensional-objects-by-stacking-materials-layer-by-layer-the-emergence-and-development-of-this-technology-have-a-rich-historical-background-early-development-the-origin-of-3-d-printing-technology-can-be-traced-back-to-the-1980-s-in-1984-american-inventor-charles-hull-proposed-the-concept-of-stereo-printing-and-obtained-a-patent-for-stereo-printing-in-1986-his-invention-is-regarded-as-the-origin-of-3-d-printing-technology-technological-progress-in-the-1990-s-with-the-development-of-computer-technology-and-materials-science-3-d-printing-technology-also-made-significant-progress-people-have-started-using-computer-aided-design-cad-software-to-create-3-d-models-and-using-3-d-printers-to-convert-these-models-into-solid-objects-commercial-application-in-the-early-21st-century-3-d-printing-technology-began-to-be-widely-applied-in-various-fields-including-medical-aerospace-automotive-construction-etc-for-example-doctors-can-use-3-d-printing-technology-to-manufacture-customized-prosthetics-and-human-organs-while-engineers-can-use-3-d-printing-technology-to-manufacture-complex-mechanical-parts-and-building-structures-popularization-trend-in-recent-years-with-the-continuous-improvement-and-cost-reduction-of-3-d-printing-technology-this-technology-is-increasingly-entering-the-lives-of-ordinary-consumers-people-can-use-3-d-printers-to-create-various-items-at-home-from-toys-accessories-to-household-items-etc-overall-the-emergence-and-development-of-3-d-printing-technology-is-the-result-of-technological-progress-and-innovative-spirit-and-it-is-changing-our-production-and-lifestyle-2-span2 {
-  color: #000000;
-  list-style-type: decimal;
-  padding-left: 1em;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 200;
+  top: calc(50% - 7049px);
+  object-fit: cover;
 }
 ._3-use-3-d-printer-to-manufacture-it {
   color: #000000;
@@ -328,81 +378,207 @@
   letter-spacing: 0.05em;
   font-weight: 600;
   position: absolute;
-  left: calc(50% - 588px);
-  top: calc(50% - 1071.5px);
+  left: calc(50% - 548px);
+  top: calc(50% - 2724px);
   width: 695px;
   height: 25.02px;
 }
-.new-application-new-technology-about-material-machine-new-paper2 {
+.group-66 {
+  position: absolute;
+  inset: 0;
+}
+.group-65 {
+  width: 1141px;
+  height: 3849px;
+  position: static;
+}
+._005-eaa-985-c-2-bdf-82-d-199-bc-7-d-2-a-58874-d-1 {
+  border-radius: 64px;
+  width: 536px;
+  height: 715px;
+  position: absolute;
+  left: calc(50% - -32px);
+  top: calc(50% - -534px);
+  object-fit: cover;
+}
+._2-sandpaper-soaked-in-wet-and-polished {
   color: #000000;
   text-align: left;
-  font-family: "Inter-Light", sans-serif;
+  font-family: "Inter-ExtraLight", sans-serif;
   font-size: 20px;
   line-height: 121.08%;
   letter-spacing: 0.05em;
-  font-weight: 300;
+  font-weight: 200;
   position: absolute;
-  left: calc(50% - 530px);
-  top: calc(50% - 394.5px);
-  width: 821px;
-  height: 25.02px;
+  left: calc(50% - 558px);
+  top: calc(50% - -2010px);
 }
-.group-582 {
-  width: 1069px;
-  height: 516px;
-  position: static;
-}
-.group-562 {
-  width: 1069px;
-  height: 516px;
-  position: static;
-}
-.new-applications-3-d-printing-has-been-widely-used-in-various-fields-including-healthcare-aerospace-architecture-education-etc-for-example-in-the-medical-field-3-d-printing-technology-is-used-to-manufacture-customized-prosthetics-teeth-and-human-organs-in-the-field-of-architecture-3-d-printing-technology-is-used-to-manufacture-models-and-actual-building-structures-new-technology-in-3-d-printing-technology-there-is-a-new-technology-called-selective-laser-melting-slm-slm-is-a-3-d-printing-technology-that-uses-a-high-power-laser-beam-to-melt-metal-powder-into-a-solid-which-can-manufacture-metal-parts-with-complex-shapes-and-high-strength-new-materials-in-terms-of-3-d-printing-materials-there-is-a-new-type-of-material-called-biomaterials-biomaterials-are-materials-that-can-be-accepted-and-utilized-by-living-organisms-such-as-cell-inks-that-can-be-used-to-manufacture-human-organs-the-emergence-of-this-material-has-opened-up-new-possibilities-for-3-d-printing-in-the-medical-field-new-machine-in-terms-of-3-d-printing-machines-there-is-a-new-type-of-machine-called-a-multi-material-3-d-printer-this-type-of-machine-can-use-multiple-different-materials-in-the-same-printing-process-to-create-composite-objects-with-multiple-properties-and-functions-5-new-paper-in-terms-of-3-d-printing-paper-there-is-a-new-type-of-paper-called-3-d-printing-paper-this-type-of-paper-is-a-special-type-of-paper-that-can-be-used-by-3-d-printers-to-create-three-dimensional-objects-by-stacking-and-bonding-them-layer-by-layer-the-emergence-of-this-type-of-paper-provides-a-new-low-cost-material-choice-for-3-d-printing2 {
+._400-eye-rough-repair-of-the-muse {
   color: #000000;
   text-align: justified;
   font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 16px;
+  font-size: 20px;
   line-height: 39px;
   font-weight: 200;
   position: absolute;
-  left: calc(50% - 530px);
-  top: calc(50% - 369.69px);
-  width: 1069px;
-  height: 516px;
+  left: calc(50% - 558px);
+  top: calc(50% - -2049px);
+}
+.fd-91082-ab-9-ae-7-d-6-c-166161-b-1-e-734-ac-47-1 {
+  border-radius: 69px;
+  width: 520px;
+  height: 390px;
+  position: absolute;
+  left: calc(50% - 558px);
+  top: calc(50% - -2121px);
+  object-fit: cover;
+}
+._572292-fd-30890083-a-4-ccc-39175100-d-26-1 {
+  border-radius: 67px;
+  width: 521px;
+  height: 390px;
+  position: absolute;
+  left: calc(50% - -60px);
+  top: calc(50% - -2121px);
+  object-fit: cover;
+}
+._3-800-mesh-refinement {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 558px);
+  top: calc(50% - -2586px);
+}
+.bd-695-b-435-f-29-f-3-d-48-d-8-e-2-a-67757-dcb-5-e-1 {
+  border-radius: 61px;
+  width: 1128px;
+  height: 602px;
+  position: absolute;
+  left: calc(50% - 560px);
+  top: calc(50% - -2666px);
+  object-fit: cover;
+}
+._4-surface-painting-of-gas-masks-and-spray-cans {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 557px);
+  top: calc(50% - -3324px);
+}
+._49-b-406-b-9-a-58-f-5-fb-59108-b-3004-cb-9-b-034-1 {
+  border-radius: 59px;
+  width: 512px;
+  height: 384px;
+  position: absolute;
+  left: calc(50% - 557px);
+  top: calc(50% - -3359px);
+  object-fit: cover;
+}
+.c-6-b-73-e-22-dc-438-f-6-efdc-6-deca-007-da-74-c-1 {
+  border-radius: 58px;
+  width: 525px;
+  height: 394px;
+  position: absolute;
+  left: calc(50% - -45px);
+  top: calc(50% - -3359px);
+  object-fit: cover;
+}
+._5-shake-and-spray-paint-twice-in-15-minutes-and-finally-dry {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 560px);
+  top: calc(50% - -3817px);
+  width: 647px;
+  height: 141px;
+}
+._63-ebc-39-ce-03815-dc-8-abc-538-b-3-d-5-a-60-ec-1 {
+  border-radius: 58px;
+  width: 512px;
+  height: 378px;
+  position: absolute;
+  left: calc(50% - 557px);
+  top: calc(50% - -3865px);
+  object-fit: cover;
+}
+._37010-fcb-285-b-833119-d-657-eac-47-b-2-d-31-1 {
+  border-radius: 56px;
+  width: 525px;
+  height: 378px;
+  position: absolute;
+  left: calc(50% - -45px);
+  top: calc(50% - -3865px);
+  object-fit: cover;
+}
+.postprocess-the-surface {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 558px);
+  top: calc(50% - -394px);
+  width: 695px;
+  height: 25.02px;
 }
 .group-59 {
-  width: 1069px;
-  height: 516px;
+  width: 357px;
+  height: 95px;
   position: static;
 }
-.tool-pliers-remove-the-support-and-skirt-file-and-sandpaper-perform-sanding {
+.group-562 {
+  width: 357px;
+  height: 95px;
+  position: static;
+}
+._1-pliers-remove-the-support-and-skirt-slickets-and-sandpaper-polishing {
   color: #000000;
   text-align: justified;
-  position: absolute;
-  left: calc(50% - 530px);
-  top: calc(50% - -856.5px);
-  width: 1069px;
-  height: 516px;
-}
-.tool-pliers-remove-the-support-and-skirt-file-and-sandpaper-perform-sanding-span {
-  color: #000000;
-  font-family: "Inter-Medium", sans-serif;
+  font-family: "Inter-ExtraLight", sans-serif;
   font-size: 20px;
   line-height: 39px;
-  font-weight: 500;
-}
-.tool-pliers-remove-the-support-and-skirt-file-and-sandpaper-perform-sanding-span2 {
-  color: #000000;
-  list-style-type: disc;
-  padding-left: 1em;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 400;
-}
-.group-62 {
+  font-weight: 200;
   position: absolute;
-  inset: 0;
+  left: calc(50% - 557px);
+  top: calc(50% - -435px);
+  width: 357px;
+  height: 95px;
+}
+._142-dd-13-c-3-ce-2572-fbc-87392-b-1-ff-4434-c-1 {
+  border-radius: 84px;
+  width: 532px;
+  height: 709px;
+  position: absolute;
+  left: calc(50% - 558px);
+  top: calc(50% - -534px);
+  object-fit: cover;
+}
+._317-a-2-f-4-e-1-def-080630-e-6-d-0-aadf-7-ed-659-1 {
+  border-radius: 73px;
+  width: 1130px;
+  height: 670px;
+  position: absolute;
+  left: calc(50% - 557px);
+  top: calc(50% - -1295px);
+  object-fit: cover;
 }
 ._2-use-slice-software-to-setting-parameter {
   color: #000000;
@@ -413,15 +589,10 @@
   letter-spacing: 0.05em;
   font-weight: 600;
   position: absolute;
-  left: calc(50% - 554px);
-  top: calc(50% - 4397.5px);
+  left: calc(50% - 564px);
+  top: calc(50% - 5897px);
   width: 695px;
   height: 25.02px;
-}
-.group-61 {
-  width: 1127px;
-  height: 3197px;
-  position: static;
 }
 .use-the-tools-on-the-left-to-sketch-constrain-sketches-through-sketch-dimensions-and-the-right-toolbar-the-sketch-line-before-constraint-is-blue-and-the-sketch-line-after-constraint-is-black-parts-can-be-constrained-by-labelling-the-size-the-shortcut-key-is-caps-lk-plus-d {
   text-align: justified;
@@ -430,9 +601,9 @@
   line-height: 39px;
   font-weight: 200;
   position: absolute;
-  left: calc(50% - 458px);
-  top: calc(50% - 1322.5px);
-  width: 1127px;
+  left: calc(50% - 532px);
+  top: calc(50% - 2950px);
+  width: 1126px;
   height: 155px;
 }
 .use-the-tools-on-the-left-to-sketch-constrain-sketches-through-sketch-dimensions-and-the-right-toolbar-the-sketch-line-before-constraint-is-blue-and-the-sketch-line-after-constraint-is-black-parts-can-be-constrained-by-labelling-the-size-the-shortcut-key-is-caps-lk-plus-d-span {
@@ -450,166 +621,294 @@
   font-weight: 200;
 }
 .group-18 {
-  width: 955px;
-  height: 574px;
-  position: static;
+  position: absolute;
+  inset: 0;
 }
 ._20240530111536-1 {
   border-radius: 35px;
   border-style: solid;
   border-color: #000000;
   border-width: 1px;
-  width: 955px;
+  width: 954.15px;
   height: 574px;
   position: absolute;
-  left: calc(50% - 458px);
-  top: calc(50% - 4364.5px);
+  left: calc(50% - 506px);
+  top: calc(50% - 5850px);
   object-fit: cover;
 }
-.group-19 {
-  width: 955px;
-  height: 574px;
-  position: static;
+.group-60 {
+  position: absolute;
+  inset: 0;
 }
 ._20240530111536-12 {
   border-radius: 35px;
   border-style: solid;
   border-color: #000000;
   border-width: 1px;
-  width: 955px;
+  width: 954.15px;
   height: 574px;
   position: absolute;
-  left: calc(50% - 458px);
-  top: calc(50% - 3755.5px);
+  left: calc(50% - 506px);
+  top: calc(50% - 5241px);
   object-fit: cover;
 }
-.group-20 {
-  width: 955px;
-  height: 574px;
-  position: static;
-}
-._20240530111536-13 {
-  border-radius: 35px;
+.image-1 {
+  border-radius: 43px;
   border-style: solid;
   border-color: #000000;
   border-width: 1px;
   width: 955px;
-  height: 574px;
+  height: 510px;
   position: absolute;
-  left: calc(50% - 458px);
-  top: calc(50% - 3147.5px);
+  left: calc(50% - 507px);
+  top: calc(50% - 3495px);
   object-fit: cover;
 }
-.group-592 {
-  width: 955px;
-  height: 574px;
-  position: static;
-}
-._20240530111536-14 {
-  border-radius: 35px;
+.image-4 {
+  border-radius: 43px;
   border-style: solid;
   border-color: #000000;
   border-width: 1px;
   width: 955px;
-  height: 574px;
+  height: 510px;
   position: absolute;
-  left: calc(50% - 458px);
-  top: calc(50% - 2539.5px);
+  left: calc(50% - 486px);
+  top: calc(50% - 2667px);
   object-fit: cover;
 }
-.group-60 {
-  width: 955px;
-  height: 574px;
-  position: static;
-}
-._20240530111536-15 {
-  border-radius: 35px;
+.image-5 {
+  border-radius: 43px;
   border-style: solid;
   border-color: #000000;
   border-width: 1px;
   width: 955px;
-  height: 574px;
+  height: 510px;
   position: absolute;
-  left: calc(50% - 458px);
-  top: calc(50% - 1930.5px);
+  left: calc(50% - 486px);
+  top: calc(50% - 2067px);
   object-fit: cover;
 }
-.group-67 {
+.image-6 {
+  border-radius: 43px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 955px;
+  height: 510px;
   position: absolute;
-  inset: 0;
+  left: calc(50% - 488px);
+  top: calc(50% - 1467px);
+  object-fit: cover;
 }
-.bioprinting-organ-and-tissue-engineering-researchers-are-using-3-d-printing-technology-to-print-functional-human-tissues-and-organs-for-transplantation-and-research-for-instance-scientists-have-successfully-printed-heart-tissues-liver-models-and-vascular-networks-personalized-drug-delivery-systems-3-d-printing-technology-is-being-used-to-manufacture-personalized-drug-delivery-systems-such-as-drug-implants-and-tablets-which-can-be-tailored-to-the-specific-needs-of-patients-for-controlled-drug-release-rates-and-dosages-new-material-development-multi-material-printing-the-development-of-3-d-printers-capable-of-printing-with-multiple-materials-in-a-single-print-process-allowing-for-different-material-properties-e-g-hardness-elasticity-conductivity-within-the-same-object-smart-materials-researchers-are-developing-smart-materials-with-properties-such-as-self-healing-shape-memory-and-color-change-which-can-alter-their-physical-properties-under-certain-conditions-sustainability-and-eco-friendly-materials-biodegradable-materials-research-is-exploring-the-use-of-biodegradable-polymers-and-composites-to-reduce-the-environmental-impact-of-3-d-printing-for-example-using-pla-polylactic-acid-and-other-natural-materials-as-alternatives-to-traditional-petroleum-based-materials-recycled-materials-utilizing-recycled-plastics-and-waste-materials-for-3-d-printing-not-only-reduces-waste-but-also-provides-new-sources-of-materials-high-resolution-and-micro-printing-microstructures-researchers-are-developing-3-d-printing-technologies-capable-of-printing-at-the-nano-and-micro-scale-useful-for-manufacturing-micro-electronic-components-microfluidic-devices-and-optical-elements-high-resolution-photopolymerization-using-high-resolution-photopolymerization-techniques-such-as-two-photon-polymerization-to-achieve-submicron-precision-in-3-d-printing {
+.image-7 {
+  border-radius: 43px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 955px;
+  height: 510px;
+  position: absolute;
+  left: calc(50% - 488px);
+  top: calc(50% - 867px);
+  object-fit: cover;
+}
+.image-8 {
+  border-radius: 43px;
+  width: 955px;
+  height: 510px;
+  position: absolute;
+  left: calc(50% - 488px);
+  top: calc(50% - 267px);
+  object-fit: cover;
+}
+.image-2 {
+  border-radius: 47px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 955px;
+  height: 510px;
+  position: absolute;
+  left: calc(50% - 506px);
+  top: calc(50% - 4055px);
+  object-fit: cover;
+}
+.image-3 {
+  border-radius: 58px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 955px;
+  height: 509px;
+  position: absolute;
+  left: calc(50% - 506px);
+  top: calc(50% - 4614px);
+  object-fit: cover;
+}
+.course-3-d-printing {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 614px);
+  top: calc(50% - 7278px);
+  width: 434.85px;
+  height: 29px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._1-drag-the-exported-stl-of-anycubic-slicer-after-modifying-parameters-into-ulti-maker-cura {
   color: #000000;
   text-align: justified;
-  font-family: "-", sans-serif;
+  font-family: "Inter-Light", sans-serif;
   font-size: 16px;
   line-height: 39px;
-  font-weight: 400;
+  font-weight: 300;
   position: absolute;
-  left: calc(50% - 537px);
-  top: calc(50% - -1126.5px);
+  left: calc(50% - 486px);
+  top: calc(50% - 2157px);
+  width: 1065px;
+  height: 50px;
+}
+._2-export-as-gcode-after-slicing {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 300;
+  position: absolute;
+  left: calc(50% - 488px);
+  top: calc(50% - 1557px);
+  width: 1065px;
+  height: 50px;
+}
+._3-drag-the-gcode-file-into-the-usb-drive {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 300;
+  position: absolute;
+  left: calc(50% - 485px);
+  top: calc(50% - 950px);
+  width: 1065px;
+  height: 50px;
+}
+._4-insert-the-usb-drive-into-the-3-d-printer {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 300;
+  position: absolute;
+  left: calc(50% - 488px);
+  top: calc(50% - 350px);
+  width: 1065px;
+  height: 50px;
+}
+._5-find-the-file-the-latest-file-is-usually-in-the-first-place-and-start-printing {
+  text-align: justified;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 300;
+  position: absolute;
+  left: calc(50% - 488px);
+  top: calc(50% - -243px);
+  width: 1065px;
+  height: 50px;
+}
+._5-find-the-file-the-latest-file-is-usually-in-the-first-place-and-start-printing-span {
+  color: #000000;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 300;
+}
+._5-find-the-file-the-latest-file-is-usually-in-the-first-place-and-start-printing-span2 {
+  color: #b70000;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 300;
+}
+._5-find-the-file-the-latest-file-is-usually-in-the-first-place-and-start-printing-span3 {
+  color: #000000;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 300;
+}
+.materials-there-are-many-materials-for-3-d-printing-including-plastics-metals-ceramics-gypsum-and-even-biomaterials-which-material-you-choose-depends-on-the-functional-and-performance-needs-of-the-object-you-are-printing-on-for-example-plastics-are-commonly-used-to-print-models-and-prototypes-while-metals-are-often-used-to-print-structural-parts-machines-there-are-many-types-of-3-d-printers-including-fused-deposition-modeling-fdm-printers-stereolithography-sla-printers-selective-laser-sintering-sls-printers-etc-different-types-of-printers-are-suitable-for-different-applications-such-as-fdm-printers-are-often-used-to-print-plastic-parts-and-sls-printers-are-often-used-to-print-metal-parts-new-applications-with-the-development-of-3-d-printing-technology-its-application-fields-are-also-expanding-for-example-in-the-medical-field-customized-prosthetics-and-medical-devices-can-be-printed-in-the-field-of-construction-complex-building-components-can-be-printed-in-the-field-of-art-it-is-possible-to-print-beautiful-works-of-art-new-technologies-3-d-printing-technology-is-also-constantly-evolving-and-innovating-for-example-4-d-printing-is-an-emerging-technology-that-can-print-objects-that-change-shape-over-time-in-addition-multi-material-3-d-printing-is-also-a-research-hotspot-which-can-print-multiple-materials-in-the-same-object-to-achieve-more-complex-functions-and-properties {
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 568px);
+  top: calc(50% - 6424px);
   width: 1127px;
-  height: 756px;
+  height: 509px;
 }
-.bioprinting-organ-and-tissue-engineering-researchers-are-using-3-d-printing-technology-to-print-functional-human-tissues-and-organs-for-transplantation-and-research-for-instance-scientists-have-successfully-printed-heart-tissues-liver-models-and-vascular-networks-personalized-drug-delivery-systems-3-d-printing-technology-is-being-used-to-manufacture-personalized-drug-delivery-systems-such-as-drug-implants-and-tablets-which-can-be-tailored-to-the-specific-needs-of-patients-for-controlled-drug-release-rates-and-dosages-new-material-development-multi-material-printing-the-development-of-3-d-printers-capable-of-printing-with-multiple-materials-in-a-single-print-process-allowing-for-different-material-properties-e-g-hardness-elasticity-conductivity-within-the-same-object-smart-materials-researchers-are-developing-smart-materials-with-properties-such-as-self-healing-shape-memory-and-color-change-which-can-alter-their-physical-properties-under-certain-conditions-sustainability-and-eco-friendly-materials-biodegradable-materials-research-is-exploring-the-use-of-biodegradable-polymers-and-composites-to-reduce-the-environmental-impact-of-3-d-printing-for-example-using-pla-polylactic-acid-and-other-natural-materials-as-alternatives-to-traditional-petroleum-based-materials-recycled-materials-utilizing-recycled-plastics-and-waste-materials-for-3-d-printing-not-only-reduces-waste-but-also-provides-new-sources-of-materials-high-resolution-and-micro-printing-microstructures-researchers-are-developing-3-d-printing-technologies-capable-of-printing-at-the-nano-and-micro-scale-useful-for-manufacturing-micro-electronic-components-microfluidic-devices-and-optical-elements-high-resolution-photopolymerization-using-high-resolution-photopolymerization-techniques-such-as-two-photon-polymerization-to-achieve-submicron-precision-in-3-d-printing-span {
-  color: #000000;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 400;
-}
-.bioprinting-organ-and-tissue-engineering-researchers-are-using-3-d-printing-technology-to-print-functional-human-tissues-and-organs-for-transplantation-and-research-for-instance-scientists-have-successfully-printed-heart-tissues-liver-models-and-vascular-networks-personalized-drug-delivery-systems-3-d-printing-technology-is-being-used-to-manufacture-personalized-drug-delivery-systems-such-as-drug-implants-and-tablets-which-can-be-tailored-to-the-specific-needs-of-patients-for-controlled-drug-release-rates-and-dosages-new-material-development-multi-material-printing-the-development-of-3-d-printers-capable-of-printing-with-multiple-materials-in-a-single-print-process-allowing-for-different-material-properties-e-g-hardness-elasticity-conductivity-within-the-same-object-smart-materials-researchers-are-developing-smart-materials-with-properties-such-as-self-healing-shape-memory-and-color-change-which-can-alter-their-physical-properties-under-certain-conditions-sustainability-and-eco-friendly-materials-biodegradable-materials-research-is-exploring-the-use-of-biodegradable-polymers-and-composites-to-reduce-the-environmental-impact-of-3-d-printing-for-example-using-pla-polylactic-acid-and-other-natural-materials-as-alternatives-to-traditional-petroleum-based-materials-recycled-materials-utilizing-recycled-plastics-and-waste-materials-for-3-d-printing-not-only-reduces-waste-but-also-provides-new-sources-of-materials-high-resolution-and-micro-printing-microstructures-researchers-are-developing-3-d-printing-technologies-capable-of-printing-at-the-nano-and-micro-scale-useful-for-manufacturing-micro-electronic-components-microfluidic-devices-and-optical-elements-high-resolution-photopolymerization-using-high-resolution-photopolymerization-techniques-such-as-two-photon-polymerization-to-achieve-submicron-precision-in-3-d-printing-span2 {
-  color: #000000;
-  list-style-type: disc;
-  padding-left: 1em;
+.materials-there-are-many-materials-for-3-d-printing-including-plastics-metals-ceramics-gypsum-and-even-biomaterials-which-material-you-choose-depends-on-the-functional-and-performance-needs-of-the-object-you-are-printing-on-for-example-plastics-are-commonly-used-to-print-models-and-prototypes-while-metals-are-often-used-to-print-structural-parts-machines-there-are-many-types-of-3-d-printers-including-fused-deposition-modeling-fdm-printers-stereolithography-sla-printers-selective-laser-sintering-sls-printers-etc-different-types-of-printers-are-suitable-for-different-applications-such-as-fdm-printers-are-often-used-to-print-plastic-parts-and-sls-printers-are-often-used-to-print-metal-parts-new-applications-with-the-development-of-3-d-printing-technology-its-application-fields-are-also-expanding-for-example-in-the-medical-field-customized-prosthetics-and-medical-devices-can-be-printed-in-the-field-of-construction-complex-building-components-can-be-printed-in-the-field-of-art-it-is-possible-to-print-beautiful-works-of-art-new-technologies-3-d-printing-technology-is-also-constantly-evolving-and-innovating-for-example-4-d-printing-is-an-emerging-technology-that-can-print-objects-that-change-shape-over-time-in-addition-multi-material-3-d-printing-is-also-a-research-hotspot-which-can-print-multiple-materials-in-the-same-object-to-achieve-more-complex-functions-and-properties-span {
+  color: rgba(9, 51, 202, 0.78);
   font-family: "Inter-ExtraLight", sans-serif;
   font-size: 16px;
   line-height: 39px;
   font-weight: 200;
 }
-.bioprinting-organ-and-tissue-engineering-researchers-are-using-3-d-printing-technology-to-print-functional-human-tissues-and-organs-for-transplantation-and-research-for-instance-scientists-have-successfully-printed-heart-tissues-liver-models-and-vascular-networks-personalized-drug-delivery-systems-3-d-printing-technology-is-being-used-to-manufacture-personalized-drug-delivery-systems-such-as-drug-implants-and-tablets-which-can-be-tailored-to-the-specific-needs-of-patients-for-controlled-drug-release-rates-and-dosages-new-material-development-multi-material-printing-the-development-of-3-d-printers-capable-of-printing-with-multiple-materials-in-a-single-print-process-allowing-for-different-material-properties-e-g-hardness-elasticity-conductivity-within-the-same-object-smart-materials-researchers-are-developing-smart-materials-with-properties-such-as-self-healing-shape-memory-and-color-change-which-can-alter-their-physical-properties-under-certain-conditions-sustainability-and-eco-friendly-materials-biodegradable-materials-research-is-exploring-the-use-of-biodegradable-polymers-and-composites-to-reduce-the-environmental-impact-of-3-d-printing-for-example-using-pla-polylactic-acid-and-other-natural-materials-as-alternatives-to-traditional-petroleum-based-materials-recycled-materials-utilizing-recycled-plastics-and-waste-materials-for-3-d-printing-not-only-reduces-waste-but-also-provides-new-sources-of-materials-high-resolution-and-micro-printing-microstructures-researchers-are-developing-3-d-printing-technologies-capable-of-printing-at-the-nano-and-micro-scale-useful-for-manufacturing-micro-electronic-components-microfluidic-devices-and-optical-elements-high-resolution-photopolymerization-using-high-resolution-photopolymerization-techniques-such-as-two-photon-polymerization-to-achieve-submicron-precision-in-3-d-printing-span3 {
+.materials-there-are-many-materials-for-3-d-printing-including-plastics-metals-ceramics-gypsum-and-even-biomaterials-which-material-you-choose-depends-on-the-functional-and-performance-needs-of-the-object-you-are-printing-on-for-example-plastics-are-commonly-used-to-print-models-and-prototypes-while-metals-are-often-used-to-print-structural-parts-machines-there-are-many-types-of-3-d-printers-including-fused-deposition-modeling-fdm-printers-stereolithography-sla-printers-selective-laser-sintering-sls-printers-etc-different-types-of-printers-are-suitable-for-different-applications-such-as-fdm-printers-are-often-used-to-print-plastic-parts-and-sls-printers-are-often-used-to-print-metal-parts-new-applications-with-the-development-of-3-d-printing-technology-its-application-fields-are-also-expanding-for-example-in-the-medical-field-customized-prosthetics-and-medical-devices-can-be-printed-in-the-field-of-construction-complex-building-components-can-be-printed-in-the-field-of-art-it-is-possible-to-print-beautiful-works-of-art-new-technologies-3-d-printing-technology-is-also-constantly-evolving-and-innovating-for-example-4-d-printing-is-an-emerging-technology-that-can-print-objects-that-change-shape-over-time-in-addition-multi-material-3-d-printing-is-also-a-research-hotspot-which-can-print-multiple-materials-in-the-same-object-to-achieve-more-complex-functions-and-properties-span2 {
   color: #000000;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 400;
-}
-.bioprinting-organ-and-tissue-engineering-researchers-are-using-3-d-printing-technology-to-print-functional-human-tissues-and-organs-for-transplantation-and-research-for-instance-scientists-have-successfully-printed-heart-tissues-liver-models-and-vascular-networks-personalized-drug-delivery-systems-3-d-printing-technology-is-being-used-to-manufacture-personalized-drug-delivery-systems-such-as-drug-implants-and-tablets-which-can-be-tailored-to-the-specific-needs-of-patients-for-controlled-drug-release-rates-and-dosages-new-material-development-multi-material-printing-the-development-of-3-d-printers-capable-of-printing-with-multiple-materials-in-a-single-print-process-allowing-for-different-material-properties-e-g-hardness-elasticity-conductivity-within-the-same-object-smart-materials-researchers-are-developing-smart-materials-with-properties-such-as-self-healing-shape-memory-and-color-change-which-can-alter-their-physical-properties-under-certain-conditions-sustainability-and-eco-friendly-materials-biodegradable-materials-research-is-exploring-the-use-of-biodegradable-polymers-and-composites-to-reduce-the-environmental-impact-of-3-d-printing-for-example-using-pla-polylactic-acid-and-other-natural-materials-as-alternatives-to-traditional-petroleum-based-materials-recycled-materials-utilizing-recycled-plastics-and-waste-materials-for-3-d-printing-not-only-reduces-waste-but-also-provides-new-sources-of-materials-high-resolution-and-micro-printing-microstructures-researchers-are-developing-3-d-printing-technologies-capable-of-printing-at-the-nano-and-micro-scale-useful-for-manufacturing-micro-electronic-components-microfluidic-devices-and-optical-elements-high-resolution-photopolymerization-using-high-resolution-photopolymerization-techniques-such-as-two-photon-polymerization-to-achieve-submicron-precision-in-3-d-printing-span4 {
-  color: #000000;
-  list-style-type: disc;
-  padding-left: 1em;
   font-family: "Inter-ExtraLight", sans-serif;
   font-size: 16px;
   line-height: 39px;
   font-weight: 200;
 }
-.bioprinting-organ-and-tissue-engineering-researchers-are-using-3-d-printing-technology-to-print-functional-human-tissues-and-organs-for-transplantation-and-research-for-instance-scientists-have-successfully-printed-heart-tissues-liver-models-and-vascular-networks-personalized-drug-delivery-systems-3-d-printing-technology-is-being-used-to-manufacture-personalized-drug-delivery-systems-such-as-drug-implants-and-tablets-which-can-be-tailored-to-the-specific-needs-of-patients-for-controlled-drug-release-rates-and-dosages-new-material-development-multi-material-printing-the-development-of-3-d-printers-capable-of-printing-with-multiple-materials-in-a-single-print-process-allowing-for-different-material-properties-e-g-hardness-elasticity-conductivity-within-the-same-object-smart-materials-researchers-are-developing-smart-materials-with-properties-such-as-self-healing-shape-memory-and-color-change-which-can-alter-their-physical-properties-under-certain-conditions-sustainability-and-eco-friendly-materials-biodegradable-materials-research-is-exploring-the-use-of-biodegradable-polymers-and-composites-to-reduce-the-environmental-impact-of-3-d-printing-for-example-using-pla-polylactic-acid-and-other-natural-materials-as-alternatives-to-traditional-petroleum-based-materials-recycled-materials-utilizing-recycled-plastics-and-waste-materials-for-3-d-printing-not-only-reduces-waste-but-also-provides-new-sources-of-materials-high-resolution-and-micro-printing-microstructures-researchers-are-developing-3-d-printing-technologies-capable-of-printing-at-the-nano-and-micro-scale-useful-for-manufacturing-micro-electronic-components-microfluidic-devices-and-optical-elements-high-resolution-photopolymerization-using-high-resolution-photopolymerization-techniques-such-as-two-photon-polymerization-to-achieve-submicron-precision-in-3-d-printing-span5 {
-  color: #000000;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 400;
-}
-.bioprinting-organ-and-tissue-engineering-researchers-are-using-3-d-printing-technology-to-print-functional-human-tissues-and-organs-for-transplantation-and-research-for-instance-scientists-have-successfully-printed-heart-tissues-liver-models-and-vascular-networks-personalized-drug-delivery-systems-3-d-printing-technology-is-being-used-to-manufacture-personalized-drug-delivery-systems-such-as-drug-implants-and-tablets-which-can-be-tailored-to-the-specific-needs-of-patients-for-controlled-drug-release-rates-and-dosages-new-material-development-multi-material-printing-the-development-of-3-d-printers-capable-of-printing-with-multiple-materials-in-a-single-print-process-allowing-for-different-material-properties-e-g-hardness-elasticity-conductivity-within-the-same-object-smart-materials-researchers-are-developing-smart-materials-with-properties-such-as-self-healing-shape-memory-and-color-change-which-can-alter-their-physical-properties-under-certain-conditions-sustainability-and-eco-friendly-materials-biodegradable-materials-research-is-exploring-the-use-of-biodegradable-polymers-and-composites-to-reduce-the-environmental-impact-of-3-d-printing-for-example-using-pla-polylactic-acid-and-other-natural-materials-as-alternatives-to-traditional-petroleum-based-materials-recycled-materials-utilizing-recycled-plastics-and-waste-materials-for-3-d-printing-not-only-reduces-waste-but-also-provides-new-sources-of-materials-high-resolution-and-micro-printing-microstructures-researchers-are-developing-3-d-printing-technologies-capable-of-printing-at-the-nano-and-micro-scale-useful-for-manufacturing-micro-electronic-components-microfluidic-devices-and-optical-elements-high-resolution-photopolymerization-using-high-resolution-photopolymerization-techniques-such-as-two-photon-polymerization-to-achieve-submicron-precision-in-3-d-printing-span6 {
-  color: #000000;
-  list-style-type: disc;
-  padding-left: 1em;
+.materials-there-are-many-materials-for-3-d-printing-including-plastics-metals-ceramics-gypsum-and-even-biomaterials-which-material-you-choose-depends-on-the-functional-and-performance-needs-of-the-object-you-are-printing-on-for-example-plastics-are-commonly-used-to-print-models-and-prototypes-while-metals-are-often-used-to-print-structural-parts-machines-there-are-many-types-of-3-d-printers-including-fused-deposition-modeling-fdm-printers-stereolithography-sla-printers-selective-laser-sintering-sls-printers-etc-different-types-of-printers-are-suitable-for-different-applications-such-as-fdm-printers-are-often-used-to-print-plastic-parts-and-sls-printers-are-often-used-to-print-metal-parts-new-applications-with-the-development-of-3-d-printing-technology-its-application-fields-are-also-expanding-for-example-in-the-medical-field-customized-prosthetics-and-medical-devices-can-be-printed-in-the-field-of-construction-complex-building-components-can-be-printed-in-the-field-of-art-it-is-possible-to-print-beautiful-works-of-art-new-technologies-3-d-printing-technology-is-also-constantly-evolving-and-innovating-for-example-4-d-printing-is-an-emerging-technology-that-can-print-objects-that-change-shape-over-time-in-addition-multi-material-3-d-printing-is-also-a-research-hotspot-which-can-print-multiple-materials-in-the-same-object-to-achieve-more-complex-functions-and-properties-span3 {
+  color: rgba(9, 51, 202, 0.78);
   font-family: "Inter-ExtraLight", sans-serif;
   font-size: 16px;
   line-height: 39px;
   font-weight: 200;
 }
-.bioprinting-organ-and-tissue-engineering-researchers-are-using-3-d-printing-technology-to-print-functional-human-tissues-and-organs-for-transplantation-and-research-for-instance-scientists-have-successfully-printed-heart-tissues-liver-models-and-vascular-networks-personalized-drug-delivery-systems-3-d-printing-technology-is-being-used-to-manufacture-personalized-drug-delivery-systems-such-as-drug-implants-and-tablets-which-can-be-tailored-to-the-specific-needs-of-patients-for-controlled-drug-release-rates-and-dosages-new-material-development-multi-material-printing-the-development-of-3-d-printers-capable-of-printing-with-multiple-materials-in-a-single-print-process-allowing-for-different-material-properties-e-g-hardness-elasticity-conductivity-within-the-same-object-smart-materials-researchers-are-developing-smart-materials-with-properties-such-as-self-healing-shape-memory-and-color-change-which-can-alter-their-physical-properties-under-certain-conditions-sustainability-and-eco-friendly-materials-biodegradable-materials-research-is-exploring-the-use-of-biodegradable-polymers-and-composites-to-reduce-the-environmental-impact-of-3-d-printing-for-example-using-pla-polylactic-acid-and-other-natural-materials-as-alternatives-to-traditional-petroleum-based-materials-recycled-materials-utilizing-recycled-plastics-and-waste-materials-for-3-d-printing-not-only-reduces-waste-but-also-provides-new-sources-of-materials-high-resolution-and-micro-printing-microstructures-researchers-are-developing-3-d-printing-technologies-capable-of-printing-at-the-nano-and-micro-scale-useful-for-manufacturing-micro-electronic-components-microfluidic-devices-and-optical-elements-high-resolution-photopolymerization-using-high-resolution-photopolymerization-techniques-such-as-two-photon-polymerization-to-achieve-submicron-precision-in-3-d-printing-span7 {
+.materials-there-are-many-materials-for-3-d-printing-including-plastics-metals-ceramics-gypsum-and-even-biomaterials-which-material-you-choose-depends-on-the-functional-and-performance-needs-of-the-object-you-are-printing-on-for-example-plastics-are-commonly-used-to-print-models-and-prototypes-while-metals-are-often-used-to-print-structural-parts-machines-there-are-many-types-of-3-d-printers-including-fused-deposition-modeling-fdm-printers-stereolithography-sla-printers-selective-laser-sintering-sls-printers-etc-different-types-of-printers-are-suitable-for-different-applications-such-as-fdm-printers-are-often-used-to-print-plastic-parts-and-sls-printers-are-often-used-to-print-metal-parts-new-applications-with-the-development-of-3-d-printing-technology-its-application-fields-are-also-expanding-for-example-in-the-medical-field-customized-prosthetics-and-medical-devices-can-be-printed-in-the-field-of-construction-complex-building-components-can-be-printed-in-the-field-of-art-it-is-possible-to-print-beautiful-works-of-art-new-technologies-3-d-printing-technology-is-also-constantly-evolving-and-innovating-for-example-4-d-printing-is-an-emerging-technology-that-can-print-objects-that-change-shape-over-time-in-addition-multi-material-3-d-printing-is-also-a-research-hotspot-which-can-print-multiple-materials-in-the-same-object-to-achieve-more-complex-functions-and-properties-span4 {
   color: #000000;
-  font-family: "Inter-Regular", sans-serif;
+  font-family: "Inter-ExtraLight", sans-serif;
   font-size: 16px;
   line-height: 39px;
-  font-weight: 400;
+  font-weight: 200;
 }
-.bioprinting-organ-and-tissue-engineering-researchers-are-using-3-d-printing-technology-to-print-functional-human-tissues-and-organs-for-transplantation-and-research-for-instance-scientists-have-successfully-printed-heart-tissues-liver-models-and-vascular-networks-personalized-drug-delivery-systems-3-d-printing-technology-is-being-used-to-manufacture-personalized-drug-delivery-systems-such-as-drug-implants-and-tablets-which-can-be-tailored-to-the-specific-needs-of-patients-for-controlled-drug-release-rates-and-dosages-new-material-development-multi-material-printing-the-development-of-3-d-printers-capable-of-printing-with-multiple-materials-in-a-single-print-process-allowing-for-different-material-properties-e-g-hardness-elasticity-conductivity-within-the-same-object-smart-materials-researchers-are-developing-smart-materials-with-properties-such-as-self-healing-shape-memory-and-color-change-which-can-alter-their-physical-properties-under-certain-conditions-sustainability-and-eco-friendly-materials-biodegradable-materials-research-is-exploring-the-use-of-biodegradable-polymers-and-composites-to-reduce-the-environmental-impact-of-3-d-printing-for-example-using-pla-polylactic-acid-and-other-natural-materials-as-alternatives-to-traditional-petroleum-based-materials-recycled-materials-utilizing-recycled-plastics-and-waste-materials-for-3-d-printing-not-only-reduces-waste-but-also-provides-new-sources-of-materials-high-resolution-and-micro-printing-microstructures-researchers-are-developing-3-d-printing-technologies-capable-of-printing-at-the-nano-and-micro-scale-useful-for-manufacturing-micro-electronic-components-microfluidic-devices-and-optical-elements-high-resolution-photopolymerization-using-high-resolution-photopolymerization-techniques-such-as-two-photon-polymerization-to-achieve-submicron-precision-in-3-d-printing-span8 {
+.materials-there-are-many-materials-for-3-d-printing-including-plastics-metals-ceramics-gypsum-and-even-biomaterials-which-material-you-choose-depends-on-the-functional-and-performance-needs-of-the-object-you-are-printing-on-for-example-plastics-are-commonly-used-to-print-models-and-prototypes-while-metals-are-often-used-to-print-structural-parts-machines-there-are-many-types-of-3-d-printers-including-fused-deposition-modeling-fdm-printers-stereolithography-sla-printers-selective-laser-sintering-sls-printers-etc-different-types-of-printers-are-suitable-for-different-applications-such-as-fdm-printers-are-often-used-to-print-plastic-parts-and-sls-printers-are-often-used-to-print-metal-parts-new-applications-with-the-development-of-3-d-printing-technology-its-application-fields-are-also-expanding-for-example-in-the-medical-field-customized-prosthetics-and-medical-devices-can-be-printed-in-the-field-of-construction-complex-building-components-can-be-printed-in-the-field-of-art-it-is-possible-to-print-beautiful-works-of-art-new-technologies-3-d-printing-technology-is-also-constantly-evolving-and-innovating-for-example-4-d-printing-is-an-emerging-technology-that-can-print-objects-that-change-shape-over-time-in-addition-multi-material-3-d-printing-is-also-a-research-hotspot-which-can-print-multiple-materials-in-the-same-object-to-achieve-more-complex-functions-and-properties-span5 {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+}
+.materials-there-are-many-materials-for-3-d-printing-including-plastics-metals-ceramics-gypsum-and-even-biomaterials-which-material-you-choose-depends-on-the-functional-and-performance-needs-of-the-object-you-are-printing-on-for-example-plastics-are-commonly-used-to-print-models-and-prototypes-while-metals-are-often-used-to-print-structural-parts-machines-there-are-many-types-of-3-d-printers-including-fused-deposition-modeling-fdm-printers-stereolithography-sla-printers-selective-laser-sintering-sls-printers-etc-different-types-of-printers-are-suitable-for-different-applications-such-as-fdm-printers-are-often-used-to-print-plastic-parts-and-sls-printers-are-often-used-to-print-metal-parts-new-applications-with-the-development-of-3-d-printing-technology-its-application-fields-are-also-expanding-for-example-in-the-medical-field-customized-prosthetics-and-medical-devices-can-be-printed-in-the-field-of-construction-complex-building-components-can-be-printed-in-the-field-of-art-it-is-possible-to-print-beautiful-works-of-art-new-technologies-3-d-printing-technology-is-also-constantly-evolving-and-innovating-for-example-4-d-printing-is-an-emerging-technology-that-can-print-objects-that-change-shape-over-time-in-addition-multi-material-3-d-printing-is-also-a-research-hotspot-which-can-print-multiple-materials-in-the-same-object-to-achieve-more-complex-functions-and-properties-span6 {
   color: #000000;
-  list-style-type: disc;
-  padding-left: 1em;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+}
+.materials-there-are-many-materials-for-3-d-printing-including-plastics-metals-ceramics-gypsum-and-even-biomaterials-which-material-you-choose-depends-on-the-functional-and-performance-needs-of-the-object-you-are-printing-on-for-example-plastics-are-commonly-used-to-print-models-and-prototypes-while-metals-are-often-used-to-print-structural-parts-machines-there-are-many-types-of-3-d-printers-including-fused-deposition-modeling-fdm-printers-stereolithography-sla-printers-selective-laser-sintering-sls-printers-etc-different-types-of-printers-are-suitable-for-different-applications-such-as-fdm-printers-are-often-used-to-print-plastic-parts-and-sls-printers-are-often-used-to-print-metal-parts-new-applications-with-the-development-of-3-d-printing-technology-its-application-fields-are-also-expanding-for-example-in-the-medical-field-customized-prosthetics-and-medical-devices-can-be-printed-in-the-field-of-construction-complex-building-components-can-be-printed-in-the-field-of-art-it-is-possible-to-print-beautiful-works-of-art-new-technologies-3-d-printing-technology-is-also-constantly-evolving-and-innovating-for-example-4-d-printing-is-an-emerging-technology-that-can-print-objects-that-change-shape-over-time-in-addition-multi-material-3-d-printing-is-also-a-research-hotspot-which-can-print-multiple-materials-in-the-same-object-to-achieve-more-complex-functions-and-properties-span7 {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+}
+.materials-there-are-many-materials-for-3-d-printing-including-plastics-metals-ceramics-gypsum-and-even-biomaterials-which-material-you-choose-depends-on-the-functional-and-performance-needs-of-the-object-you-are-printing-on-for-example-plastics-are-commonly-used-to-print-models-and-prototypes-while-metals-are-often-used-to-print-structural-parts-machines-there-are-many-types-of-3-d-printers-including-fused-deposition-modeling-fdm-printers-stereolithography-sla-printers-selective-laser-sintering-sls-printers-etc-different-types-of-printers-are-suitable-for-different-applications-such-as-fdm-printers-are-often-used-to-print-plastic-parts-and-sls-printers-are-often-used-to-print-metal-parts-new-applications-with-the-development-of-3-d-printing-technology-its-application-fields-are-also-expanding-for-example-in-the-medical-field-customized-prosthetics-and-medical-devices-can-be-printed-in-the-field-of-construction-complex-building-components-can-be-printed-in-the-field-of-art-it-is-possible-to-print-beautiful-works-of-art-new-technologies-3-d-printing-technology-is-also-constantly-evolving-and-innovating-for-example-4-d-printing-is-an-emerging-technology-that-can-print-objects-that-change-shape-over-time-in-addition-multi-material-3-d-printing-is-also-a-research-hotspot-which-can-print-multiple-materials-in-the-same-object-to-achieve-more-complex-functions-and-properties-span8 {
+  color: #000000;
   font-family: "Inter-ExtraLight", sans-serif;
   font-size: 16px;
   line-height: 39px;
@@ -624,166 +923,12 @@
   letter-spacing: 0.05em;
   font-weight: 600;
   position: absolute;
-  left: calc(50% - 565px);
-  top: calc(50% - -1056.5px);
+  left: calc(50% - 564px);
+  top: calc(50% - -4286px);
   width: 695px;
   height: 25.02px;
 }
-.latest-research-advancements {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 18px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 400;
-  position: absolute;
-  left: calc(50% - 537px);
-  top: calc(50% - -1108.5px);
-  width: 695px;
-  height: 25.02px;
-}
-.group-66 {
-  width: 1127px;
-  height: 920px;
-  position: static;
-}
-.medical-and-healthcare-personalized-medical-devices-3-d-printing-technology-is-used-to-manufacture-customized-medical-devices-such-as-prosthetics-dental-implants-and-hearing-aids-tailored-to-the-specific-needs-of-patients-surgical-planning-and-training-by-printing-anatomical-models-of-patients-doctors-can-better-plan-surgical-procedures-and-conduct-simulation-training-to-improve-surgical-success-rates-aerospace-industry-lightweight-components-3-d-printing-technology-is-used-to-produce-lightweight-components-for-aircraft-and-spacecraft-such-as-structural-brackets-turbine-blades-and-fuel-nozzles-reducing-weight-and-improving-fuel-efficiency-rapid-prototyping-using-3-d-printing-for-the-rapid-prototyping-of-complex-parts-accelerates-the-design-and-testing-process-construction-and-building-3-d-printed-buildings-using-large-scale-3-d-printers-to-print-houses-and-other-building-structures-significantly-reduces-construction-time-and-costs-several-projects-have-successfully-built-3-d-printed-houses-and-bridges-concrete-3-d-printing-the-development-of-3-d-printing-technology-for-concrete-is-used-for-on-site-construction-and-repair-art-and-fashion-custom-fashion-and-accessories-designers-use-3-d-printing-technology-to-create-unique-fashion-items-jewelry-and-accessories-achieving-complex-geometries-and-personalized-designs-art-and-sculpture-artists-leverage-3-d-printing-technology-to-create-intricate-artworks-and-sculptures-exploring-new-forms-of-expression-consumer-goods-and-manufacturing-customized-products-3-d-printing-technology-is-used-to-manufacture-personalized-consumer-goods-such-as-footwear-eyewear-and-furniture-tailored-to-the-specific-needs-of-consumers-small-batch-production-3-d-printing-technology-is-suitable-for-small-batch-production-allowing-for-quick-market-response-reduced-inventory-and-waste-reduction {
-  color: #000000;
-  text-align: justified;
-  font-family: "-", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 400;
-  position: absolute;
-  left: calc(50% - 537px);
-  top: calc(50% - -1934.5px);
-  width: 1127px;
-  height: 895px;
-}
-.medical-and-healthcare-personalized-medical-devices-3-d-printing-technology-is-used-to-manufacture-customized-medical-devices-such-as-prosthetics-dental-implants-and-hearing-aids-tailored-to-the-specific-needs-of-patients-surgical-planning-and-training-by-printing-anatomical-models-of-patients-doctors-can-better-plan-surgical-procedures-and-conduct-simulation-training-to-improve-surgical-success-rates-aerospace-industry-lightweight-components-3-d-printing-technology-is-used-to-produce-lightweight-components-for-aircraft-and-spacecraft-such-as-structural-brackets-turbine-blades-and-fuel-nozzles-reducing-weight-and-improving-fuel-efficiency-rapid-prototyping-using-3-d-printing-for-the-rapid-prototyping-of-complex-parts-accelerates-the-design-and-testing-process-construction-and-building-3-d-printed-buildings-using-large-scale-3-d-printers-to-print-houses-and-other-building-structures-significantly-reduces-construction-time-and-costs-several-projects-have-successfully-built-3-d-printed-houses-and-bridges-concrete-3-d-printing-the-development-of-3-d-printing-technology-for-concrete-is-used-for-on-site-construction-and-repair-art-and-fashion-custom-fashion-and-accessories-designers-use-3-d-printing-technology-to-create-unique-fashion-items-jewelry-and-accessories-achieving-complex-geometries-and-personalized-designs-art-and-sculpture-artists-leverage-3-d-printing-technology-to-create-intricate-artworks-and-sculptures-exploring-new-forms-of-expression-consumer-goods-and-manufacturing-customized-products-3-d-printing-technology-is-used-to-manufacture-personalized-consumer-goods-such-as-footwear-eyewear-and-furniture-tailored-to-the-specific-needs-of-consumers-small-batch-production-3-d-printing-technology-is-suitable-for-small-batch-production-allowing-for-quick-market-response-reduced-inventory-and-waste-reduction-span {
-  color: #000000;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 400;
-}
-.medical-and-healthcare-personalized-medical-devices-3-d-printing-technology-is-used-to-manufacture-customized-medical-devices-such-as-prosthetics-dental-implants-and-hearing-aids-tailored-to-the-specific-needs-of-patients-surgical-planning-and-training-by-printing-anatomical-models-of-patients-doctors-can-better-plan-surgical-procedures-and-conduct-simulation-training-to-improve-surgical-success-rates-aerospace-industry-lightweight-components-3-d-printing-technology-is-used-to-produce-lightweight-components-for-aircraft-and-spacecraft-such-as-structural-brackets-turbine-blades-and-fuel-nozzles-reducing-weight-and-improving-fuel-efficiency-rapid-prototyping-using-3-d-printing-for-the-rapid-prototyping-of-complex-parts-accelerates-the-design-and-testing-process-construction-and-building-3-d-printed-buildings-using-large-scale-3-d-printers-to-print-houses-and-other-building-structures-significantly-reduces-construction-time-and-costs-several-projects-have-successfully-built-3-d-printed-houses-and-bridges-concrete-3-d-printing-the-development-of-3-d-printing-technology-for-concrete-is-used-for-on-site-construction-and-repair-art-and-fashion-custom-fashion-and-accessories-designers-use-3-d-printing-technology-to-create-unique-fashion-items-jewelry-and-accessories-achieving-complex-geometries-and-personalized-designs-art-and-sculpture-artists-leverage-3-d-printing-technology-to-create-intricate-artworks-and-sculptures-exploring-new-forms-of-expression-consumer-goods-and-manufacturing-customized-products-3-d-printing-technology-is-used-to-manufacture-personalized-consumer-goods-such-as-footwear-eyewear-and-furniture-tailored-to-the-specific-needs-of-consumers-small-batch-production-3-d-printing-technology-is-suitable-for-small-batch-production-allowing-for-quick-market-response-reduced-inventory-and-waste-reduction-span2 {
-  color: #000000;
-  list-style-type: disc;
-  padding-left: 1em;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 200;
-}
-.medical-and-healthcare-personalized-medical-devices-3-d-printing-technology-is-used-to-manufacture-customized-medical-devices-such-as-prosthetics-dental-implants-and-hearing-aids-tailored-to-the-specific-needs-of-patients-surgical-planning-and-training-by-printing-anatomical-models-of-patients-doctors-can-better-plan-surgical-procedures-and-conduct-simulation-training-to-improve-surgical-success-rates-aerospace-industry-lightweight-components-3-d-printing-technology-is-used-to-produce-lightweight-components-for-aircraft-and-spacecraft-such-as-structural-brackets-turbine-blades-and-fuel-nozzles-reducing-weight-and-improving-fuel-efficiency-rapid-prototyping-using-3-d-printing-for-the-rapid-prototyping-of-complex-parts-accelerates-the-design-and-testing-process-construction-and-building-3-d-printed-buildings-using-large-scale-3-d-printers-to-print-houses-and-other-building-structures-significantly-reduces-construction-time-and-costs-several-projects-have-successfully-built-3-d-printed-houses-and-bridges-concrete-3-d-printing-the-development-of-3-d-printing-technology-for-concrete-is-used-for-on-site-construction-and-repair-art-and-fashion-custom-fashion-and-accessories-designers-use-3-d-printing-technology-to-create-unique-fashion-items-jewelry-and-accessories-achieving-complex-geometries-and-personalized-designs-art-and-sculpture-artists-leverage-3-d-printing-technology-to-create-intricate-artworks-and-sculptures-exploring-new-forms-of-expression-consumer-goods-and-manufacturing-customized-products-3-d-printing-technology-is-used-to-manufacture-personalized-consumer-goods-such-as-footwear-eyewear-and-furniture-tailored-to-the-specific-needs-of-consumers-small-batch-production-3-d-printing-technology-is-suitable-for-small-batch-production-allowing-for-quick-market-response-reduced-inventory-and-waste-reduction-span3 {
-  color: #000000;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 400;
-}
-.medical-and-healthcare-personalized-medical-devices-3-d-printing-technology-is-used-to-manufacture-customized-medical-devices-such-as-prosthetics-dental-implants-and-hearing-aids-tailored-to-the-specific-needs-of-patients-surgical-planning-and-training-by-printing-anatomical-models-of-patients-doctors-can-better-plan-surgical-procedures-and-conduct-simulation-training-to-improve-surgical-success-rates-aerospace-industry-lightweight-components-3-d-printing-technology-is-used-to-produce-lightweight-components-for-aircraft-and-spacecraft-such-as-structural-brackets-turbine-blades-and-fuel-nozzles-reducing-weight-and-improving-fuel-efficiency-rapid-prototyping-using-3-d-printing-for-the-rapid-prototyping-of-complex-parts-accelerates-the-design-and-testing-process-construction-and-building-3-d-printed-buildings-using-large-scale-3-d-printers-to-print-houses-and-other-building-structures-significantly-reduces-construction-time-and-costs-several-projects-have-successfully-built-3-d-printed-houses-and-bridges-concrete-3-d-printing-the-development-of-3-d-printing-technology-for-concrete-is-used-for-on-site-construction-and-repair-art-and-fashion-custom-fashion-and-accessories-designers-use-3-d-printing-technology-to-create-unique-fashion-items-jewelry-and-accessories-achieving-complex-geometries-and-personalized-designs-art-and-sculpture-artists-leverage-3-d-printing-technology-to-create-intricate-artworks-and-sculptures-exploring-new-forms-of-expression-consumer-goods-and-manufacturing-customized-products-3-d-printing-technology-is-used-to-manufacture-personalized-consumer-goods-such-as-footwear-eyewear-and-furniture-tailored-to-the-specific-needs-of-consumers-small-batch-production-3-d-printing-technology-is-suitable-for-small-batch-production-allowing-for-quick-market-response-reduced-inventory-and-waste-reduction-span4 {
-  color: #000000;
-  list-style-type: disc;
-  padding-left: 1em;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 200;
-}
-.medical-and-healthcare-personalized-medical-devices-3-d-printing-technology-is-used-to-manufacture-customized-medical-devices-such-as-prosthetics-dental-implants-and-hearing-aids-tailored-to-the-specific-needs-of-patients-surgical-planning-and-training-by-printing-anatomical-models-of-patients-doctors-can-better-plan-surgical-procedures-and-conduct-simulation-training-to-improve-surgical-success-rates-aerospace-industry-lightweight-components-3-d-printing-technology-is-used-to-produce-lightweight-components-for-aircraft-and-spacecraft-such-as-structural-brackets-turbine-blades-and-fuel-nozzles-reducing-weight-and-improving-fuel-efficiency-rapid-prototyping-using-3-d-printing-for-the-rapid-prototyping-of-complex-parts-accelerates-the-design-and-testing-process-construction-and-building-3-d-printed-buildings-using-large-scale-3-d-printers-to-print-houses-and-other-building-structures-significantly-reduces-construction-time-and-costs-several-projects-have-successfully-built-3-d-printed-houses-and-bridges-concrete-3-d-printing-the-development-of-3-d-printing-technology-for-concrete-is-used-for-on-site-construction-and-repair-art-and-fashion-custom-fashion-and-accessories-designers-use-3-d-printing-technology-to-create-unique-fashion-items-jewelry-and-accessories-achieving-complex-geometries-and-personalized-designs-art-and-sculpture-artists-leverage-3-d-printing-technology-to-create-intricate-artworks-and-sculptures-exploring-new-forms-of-expression-consumer-goods-and-manufacturing-customized-products-3-d-printing-technology-is-used-to-manufacture-personalized-consumer-goods-such-as-footwear-eyewear-and-furniture-tailored-to-the-specific-needs-of-consumers-small-batch-production-3-d-printing-technology-is-suitable-for-small-batch-production-allowing-for-quick-market-response-reduced-inventory-and-waste-reduction-span5 {
-  color: #000000;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 400;
-}
-.medical-and-healthcare-personalized-medical-devices-3-d-printing-technology-is-used-to-manufacture-customized-medical-devices-such-as-prosthetics-dental-implants-and-hearing-aids-tailored-to-the-specific-needs-of-patients-surgical-planning-and-training-by-printing-anatomical-models-of-patients-doctors-can-better-plan-surgical-procedures-and-conduct-simulation-training-to-improve-surgical-success-rates-aerospace-industry-lightweight-components-3-d-printing-technology-is-used-to-produce-lightweight-components-for-aircraft-and-spacecraft-such-as-structural-brackets-turbine-blades-and-fuel-nozzles-reducing-weight-and-improving-fuel-efficiency-rapid-prototyping-using-3-d-printing-for-the-rapid-prototyping-of-complex-parts-accelerates-the-design-and-testing-process-construction-and-building-3-d-printed-buildings-using-large-scale-3-d-printers-to-print-houses-and-other-building-structures-significantly-reduces-construction-time-and-costs-several-projects-have-successfully-built-3-d-printed-houses-and-bridges-concrete-3-d-printing-the-development-of-3-d-printing-technology-for-concrete-is-used-for-on-site-construction-and-repair-art-and-fashion-custom-fashion-and-accessories-designers-use-3-d-printing-technology-to-create-unique-fashion-items-jewelry-and-accessories-achieving-complex-geometries-and-personalized-designs-art-and-sculpture-artists-leverage-3-d-printing-technology-to-create-intricate-artworks-and-sculptures-exploring-new-forms-of-expression-consumer-goods-and-manufacturing-customized-products-3-d-printing-technology-is-used-to-manufacture-personalized-consumer-goods-such-as-footwear-eyewear-and-furniture-tailored-to-the-specific-needs-of-consumers-small-batch-production-3-d-printing-technology-is-suitable-for-small-batch-production-allowing-for-quick-market-response-reduced-inventory-and-waste-reduction-span6 {
-  color: #000000;
-  list-style-type: disc;
-  padding-left: 1em;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 200;
-}
-.medical-and-healthcare-personalized-medical-devices-3-d-printing-technology-is-used-to-manufacture-customized-medical-devices-such-as-prosthetics-dental-implants-and-hearing-aids-tailored-to-the-specific-needs-of-patients-surgical-planning-and-training-by-printing-anatomical-models-of-patients-doctors-can-better-plan-surgical-procedures-and-conduct-simulation-training-to-improve-surgical-success-rates-aerospace-industry-lightweight-components-3-d-printing-technology-is-used-to-produce-lightweight-components-for-aircraft-and-spacecraft-such-as-structural-brackets-turbine-blades-and-fuel-nozzles-reducing-weight-and-improving-fuel-efficiency-rapid-prototyping-using-3-d-printing-for-the-rapid-prototyping-of-complex-parts-accelerates-the-design-and-testing-process-construction-and-building-3-d-printed-buildings-using-large-scale-3-d-printers-to-print-houses-and-other-building-structures-significantly-reduces-construction-time-and-costs-several-projects-have-successfully-built-3-d-printed-houses-and-bridges-concrete-3-d-printing-the-development-of-3-d-printing-technology-for-concrete-is-used-for-on-site-construction-and-repair-art-and-fashion-custom-fashion-and-accessories-designers-use-3-d-printing-technology-to-create-unique-fashion-items-jewelry-and-accessories-achieving-complex-geometries-and-personalized-designs-art-and-sculpture-artists-leverage-3-d-printing-technology-to-create-intricate-artworks-and-sculptures-exploring-new-forms-of-expression-consumer-goods-and-manufacturing-customized-products-3-d-printing-technology-is-used-to-manufacture-personalized-consumer-goods-such-as-footwear-eyewear-and-furniture-tailored-to-the-specific-needs-of-consumers-small-batch-production-3-d-printing-technology-is-suitable-for-small-batch-production-allowing-for-quick-market-response-reduced-inventory-and-waste-reduction-span7 {
-  color: #000000;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 400;
-}
-.medical-and-healthcare-personalized-medical-devices-3-d-printing-technology-is-used-to-manufacture-customized-medical-devices-such-as-prosthetics-dental-implants-and-hearing-aids-tailored-to-the-specific-needs-of-patients-surgical-planning-and-training-by-printing-anatomical-models-of-patients-doctors-can-better-plan-surgical-procedures-and-conduct-simulation-training-to-improve-surgical-success-rates-aerospace-industry-lightweight-components-3-d-printing-technology-is-used-to-produce-lightweight-components-for-aircraft-and-spacecraft-such-as-structural-brackets-turbine-blades-and-fuel-nozzles-reducing-weight-and-improving-fuel-efficiency-rapid-prototyping-using-3-d-printing-for-the-rapid-prototyping-of-complex-parts-accelerates-the-design-and-testing-process-construction-and-building-3-d-printed-buildings-using-large-scale-3-d-printers-to-print-houses-and-other-building-structures-significantly-reduces-construction-time-and-costs-several-projects-have-successfully-built-3-d-printed-houses-and-bridges-concrete-3-d-printing-the-development-of-3-d-printing-technology-for-concrete-is-used-for-on-site-construction-and-repair-art-and-fashion-custom-fashion-and-accessories-designers-use-3-d-printing-technology-to-create-unique-fashion-items-jewelry-and-accessories-achieving-complex-geometries-and-personalized-designs-art-and-sculpture-artists-leverage-3-d-printing-technology-to-create-intricate-artworks-and-sculptures-exploring-new-forms-of-expression-consumer-goods-and-manufacturing-customized-products-3-d-printing-technology-is-used-to-manufacture-personalized-consumer-goods-such-as-footwear-eyewear-and-furniture-tailored-to-the-specific-needs-of-consumers-small-batch-production-3-d-printing-technology-is-suitable-for-small-batch-production-allowing-for-quick-market-response-reduced-inventory-and-waste-reduction-span8 {
-  color: #000000;
-  list-style-type: disc;
-  padding-left: 1em;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 200;
-}
-.medical-and-healthcare-personalized-medical-devices-3-d-printing-technology-is-used-to-manufacture-customized-medical-devices-such-as-prosthetics-dental-implants-and-hearing-aids-tailored-to-the-specific-needs-of-patients-surgical-planning-and-training-by-printing-anatomical-models-of-patients-doctors-can-better-plan-surgical-procedures-and-conduct-simulation-training-to-improve-surgical-success-rates-aerospace-industry-lightweight-components-3-d-printing-technology-is-used-to-produce-lightweight-components-for-aircraft-and-spacecraft-such-as-structural-brackets-turbine-blades-and-fuel-nozzles-reducing-weight-and-improving-fuel-efficiency-rapid-prototyping-using-3-d-printing-for-the-rapid-prototyping-of-complex-parts-accelerates-the-design-and-testing-process-construction-and-building-3-d-printed-buildings-using-large-scale-3-d-printers-to-print-houses-and-other-building-structures-significantly-reduces-construction-time-and-costs-several-projects-have-successfully-built-3-d-printed-houses-and-bridges-concrete-3-d-printing-the-development-of-3-d-printing-technology-for-concrete-is-used-for-on-site-construction-and-repair-art-and-fashion-custom-fashion-and-accessories-designers-use-3-d-printing-technology-to-create-unique-fashion-items-jewelry-and-accessories-achieving-complex-geometries-and-personalized-designs-art-and-sculpture-artists-leverage-3-d-printing-technology-to-create-intricate-artworks-and-sculptures-exploring-new-forms-of-expression-consumer-goods-and-manufacturing-customized-products-3-d-printing-technology-is-used-to-manufacture-personalized-consumer-goods-such-as-footwear-eyewear-and-furniture-tailored-to-the-specific-needs-of-consumers-small-batch-production-3-d-printing-technology-is-suitable-for-small-batch-production-allowing-for-quick-market-response-reduced-inventory-and-waste-reduction-span9 {
-  color: #000000;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 400;
-}
-.medical-and-healthcare-personalized-medical-devices-3-d-printing-technology-is-used-to-manufacture-customized-medical-devices-such-as-prosthetics-dental-implants-and-hearing-aids-tailored-to-the-specific-needs-of-patients-surgical-planning-and-training-by-printing-anatomical-models-of-patients-doctors-can-better-plan-surgical-procedures-and-conduct-simulation-training-to-improve-surgical-success-rates-aerospace-industry-lightweight-components-3-d-printing-technology-is-used-to-produce-lightweight-components-for-aircraft-and-spacecraft-such-as-structural-brackets-turbine-blades-and-fuel-nozzles-reducing-weight-and-improving-fuel-efficiency-rapid-prototyping-using-3-d-printing-for-the-rapid-prototyping-of-complex-parts-accelerates-the-design-and-testing-process-construction-and-building-3-d-printed-buildings-using-large-scale-3-d-printers-to-print-houses-and-other-building-structures-significantly-reduces-construction-time-and-costs-several-projects-have-successfully-built-3-d-printed-houses-and-bridges-concrete-3-d-printing-the-development-of-3-d-printing-technology-for-concrete-is-used-for-on-site-construction-and-repair-art-and-fashion-custom-fashion-and-accessories-designers-use-3-d-printing-technology-to-create-unique-fashion-items-jewelry-and-accessories-achieving-complex-geometries-and-personalized-designs-art-and-sculpture-artists-leverage-3-d-printing-technology-to-create-intricate-artworks-and-sculptures-exploring-new-forms-of-expression-consumer-goods-and-manufacturing-customized-products-3-d-printing-technology-is-used-to-manufacture-personalized-consumer-goods-such-as-footwear-eyewear-and-furniture-tailored-to-the-specific-needs-of-consumers-small-batch-production-3-d-printing-technology-is-suitable-for-small-batch-production-allowing-for-quick-market-response-reduced-inventory-and-waste-reduction-span10 {
-  color: #000000;
-  list-style-type: disc;
-  padding-left: 1em;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 200;
-}
-.latest-applications {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 18px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 400;
-  position: absolute;
-  left: calc(50% - 537px);
-  top: calc(50% - -1909.5px);
-  width: 695px;
-  height: 25.02px;
-}
-.https-wenku-baidu-com-view-b-4034-ad-92-d-60-ddccda-38376-baf-1-ffc-4-fff-47-e-21-d-agg-id-daeaa-45-c-5322-aaea-998-fcc-22-bcd-126-fff-7055-d-8-b-fr-catalog-main-text-ernie-recall-feed-index-3-awk-recommend-main-3-wkts-1718243917357-bd-query-e-6-bf-80-e-5-85-89-e-5-88-87-e-5-89-b-2-e-5-ae-9-e-e-9-aa-8-c-e-5-ae-a-4-e-5-ae-89-e-5-85-a-8-e-6-8-e-aa-e-6-96-bd {
-  color: var(--color, rgba(9, 51, 202, 0.78));
-  text-align: justified;
-  font-family: "Inter-Medium", sans-serif;
-  font-size: 16px;
-  line-height: 24px;
-  font-weight: 500;
-  text-decoration: underline;
-  position: absolute;
-  left: calc(50% - 507px);
-  top: calc(50% - -3035.5px);
-  width: 1053px;
-  height: 115px;
-}
-.https-wenku-baidu-com-view-daeaa-45-c-5322-aaea-998-fcc-22-bcd-126-fff-7055-d-8-b-html-wkts-1718243893129-bd-query-e-6-bf-80-e-5-85-89-e-5-88-87-e-5-89-b-2-e-5-ae-9-e-e-9-aa-8-c-e-5-ae-a-4-e-5-ae-89-e-5-85-a-8-e-6-8-e-aa-e-6-96-bd-need-welcome-recommand-1 {
-  color: var(--color, rgba(9, 51, 202, 0.78));
-  text-align: justified;
-  font-family: "Inter-Medium", sans-serif;
-  font-size: 16px;
-  line-height: 24px;
-  font-weight: 500;
-  text-decoration: underline;
-  position: absolute;
-  left: calc(50% - 507px);
-  top: calc(50% - -2944.5px);
-  width: 1053px;
-  height: 80px;
-}
-._6-how-to-keep-safety {
+._6-try-to-read-gcode {
   color: #000000;
   text-align: left;
   font-family: "Inter-SemiBold", sans-serif;
@@ -792,546 +937,43 @@
   letter-spacing: 0.05em;
   font-weight: 600;
   position: absolute;
-  left: calc(50% - 557px);
-  top: calc(50% - -2881.5px);
+  left: calc(50% - 558px);
+  top: calc(50% - -6210px);
   width: 695px;
   height: 25.02px;
 }
-.group-65 {
-  position: absolute;
-  inset: 0;
-}
-.group-593 {
-  width: 1127px;
-  height: 867px;
-  position: static;
-}
-.group-563 {
-  width: 1127px;
-  height: 867px;
-  position: static;
-}
-.cnc-milling-machines-application-used-for-cutting-and-shaping-materials-like-metal-wood-and-plastic-commonly-used-for-creating-complex-parts-with-precise-dimensions-key-features-multi-axis-3-to-5-axes-movement-tool-changers-coolant-systems-cnc-lathes-application-primarily-used-for-producing-cylindrical-parts-such-as-shafts-bolts-and-bushings-key-features-rotating-workpiece-fixed-cutting-tools-capability-for-turning-facing-threading-cnc-routers-application-ideal-for-cutting-and-engraving-wood-composites-aluminum-and-plastic-key-features-high-speed-spindles-large-working-area-multi-axis-capabilities-cnc-plasma-cutters-application-used-for-cutting-metals-like-steel-stainless-steel-and-aluminum-key-features-uses-a-plasma-torch-high-precision-and-speed-capable-of-cutting-thick-materials-cnc-laser-cutters-application-suitable-for-cutting-and-engraving-a-variety-of-materials-including-metals-plastics-and-wood-key-features-high-precision-non-contact-cutting-capable-of-intricate-designs-cnc-electrical-discharge-machines-edm-application-used-for-cutting-hard-metals-and-creating-intricate-shapes-that-are-difficult-with-traditional-machining-key-features-uses-electrical-discharges-sparks-to-erode-material-high-precision-used-for-dies-and-molds-cnc-grinders-application-used-for-grinding-operations-to-achieve-fine-finishes-and-precise-dimensions-key-features-rotary-grinding-wheels-high-precision-suitable-for-tool-and-die-making {
+.g-code-also-known-as-the-g-programming-language-is-a-programming-language-widely-used-in-cnc-machine-tools-and-3-d-printers-it-consists-of-a-series-of-characters-and-numbers-that-are-used-to-guide-the-movement-and-operation-of-the-machine-g-00-quick-positioning-this-command-allows-the-machine-to-move-to-the-specified-position-at-the-fastest-speed-g-01-linear-interpolation-this-command-causes-the-machine-to-move-along-a-straight-path-at-a-specified-speed-g-02-clockwise-circular-interpolation-this-command-causes-the-machine-to-move-along-a-clockwise-circular-path-at-a-specified-speed-g-03-counterclockwise-circular-interpolation-this-command-causes-the-machine-to-move-along-a-counterclockwise-circular-path-at-a-specified-speed-g-90-absolute-coordinate-system-this-command-makes-all-position-commands-relative-to-a-fixed-origin-g-91-relative-to-the-coordinate-system-this-command-makes-all-position-commands-relative-to-the-current-position {
   color: #000000;
   text-align: justified;
-  font-family: "-", sans-serif;
+  font-family: "Inter-ExtraLight", sans-serif;
   font-size: 16px;
   line-height: 39px;
-  font-weight: 400;
+  font-weight: 200;
   position: absolute;
-  left: calc(50% - 501px);
-  top: calc(50% - -3566.5px);
+  left: calc(50% - 558px);
+  top: calc(50% - -6283px);
   width: 1127px;
-  height: 867px;
+  height: 374px;
 }
-.cnc-milling-machines-application-used-for-cutting-and-shaping-materials-like-metal-wood-and-plastic-commonly-used-for-creating-complex-parts-with-precise-dimensions-key-features-multi-axis-3-to-5-axes-movement-tool-changers-coolant-systems-cnc-lathes-application-primarily-used-for-producing-cylindrical-parts-such-as-shafts-bolts-and-bushings-key-features-rotating-workpiece-fixed-cutting-tools-capability-for-turning-facing-threading-cnc-routers-application-ideal-for-cutting-and-engraving-wood-composites-aluminum-and-plastic-key-features-high-speed-spindles-large-working-area-multi-axis-capabilities-cnc-plasma-cutters-application-used-for-cutting-metals-like-steel-stainless-steel-and-aluminum-key-features-uses-a-plasma-torch-high-precision-and-speed-capable-of-cutting-thick-materials-cnc-laser-cutters-application-suitable-for-cutting-and-engraving-a-variety-of-materials-including-metals-plastics-and-wood-key-features-high-precision-non-contact-cutting-capable-of-intricate-designs-cnc-electrical-discharge-machines-edm-application-used-for-cutting-hard-metals-and-creating-intricate-shapes-that-are-difficult-with-traditional-machining-key-features-uses-electrical-discharges-sparks-to-erode-material-high-precision-used-for-dies-and-molds-cnc-grinders-application-used-for-grinding-operations-to-achieve-fine-finishes-and-precise-dimensions-key-features-rotary-grinding-wheels-high-precision-suitable-for-tool-and-die-making-span {
-  color: #000000;
-  list-style-type: decimal;
-  padding-left: 1em;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 400;
-}
-.cnc-milling-machines-application-used-for-cutting-and-shaping-materials-like-metal-wood-and-plastic-commonly-used-for-creating-complex-parts-with-precise-dimensions-key-features-multi-axis-3-to-5-axes-movement-tool-changers-coolant-systems-cnc-lathes-application-primarily-used-for-producing-cylindrical-parts-such-as-shafts-bolts-and-bushings-key-features-rotating-workpiece-fixed-cutting-tools-capability-for-turning-facing-threading-cnc-routers-application-ideal-for-cutting-and-engraving-wood-composites-aluminum-and-plastic-key-features-high-speed-spindles-large-working-area-multi-axis-capabilities-cnc-plasma-cutters-application-used-for-cutting-metals-like-steel-stainless-steel-and-aluminum-key-features-uses-a-plasma-torch-high-precision-and-speed-capable-of-cutting-thick-materials-cnc-laser-cutters-application-suitable-for-cutting-and-engraving-a-variety-of-materials-including-metals-plastics-and-wood-key-features-high-precision-non-contact-cutting-capable-of-intricate-designs-cnc-electrical-discharge-machines-edm-application-used-for-cutting-hard-metals-and-creating-intricate-shapes-that-are-difficult-with-traditional-machining-key-features-uses-electrical-discharges-sparks-to-erode-material-high-precision-used-for-dies-and-molds-cnc-grinders-application-used-for-grinding-operations-to-achieve-fine-finishes-and-precise-dimensions-key-features-rotary-grinding-wheels-high-precision-suitable-for-tool-and-die-making-span2 {
-  color: #000000;
-  list-style-type: disc;
-  padding-left: 1em;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 200;
-}
-.cnc-milling-machines-application-used-for-cutting-and-shaping-materials-like-metal-wood-and-plastic-commonly-used-for-creating-complex-parts-with-precise-dimensions-key-features-multi-axis-3-to-5-axes-movement-tool-changers-coolant-systems-cnc-lathes-application-primarily-used-for-producing-cylindrical-parts-such-as-shafts-bolts-and-bushings-key-features-rotating-workpiece-fixed-cutting-tools-capability-for-turning-facing-threading-cnc-routers-application-ideal-for-cutting-and-engraving-wood-composites-aluminum-and-plastic-key-features-high-speed-spindles-large-working-area-multi-axis-capabilities-cnc-plasma-cutters-application-used-for-cutting-metals-like-steel-stainless-steel-and-aluminum-key-features-uses-a-plasma-torch-high-precision-and-speed-capable-of-cutting-thick-materials-cnc-laser-cutters-application-suitable-for-cutting-and-engraving-a-variety-of-materials-including-metals-plastics-and-wood-key-features-high-precision-non-contact-cutting-capable-of-intricate-designs-cnc-electrical-discharge-machines-edm-application-used-for-cutting-hard-metals-and-creating-intricate-shapes-that-are-difficult-with-traditional-machining-key-features-uses-electrical-discharges-sparks-to-erode-material-high-precision-used-for-dies-and-molds-cnc-grinders-application-used-for-grinding-operations-to-achieve-fine-finishes-and-precise-dimensions-key-features-rotary-grinding-wheels-high-precision-suitable-for-tool-and-die-making-span3 {
-  color: #000000;
-  list-style-type: decimal;
-  padding-left: 1em;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 400;
-}
-.cnc-milling-machines-application-used-for-cutting-and-shaping-materials-like-metal-wood-and-plastic-commonly-used-for-creating-complex-parts-with-precise-dimensions-key-features-multi-axis-3-to-5-axes-movement-tool-changers-coolant-systems-cnc-lathes-application-primarily-used-for-producing-cylindrical-parts-such-as-shafts-bolts-and-bushings-key-features-rotating-workpiece-fixed-cutting-tools-capability-for-turning-facing-threading-cnc-routers-application-ideal-for-cutting-and-engraving-wood-composites-aluminum-and-plastic-key-features-high-speed-spindles-large-working-area-multi-axis-capabilities-cnc-plasma-cutters-application-used-for-cutting-metals-like-steel-stainless-steel-and-aluminum-key-features-uses-a-plasma-torch-high-precision-and-speed-capable-of-cutting-thick-materials-cnc-laser-cutters-application-suitable-for-cutting-and-engraving-a-variety-of-materials-including-metals-plastics-and-wood-key-features-high-precision-non-contact-cutting-capable-of-intricate-designs-cnc-electrical-discharge-machines-edm-application-used-for-cutting-hard-metals-and-creating-intricate-shapes-that-are-difficult-with-traditional-machining-key-features-uses-electrical-discharges-sparks-to-erode-material-high-precision-used-for-dies-and-molds-cnc-grinders-application-used-for-grinding-operations-to-achieve-fine-finishes-and-precise-dimensions-key-features-rotary-grinding-wheels-high-precision-suitable-for-tool-and-die-making-span4 {
-  color: #000000;
-  list-style-type: disc;
-  padding-left: 1em;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 200;
-}
-.cnc-milling-machines-application-used-for-cutting-and-shaping-materials-like-metal-wood-and-plastic-commonly-used-for-creating-complex-parts-with-precise-dimensions-key-features-multi-axis-3-to-5-axes-movement-tool-changers-coolant-systems-cnc-lathes-application-primarily-used-for-producing-cylindrical-parts-such-as-shafts-bolts-and-bushings-key-features-rotating-workpiece-fixed-cutting-tools-capability-for-turning-facing-threading-cnc-routers-application-ideal-for-cutting-and-engraving-wood-composites-aluminum-and-plastic-key-features-high-speed-spindles-large-working-area-multi-axis-capabilities-cnc-plasma-cutters-application-used-for-cutting-metals-like-steel-stainless-steel-and-aluminum-key-features-uses-a-plasma-torch-high-precision-and-speed-capable-of-cutting-thick-materials-cnc-laser-cutters-application-suitable-for-cutting-and-engraving-a-variety-of-materials-including-metals-plastics-and-wood-key-features-high-precision-non-contact-cutting-capable-of-intricate-designs-cnc-electrical-discharge-machines-edm-application-used-for-cutting-hard-metals-and-creating-intricate-shapes-that-are-difficult-with-traditional-machining-key-features-uses-electrical-discharges-sparks-to-erode-material-high-precision-used-for-dies-and-molds-cnc-grinders-application-used-for-grinding-operations-to-achieve-fine-finishes-and-precise-dimensions-key-features-rotary-grinding-wheels-high-precision-suitable-for-tool-and-die-making-span5 {
-  color: #000000;
-  list-style-type: decimal;
-  padding-left: 1em;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 400;
-}
-.cnc-milling-machines-application-used-for-cutting-and-shaping-materials-like-metal-wood-and-plastic-commonly-used-for-creating-complex-parts-with-precise-dimensions-key-features-multi-axis-3-to-5-axes-movement-tool-changers-coolant-systems-cnc-lathes-application-primarily-used-for-producing-cylindrical-parts-such-as-shafts-bolts-and-bushings-key-features-rotating-workpiece-fixed-cutting-tools-capability-for-turning-facing-threading-cnc-routers-application-ideal-for-cutting-and-engraving-wood-composites-aluminum-and-plastic-key-features-high-speed-spindles-large-working-area-multi-axis-capabilities-cnc-plasma-cutters-application-used-for-cutting-metals-like-steel-stainless-steel-and-aluminum-key-features-uses-a-plasma-torch-high-precision-and-speed-capable-of-cutting-thick-materials-cnc-laser-cutters-application-suitable-for-cutting-and-engraving-a-variety-of-materials-including-metals-plastics-and-wood-key-features-high-precision-non-contact-cutting-capable-of-intricate-designs-cnc-electrical-discharge-machines-edm-application-used-for-cutting-hard-metals-and-creating-intricate-shapes-that-are-difficult-with-traditional-machining-key-features-uses-electrical-discharges-sparks-to-erode-material-high-precision-used-for-dies-and-molds-cnc-grinders-application-used-for-grinding-operations-to-achieve-fine-finishes-and-precise-dimensions-key-features-rotary-grinding-wheels-high-precision-suitable-for-tool-and-die-making-span6 {
-  color: #000000;
-  list-style-type: disc;
-  padding-left: 1em;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 200;
-}
-.cnc-milling-machines-application-used-for-cutting-and-shaping-materials-like-metal-wood-and-plastic-commonly-used-for-creating-complex-parts-with-precise-dimensions-key-features-multi-axis-3-to-5-axes-movement-tool-changers-coolant-systems-cnc-lathes-application-primarily-used-for-producing-cylindrical-parts-such-as-shafts-bolts-and-bushings-key-features-rotating-workpiece-fixed-cutting-tools-capability-for-turning-facing-threading-cnc-routers-application-ideal-for-cutting-and-engraving-wood-composites-aluminum-and-plastic-key-features-high-speed-spindles-large-working-area-multi-axis-capabilities-cnc-plasma-cutters-application-used-for-cutting-metals-like-steel-stainless-steel-and-aluminum-key-features-uses-a-plasma-torch-high-precision-and-speed-capable-of-cutting-thick-materials-cnc-laser-cutters-application-suitable-for-cutting-and-engraving-a-variety-of-materials-including-metals-plastics-and-wood-key-features-high-precision-non-contact-cutting-capable-of-intricate-designs-cnc-electrical-discharge-machines-edm-application-used-for-cutting-hard-metals-and-creating-intricate-shapes-that-are-difficult-with-traditional-machining-key-features-uses-electrical-discharges-sparks-to-erode-material-high-precision-used-for-dies-and-molds-cnc-grinders-application-used-for-grinding-operations-to-achieve-fine-finishes-and-precise-dimensions-key-features-rotary-grinding-wheels-high-precision-suitable-for-tool-and-die-making-span7 {
-  color: #000000;
-  list-style-type: decimal;
-  padding-left: 1em;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 400;
-}
-.cnc-milling-machines-application-used-for-cutting-and-shaping-materials-like-metal-wood-and-plastic-commonly-used-for-creating-complex-parts-with-precise-dimensions-key-features-multi-axis-3-to-5-axes-movement-tool-changers-coolant-systems-cnc-lathes-application-primarily-used-for-producing-cylindrical-parts-such-as-shafts-bolts-and-bushings-key-features-rotating-workpiece-fixed-cutting-tools-capability-for-turning-facing-threading-cnc-routers-application-ideal-for-cutting-and-engraving-wood-composites-aluminum-and-plastic-key-features-high-speed-spindles-large-working-area-multi-axis-capabilities-cnc-plasma-cutters-application-used-for-cutting-metals-like-steel-stainless-steel-and-aluminum-key-features-uses-a-plasma-torch-high-precision-and-speed-capable-of-cutting-thick-materials-cnc-laser-cutters-application-suitable-for-cutting-and-engraving-a-variety-of-materials-including-metals-plastics-and-wood-key-features-high-precision-non-contact-cutting-capable-of-intricate-designs-cnc-electrical-discharge-machines-edm-application-used-for-cutting-hard-metals-and-creating-intricate-shapes-that-are-difficult-with-traditional-machining-key-features-uses-electrical-discharges-sparks-to-erode-material-high-precision-used-for-dies-and-molds-cnc-grinders-application-used-for-grinding-operations-to-achieve-fine-finishes-and-precise-dimensions-key-features-rotary-grinding-wheels-high-precision-suitable-for-tool-and-die-making-span8 {
-  color: #000000;
-  list-style-type: disc;
-  padding-left: 1em;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 200;
-}
-.cnc-milling-machines-application-used-for-cutting-and-shaping-materials-like-metal-wood-and-plastic-commonly-used-for-creating-complex-parts-with-precise-dimensions-key-features-multi-axis-3-to-5-axes-movement-tool-changers-coolant-systems-cnc-lathes-application-primarily-used-for-producing-cylindrical-parts-such-as-shafts-bolts-and-bushings-key-features-rotating-workpiece-fixed-cutting-tools-capability-for-turning-facing-threading-cnc-routers-application-ideal-for-cutting-and-engraving-wood-composites-aluminum-and-plastic-key-features-high-speed-spindles-large-working-area-multi-axis-capabilities-cnc-plasma-cutters-application-used-for-cutting-metals-like-steel-stainless-steel-and-aluminum-key-features-uses-a-plasma-torch-high-precision-and-speed-capable-of-cutting-thick-materials-cnc-laser-cutters-application-suitable-for-cutting-and-engraving-a-variety-of-materials-including-metals-plastics-and-wood-key-features-high-precision-non-contact-cutting-capable-of-intricate-designs-cnc-electrical-discharge-machines-edm-application-used-for-cutting-hard-metals-and-creating-intricate-shapes-that-are-difficult-with-traditional-machining-key-features-uses-electrical-discharges-sparks-to-erode-material-high-precision-used-for-dies-and-molds-cnc-grinders-application-used-for-grinding-operations-to-achieve-fine-finishes-and-precise-dimensions-key-features-rotary-grinding-wheels-high-precision-suitable-for-tool-and-die-making-span9 {
-  color: #000000;
-  list-style-type: decimal;
-  padding-left: 1em;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 400;
-}
-.cnc-milling-machines-application-used-for-cutting-and-shaping-materials-like-metal-wood-and-plastic-commonly-used-for-creating-complex-parts-with-precise-dimensions-key-features-multi-axis-3-to-5-axes-movement-tool-changers-coolant-systems-cnc-lathes-application-primarily-used-for-producing-cylindrical-parts-such-as-shafts-bolts-and-bushings-key-features-rotating-workpiece-fixed-cutting-tools-capability-for-turning-facing-threading-cnc-routers-application-ideal-for-cutting-and-engraving-wood-composites-aluminum-and-plastic-key-features-high-speed-spindles-large-working-area-multi-axis-capabilities-cnc-plasma-cutters-application-used-for-cutting-metals-like-steel-stainless-steel-and-aluminum-key-features-uses-a-plasma-torch-high-precision-and-speed-capable-of-cutting-thick-materials-cnc-laser-cutters-application-suitable-for-cutting-and-engraving-a-variety-of-materials-including-metals-plastics-and-wood-key-features-high-precision-non-contact-cutting-capable-of-intricate-designs-cnc-electrical-discharge-machines-edm-application-used-for-cutting-hard-metals-and-creating-intricate-shapes-that-are-difficult-with-traditional-machining-key-features-uses-electrical-discharges-sparks-to-erode-material-high-precision-used-for-dies-and-molds-cnc-grinders-application-used-for-grinding-operations-to-achieve-fine-finishes-and-precise-dimensions-key-features-rotary-grinding-wheels-high-precision-suitable-for-tool-and-die-making-span10 {
-  color: #000000;
-  list-style-type: disc;
-  padding-left: 1em;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 200;
-}
-.cnc-milling-machines-application-used-for-cutting-and-shaping-materials-like-metal-wood-and-plastic-commonly-used-for-creating-complex-parts-with-precise-dimensions-key-features-multi-axis-3-to-5-axes-movement-tool-changers-coolant-systems-cnc-lathes-application-primarily-used-for-producing-cylindrical-parts-such-as-shafts-bolts-and-bushings-key-features-rotating-workpiece-fixed-cutting-tools-capability-for-turning-facing-threading-cnc-routers-application-ideal-for-cutting-and-engraving-wood-composites-aluminum-and-plastic-key-features-high-speed-spindles-large-working-area-multi-axis-capabilities-cnc-plasma-cutters-application-used-for-cutting-metals-like-steel-stainless-steel-and-aluminum-key-features-uses-a-plasma-torch-high-precision-and-speed-capable-of-cutting-thick-materials-cnc-laser-cutters-application-suitable-for-cutting-and-engraving-a-variety-of-materials-including-metals-plastics-and-wood-key-features-high-precision-non-contact-cutting-capable-of-intricate-designs-cnc-electrical-discharge-machines-edm-application-used-for-cutting-hard-metals-and-creating-intricate-shapes-that-are-difficult-with-traditional-machining-key-features-uses-electrical-discharges-sparks-to-erode-material-high-precision-used-for-dies-and-molds-cnc-grinders-application-used-for-grinding-operations-to-achieve-fine-finishes-and-precise-dimensions-key-features-rotary-grinding-wheels-high-precision-suitable-for-tool-and-die-making-span11 {
-  color: #000000;
-  list-style-type: decimal;
-  padding-left: 1em;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 400;
-}
-.cnc-milling-machines-application-used-for-cutting-and-shaping-materials-like-metal-wood-and-plastic-commonly-used-for-creating-complex-parts-with-precise-dimensions-key-features-multi-axis-3-to-5-axes-movement-tool-changers-coolant-systems-cnc-lathes-application-primarily-used-for-producing-cylindrical-parts-such-as-shafts-bolts-and-bushings-key-features-rotating-workpiece-fixed-cutting-tools-capability-for-turning-facing-threading-cnc-routers-application-ideal-for-cutting-and-engraving-wood-composites-aluminum-and-plastic-key-features-high-speed-spindles-large-working-area-multi-axis-capabilities-cnc-plasma-cutters-application-used-for-cutting-metals-like-steel-stainless-steel-and-aluminum-key-features-uses-a-plasma-torch-high-precision-and-speed-capable-of-cutting-thick-materials-cnc-laser-cutters-application-suitable-for-cutting-and-engraving-a-variety-of-materials-including-metals-plastics-and-wood-key-features-high-precision-non-contact-cutting-capable-of-intricate-designs-cnc-electrical-discharge-machines-edm-application-used-for-cutting-hard-metals-and-creating-intricate-shapes-that-are-difficult-with-traditional-machining-key-features-uses-electrical-discharges-sparks-to-erode-material-high-precision-used-for-dies-and-molds-cnc-grinders-application-used-for-grinding-operations-to-achieve-fine-finishes-and-precise-dimensions-key-features-rotary-grinding-wheels-high-precision-suitable-for-tool-and-die-making-span12 {
-  color: #000000;
-  list-style-type: disc;
-  padding-left: 1em;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 200;
-}
-.cnc-milling-machines-application-used-for-cutting-and-shaping-materials-like-metal-wood-and-plastic-commonly-used-for-creating-complex-parts-with-precise-dimensions-key-features-multi-axis-3-to-5-axes-movement-tool-changers-coolant-systems-cnc-lathes-application-primarily-used-for-producing-cylindrical-parts-such-as-shafts-bolts-and-bushings-key-features-rotating-workpiece-fixed-cutting-tools-capability-for-turning-facing-threading-cnc-routers-application-ideal-for-cutting-and-engraving-wood-composites-aluminum-and-plastic-key-features-high-speed-spindles-large-working-area-multi-axis-capabilities-cnc-plasma-cutters-application-used-for-cutting-metals-like-steel-stainless-steel-and-aluminum-key-features-uses-a-plasma-torch-high-precision-and-speed-capable-of-cutting-thick-materials-cnc-laser-cutters-application-suitable-for-cutting-and-engraving-a-variety-of-materials-including-metals-plastics-and-wood-key-features-high-precision-non-contact-cutting-capable-of-intricate-designs-cnc-electrical-discharge-machines-edm-application-used-for-cutting-hard-metals-and-creating-intricate-shapes-that-are-difficult-with-traditional-machining-key-features-uses-electrical-discharges-sparks-to-erode-material-high-precision-used-for-dies-and-molds-cnc-grinders-application-used-for-grinding-operations-to-achieve-fine-finishes-and-precise-dimensions-key-features-rotary-grinding-wheels-high-precision-suitable-for-tool-and-die-making-span13 {
-  color: #000000;
-  list-style-type: decimal;
-  padding-left: 1em;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 400;
-}
-.cnc-milling-machines-application-used-for-cutting-and-shaping-materials-like-metal-wood-and-plastic-commonly-used-for-creating-complex-parts-with-precise-dimensions-key-features-multi-axis-3-to-5-axes-movement-tool-changers-coolant-systems-cnc-lathes-application-primarily-used-for-producing-cylindrical-parts-such-as-shafts-bolts-and-bushings-key-features-rotating-workpiece-fixed-cutting-tools-capability-for-turning-facing-threading-cnc-routers-application-ideal-for-cutting-and-engraving-wood-composites-aluminum-and-plastic-key-features-high-speed-spindles-large-working-area-multi-axis-capabilities-cnc-plasma-cutters-application-used-for-cutting-metals-like-steel-stainless-steel-and-aluminum-key-features-uses-a-plasma-torch-high-precision-and-speed-capable-of-cutting-thick-materials-cnc-laser-cutters-application-suitable-for-cutting-and-engraving-a-variety-of-materials-including-metals-plastics-and-wood-key-features-high-precision-non-contact-cutting-capable-of-intricate-designs-cnc-electrical-discharge-machines-edm-application-used-for-cutting-hard-metals-and-creating-intricate-shapes-that-are-difficult-with-traditional-machining-key-features-uses-electrical-discharges-sparks-to-erode-material-high-precision-used-for-dies-and-molds-cnc-grinders-application-used-for-grinding-operations-to-achieve-fine-finishes-and-precise-dimensions-key-features-rotary-grinding-wheels-high-precision-suitable-for-tool-and-die-making-span14 {
-  color: #000000;
-  list-style-type: disc;
-  padding-left: 1em;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 200;
-}
-.group-602 {
-  width: 1127px;
-  height: 536px;
-  position: static;
-}
-.group-564 {
-  width: 1127px;
-  height: 536px;
-  position: static;
-}
-.automotive-industry-production-of-engine-components-gearboxes-and-other-intricate-parts-with-high-precision-aerospace-industry-manufacturing-of-complex-high-tolerance-parts-for-aircraft-and-spacecraft-such-as-turbine-blades-structural-components-and-landing-gear-parts-medical-industry-creation-of-surgical-instruments-prosthetics-and-dental-implants-that-require-high-precision-and-biocompatible-materials-electronics-industry-fabrication-of-circuit-boards-enclosures-and-other-components-with-precise-and-intricate-designs-tool-and-die-making-production-of-molds-dies-and-fixtures-used-in-mass-production-of-parts-furniture-and-woodworking-crafting-of-detailed-furniture-parts-cabinetry-and-decorative-pieces-with-intricate-designs {
-  color: #000000;
-  text-align: justified;
-  font-family: "-", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 400;
+.image-11 {
+  border-radius: 26px;
+  width: 1056px;
+  height: 291px;
   position: absolute;
-  left: calc(50% - 501px);
-  top: calc(50% - -4500.5px);
-  width: 1127px;
-  height: 536px;
-}
-.automotive-industry-production-of-engine-components-gearboxes-and-other-intricate-parts-with-high-precision-aerospace-industry-manufacturing-of-complex-high-tolerance-parts-for-aircraft-and-spacecraft-such-as-turbine-blades-structural-components-and-landing-gear-parts-medical-industry-creation-of-surgical-instruments-prosthetics-and-dental-implants-that-require-high-precision-and-biocompatible-materials-electronics-industry-fabrication-of-circuit-boards-enclosures-and-other-components-with-precise-and-intricate-designs-tool-and-die-making-production-of-molds-dies-and-fixtures-used-in-mass-production-of-parts-furniture-and-woodworking-crafting-of-detailed-furniture-parts-cabinetry-and-decorative-pieces-with-intricate-designs-span {
-  color: #000000;
-  list-style-type: decimal;
-  padding-left: 1em;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 400;
-}
-.automotive-industry-production-of-engine-components-gearboxes-and-other-intricate-parts-with-high-precision-aerospace-industry-manufacturing-of-complex-high-tolerance-parts-for-aircraft-and-spacecraft-such-as-turbine-blades-structural-components-and-landing-gear-parts-medical-industry-creation-of-surgical-instruments-prosthetics-and-dental-implants-that-require-high-precision-and-biocompatible-materials-electronics-industry-fabrication-of-circuit-boards-enclosures-and-other-components-with-precise-and-intricate-designs-tool-and-die-making-production-of-molds-dies-and-fixtures-used-in-mass-production-of-parts-furniture-and-woodworking-crafting-of-detailed-furniture-parts-cabinetry-and-decorative-pieces-with-intricate-designs-span2 {
-  color: #000000;
-  list-style-type: disc;
-  padding-left: 1em;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 200;
-}
-.automotive-industry-production-of-engine-components-gearboxes-and-other-intricate-parts-with-high-precision-aerospace-industry-manufacturing-of-complex-high-tolerance-parts-for-aircraft-and-spacecraft-such-as-turbine-blades-structural-components-and-landing-gear-parts-medical-industry-creation-of-surgical-instruments-prosthetics-and-dental-implants-that-require-high-precision-and-biocompatible-materials-electronics-industry-fabrication-of-circuit-boards-enclosures-and-other-components-with-precise-and-intricate-designs-tool-and-die-making-production-of-molds-dies-and-fixtures-used-in-mass-production-of-parts-furniture-and-woodworking-crafting-of-detailed-furniture-parts-cabinetry-and-decorative-pieces-with-intricate-designs-span3 {
-  color: #000000;
-  list-style-type: decimal;
-  padding-left: 1em;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 400;
-}
-.automotive-industry-production-of-engine-components-gearboxes-and-other-intricate-parts-with-high-precision-aerospace-industry-manufacturing-of-complex-high-tolerance-parts-for-aircraft-and-spacecraft-such-as-turbine-blades-structural-components-and-landing-gear-parts-medical-industry-creation-of-surgical-instruments-prosthetics-and-dental-implants-that-require-high-precision-and-biocompatible-materials-electronics-industry-fabrication-of-circuit-boards-enclosures-and-other-components-with-precise-and-intricate-designs-tool-and-die-making-production-of-molds-dies-and-fixtures-used-in-mass-production-of-parts-furniture-and-woodworking-crafting-of-detailed-furniture-parts-cabinetry-and-decorative-pieces-with-intricate-designs-span4 {
-  color: #000000;
-  list-style-type: disc;
-  padding-left: 1em;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 200;
-}
-.automotive-industry-production-of-engine-components-gearboxes-and-other-intricate-parts-with-high-precision-aerospace-industry-manufacturing-of-complex-high-tolerance-parts-for-aircraft-and-spacecraft-such-as-turbine-blades-structural-components-and-landing-gear-parts-medical-industry-creation-of-surgical-instruments-prosthetics-and-dental-implants-that-require-high-precision-and-biocompatible-materials-electronics-industry-fabrication-of-circuit-boards-enclosures-and-other-components-with-precise-and-intricate-designs-tool-and-die-making-production-of-molds-dies-and-fixtures-used-in-mass-production-of-parts-furniture-and-woodworking-crafting-of-detailed-furniture-parts-cabinetry-and-decorative-pieces-with-intricate-designs-span5 {
-  color: #000000;
-  list-style-type: decimal;
-  padding-left: 1em;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 400;
-}
-.automotive-industry-production-of-engine-components-gearboxes-and-other-intricate-parts-with-high-precision-aerospace-industry-manufacturing-of-complex-high-tolerance-parts-for-aircraft-and-spacecraft-such-as-turbine-blades-structural-components-and-landing-gear-parts-medical-industry-creation-of-surgical-instruments-prosthetics-and-dental-implants-that-require-high-precision-and-biocompatible-materials-electronics-industry-fabrication-of-circuit-boards-enclosures-and-other-components-with-precise-and-intricate-designs-tool-and-die-making-production-of-molds-dies-and-fixtures-used-in-mass-production-of-parts-furniture-and-woodworking-crafting-of-detailed-furniture-parts-cabinetry-and-decorative-pieces-with-intricate-designs-span6 {
-  color: #000000;
-  list-style-type: disc;
-  padding-left: 1em;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 200;
-}
-.automotive-industry-production-of-engine-components-gearboxes-and-other-intricate-parts-with-high-precision-aerospace-industry-manufacturing-of-complex-high-tolerance-parts-for-aircraft-and-spacecraft-such-as-turbine-blades-structural-components-and-landing-gear-parts-medical-industry-creation-of-surgical-instruments-prosthetics-and-dental-implants-that-require-high-precision-and-biocompatible-materials-electronics-industry-fabrication-of-circuit-boards-enclosures-and-other-components-with-precise-and-intricate-designs-tool-and-die-making-production-of-molds-dies-and-fixtures-used-in-mass-production-of-parts-furniture-and-woodworking-crafting-of-detailed-furniture-parts-cabinetry-and-decorative-pieces-with-intricate-designs-span7 {
-  color: #000000;
-  list-style-type: decimal;
-  padding-left: 1em;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 400;
-}
-.automotive-industry-production-of-engine-components-gearboxes-and-other-intricate-parts-with-high-precision-aerospace-industry-manufacturing-of-complex-high-tolerance-parts-for-aircraft-and-spacecraft-such-as-turbine-blades-structural-components-and-landing-gear-parts-medical-industry-creation-of-surgical-instruments-prosthetics-and-dental-implants-that-require-high-precision-and-biocompatible-materials-electronics-industry-fabrication-of-circuit-boards-enclosures-and-other-components-with-precise-and-intricate-designs-tool-and-die-making-production-of-molds-dies-and-fixtures-used-in-mass-production-of-parts-furniture-and-woodworking-crafting-of-detailed-furniture-parts-cabinetry-and-decorative-pieces-with-intricate-designs-span8 {
-  color: #000000;
-  list-style-type: disc;
-  padding-left: 1em;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 200;
-}
-.automotive-industry-production-of-engine-components-gearboxes-and-other-intricate-parts-with-high-precision-aerospace-industry-manufacturing-of-complex-high-tolerance-parts-for-aircraft-and-spacecraft-such-as-turbine-blades-structural-components-and-landing-gear-parts-medical-industry-creation-of-surgical-instruments-prosthetics-and-dental-implants-that-require-high-precision-and-biocompatible-materials-electronics-industry-fabrication-of-circuit-boards-enclosures-and-other-components-with-precise-and-intricate-designs-tool-and-die-making-production-of-molds-dies-and-fixtures-used-in-mass-production-of-parts-furniture-and-woodworking-crafting-of-detailed-furniture-parts-cabinetry-and-decorative-pieces-with-intricate-designs-span9 {
-  color: #000000;
-  list-style-type: decimal;
-  padding-left: 1em;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 400;
-}
-.automotive-industry-production-of-engine-components-gearboxes-and-other-intricate-parts-with-high-precision-aerospace-industry-manufacturing-of-complex-high-tolerance-parts-for-aircraft-and-spacecraft-such-as-turbine-blades-structural-components-and-landing-gear-parts-medical-industry-creation-of-surgical-instruments-prosthetics-and-dental-implants-that-require-high-precision-and-biocompatible-materials-electronics-industry-fabrication-of-circuit-boards-enclosures-and-other-components-with-precise-and-intricate-designs-tool-and-die-making-production-of-molds-dies-and-fixtures-used-in-mass-production-of-parts-furniture-and-woodworking-crafting-of-detailed-furniture-parts-cabinetry-and-decorative-pieces-with-intricate-designs-span10 {
-  color: #000000;
-  list-style-type: disc;
-  padding-left: 1em;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 200;
-}
-.automotive-industry-production-of-engine-components-gearboxes-and-other-intricate-parts-with-high-precision-aerospace-industry-manufacturing-of-complex-high-tolerance-parts-for-aircraft-and-spacecraft-such-as-turbine-blades-structural-components-and-landing-gear-parts-medical-industry-creation-of-surgical-instruments-prosthetics-and-dental-implants-that-require-high-precision-and-biocompatible-materials-electronics-industry-fabrication-of-circuit-boards-enclosures-and-other-components-with-precise-and-intricate-designs-tool-and-die-making-production-of-molds-dies-and-fixtures-used-in-mass-production-of-parts-furniture-and-woodworking-crafting-of-detailed-furniture-parts-cabinetry-and-decorative-pieces-with-intricate-designs-span11 {
-  color: #000000;
-  list-style-type: decimal;
-  padding-left: 1em;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 400;
-}
-.automotive-industry-production-of-engine-components-gearboxes-and-other-intricate-parts-with-high-precision-aerospace-industry-manufacturing-of-complex-high-tolerance-parts-for-aircraft-and-spacecraft-such-as-turbine-blades-structural-components-and-landing-gear-parts-medical-industry-creation-of-surgical-instruments-prosthetics-and-dental-implants-that-require-high-precision-and-biocompatible-materials-electronics-industry-fabrication-of-circuit-boards-enclosures-and-other-components-with-precise-and-intricate-designs-tool-and-die-making-production-of-molds-dies-and-fixtures-used-in-mass-production-of-parts-furniture-and-woodworking-crafting-of-detailed-furniture-parts-cabinetry-and-decorative-pieces-with-intricate-designs-span12 {
-  color: #000000;
-  list-style-type: disc;
-  padding-left: 1em;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 200;
-}
-.group-612 {
-  width: 1127px;
-  height: 536px;
-  position: static;
-}
-.automotive-industry-production-of-engine-components-gearboxes-and-other-intricate-parts-with-high-precision-aerospace-industry-manufacturing-of-complex-high-tolerance-parts-for-aircraft-and-spacecraft-such-as-turbine-blades-structural-components-and-landing-gear-parts-medical-industry-creation-of-surgical-instruments-prosthetics-and-dental-implants-that-require-high-precision-and-biocompatible-materials-electronics-industry-fabrication-of-circuit-boards-enclosures-and-other-components-with-precise-and-intricate-designs-tool-and-die-making-production-of-molds-dies-and-fixtures-used-in-mass-production-of-parts-furniture-and-woodworking-crafting-of-detailed-furniture-parts-cabinetry-and-decorative-pieces-with-intricate-designs2 {
-  color: #000000;
-  text-align: justified;
-  font-family: "-", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 400;
-  position: absolute;
-  left: calc(50% - 501px);
-  top: calc(50% - -5048.5px);
-  width: 1127px;
-  height: 536px;
-}
-.automotive-industry-production-of-engine-components-gearboxes-and-other-intricate-parts-with-high-precision-aerospace-industry-manufacturing-of-complex-high-tolerance-parts-for-aircraft-and-spacecraft-such-as-turbine-blades-structural-components-and-landing-gear-parts-medical-industry-creation-of-surgical-instruments-prosthetics-and-dental-implants-that-require-high-precision-and-biocompatible-materials-electronics-industry-fabrication-of-circuit-boards-enclosures-and-other-components-with-precise-and-intricate-designs-tool-and-die-making-production-of-molds-dies-and-fixtures-used-in-mass-production-of-parts-furniture-and-woodworking-crafting-of-detailed-furniture-parts-cabinetry-and-decorative-pieces-with-intricate-designs-2-span {
-  color: #000000;
-  list-style-type: decimal;
-  padding-left: 1em;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 400;
-}
-.automotive-industry-production-of-engine-components-gearboxes-and-other-intricate-parts-with-high-precision-aerospace-industry-manufacturing-of-complex-high-tolerance-parts-for-aircraft-and-spacecraft-such-as-turbine-blades-structural-components-and-landing-gear-parts-medical-industry-creation-of-surgical-instruments-prosthetics-and-dental-implants-that-require-high-precision-and-biocompatible-materials-electronics-industry-fabrication-of-circuit-boards-enclosures-and-other-components-with-precise-and-intricate-designs-tool-and-die-making-production-of-molds-dies-and-fixtures-used-in-mass-production-of-parts-furniture-and-woodworking-crafting-of-detailed-furniture-parts-cabinetry-and-decorative-pieces-with-intricate-designs-2-span2 {
-  color: #000000;
-  list-style-type: disc;
-  padding-left: 1em;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 200;
-}
-.automotive-industry-production-of-engine-components-gearboxes-and-other-intricate-parts-with-high-precision-aerospace-industry-manufacturing-of-complex-high-tolerance-parts-for-aircraft-and-spacecraft-such-as-turbine-blades-structural-components-and-landing-gear-parts-medical-industry-creation-of-surgical-instruments-prosthetics-and-dental-implants-that-require-high-precision-and-biocompatible-materials-electronics-industry-fabrication-of-circuit-boards-enclosures-and-other-components-with-precise-and-intricate-designs-tool-and-die-making-production-of-molds-dies-and-fixtures-used-in-mass-production-of-parts-furniture-and-woodworking-crafting-of-detailed-furniture-parts-cabinetry-and-decorative-pieces-with-intricate-designs-2-span3 {
-  color: #000000;
-  list-style-type: decimal;
-  padding-left: 1em;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 400;
-}
-.automotive-industry-production-of-engine-components-gearboxes-and-other-intricate-parts-with-high-precision-aerospace-industry-manufacturing-of-complex-high-tolerance-parts-for-aircraft-and-spacecraft-such-as-turbine-blades-structural-components-and-landing-gear-parts-medical-industry-creation-of-surgical-instruments-prosthetics-and-dental-implants-that-require-high-precision-and-biocompatible-materials-electronics-industry-fabrication-of-circuit-boards-enclosures-and-other-components-with-precise-and-intricate-designs-tool-and-die-making-production-of-molds-dies-and-fixtures-used-in-mass-production-of-parts-furniture-and-woodworking-crafting-of-detailed-furniture-parts-cabinetry-and-decorative-pieces-with-intricate-designs-2-span4 {
-  color: #000000;
-  list-style-type: disc;
-  padding-left: 1em;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 200;
-}
-.automotive-industry-production-of-engine-components-gearboxes-and-other-intricate-parts-with-high-precision-aerospace-industry-manufacturing-of-complex-high-tolerance-parts-for-aircraft-and-spacecraft-such-as-turbine-blades-structural-components-and-landing-gear-parts-medical-industry-creation-of-surgical-instruments-prosthetics-and-dental-implants-that-require-high-precision-and-biocompatible-materials-electronics-industry-fabrication-of-circuit-boards-enclosures-and-other-components-with-precise-and-intricate-designs-tool-and-die-making-production-of-molds-dies-and-fixtures-used-in-mass-production-of-parts-furniture-and-woodworking-crafting-of-detailed-furniture-parts-cabinetry-and-decorative-pieces-with-intricate-designs-2-span5 {
-  color: #000000;
-  list-style-type: decimal;
-  padding-left: 1em;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 400;
-}
-.automotive-industry-production-of-engine-components-gearboxes-and-other-intricate-parts-with-high-precision-aerospace-industry-manufacturing-of-complex-high-tolerance-parts-for-aircraft-and-spacecraft-such-as-turbine-blades-structural-components-and-landing-gear-parts-medical-industry-creation-of-surgical-instruments-prosthetics-and-dental-implants-that-require-high-precision-and-biocompatible-materials-electronics-industry-fabrication-of-circuit-boards-enclosures-and-other-components-with-precise-and-intricate-designs-tool-and-die-making-production-of-molds-dies-and-fixtures-used-in-mass-production-of-parts-furniture-and-woodworking-crafting-of-detailed-furniture-parts-cabinetry-and-decorative-pieces-with-intricate-designs-2-span6 {
-  color: #000000;
-  list-style-type: disc;
-  padding-left: 1em;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 200;
-}
-.automotive-industry-production-of-engine-components-gearboxes-and-other-intricate-parts-with-high-precision-aerospace-industry-manufacturing-of-complex-high-tolerance-parts-for-aircraft-and-spacecraft-such-as-turbine-blades-structural-components-and-landing-gear-parts-medical-industry-creation-of-surgical-instruments-prosthetics-and-dental-implants-that-require-high-precision-and-biocompatible-materials-electronics-industry-fabrication-of-circuit-boards-enclosures-and-other-components-with-precise-and-intricate-designs-tool-and-die-making-production-of-molds-dies-and-fixtures-used-in-mass-production-of-parts-furniture-and-woodworking-crafting-of-detailed-furniture-parts-cabinetry-and-decorative-pieces-with-intricate-designs-2-span7 {
-  color: #000000;
-  list-style-type: decimal;
-  padding-left: 1em;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 400;
-}
-.automotive-industry-production-of-engine-components-gearboxes-and-other-intricate-parts-with-high-precision-aerospace-industry-manufacturing-of-complex-high-tolerance-parts-for-aircraft-and-spacecraft-such-as-turbine-blades-structural-components-and-landing-gear-parts-medical-industry-creation-of-surgical-instruments-prosthetics-and-dental-implants-that-require-high-precision-and-biocompatible-materials-electronics-industry-fabrication-of-circuit-boards-enclosures-and-other-components-with-precise-and-intricate-designs-tool-and-die-making-production-of-molds-dies-and-fixtures-used-in-mass-production-of-parts-furniture-and-woodworking-crafting-of-detailed-furniture-parts-cabinetry-and-decorative-pieces-with-intricate-designs-2-span8 {
-  color: #000000;
-  list-style-type: disc;
-  padding-left: 1em;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 200;
-}
-.automotive-industry-production-of-engine-components-gearboxes-and-other-intricate-parts-with-high-precision-aerospace-industry-manufacturing-of-complex-high-tolerance-parts-for-aircraft-and-spacecraft-such-as-turbine-blades-structural-components-and-landing-gear-parts-medical-industry-creation-of-surgical-instruments-prosthetics-and-dental-implants-that-require-high-precision-and-biocompatible-materials-electronics-industry-fabrication-of-circuit-boards-enclosures-and-other-components-with-precise-and-intricate-designs-tool-and-die-making-production-of-molds-dies-and-fixtures-used-in-mass-production-of-parts-furniture-and-woodworking-crafting-of-detailed-furniture-parts-cabinetry-and-decorative-pieces-with-intricate-designs-2-span9 {
-  color: #000000;
-  list-style-type: decimal;
-  padding-left: 1em;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 400;
-}
-.automotive-industry-production-of-engine-components-gearboxes-and-other-intricate-parts-with-high-precision-aerospace-industry-manufacturing-of-complex-high-tolerance-parts-for-aircraft-and-spacecraft-such-as-turbine-blades-structural-components-and-landing-gear-parts-medical-industry-creation-of-surgical-instruments-prosthetics-and-dental-implants-that-require-high-precision-and-biocompatible-materials-electronics-industry-fabrication-of-circuit-boards-enclosures-and-other-components-with-precise-and-intricate-designs-tool-and-die-making-production-of-molds-dies-and-fixtures-used-in-mass-production-of-parts-furniture-and-woodworking-crafting-of-detailed-furniture-parts-cabinetry-and-decorative-pieces-with-intricate-designs-2-span10 {
-  color: #000000;
-  list-style-type: disc;
-  padding-left: 1em;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 200;
-}
-.automotive-industry-production-of-engine-components-gearboxes-and-other-intricate-parts-with-high-precision-aerospace-industry-manufacturing-of-complex-high-tolerance-parts-for-aircraft-and-spacecraft-such-as-turbine-blades-structural-components-and-landing-gear-parts-medical-industry-creation-of-surgical-instruments-prosthetics-and-dental-implants-that-require-high-precision-and-biocompatible-materials-electronics-industry-fabrication-of-circuit-boards-enclosures-and-other-components-with-precise-and-intricate-designs-tool-and-die-making-production-of-molds-dies-and-fixtures-used-in-mass-production-of-parts-furniture-and-woodworking-crafting-of-detailed-furniture-parts-cabinetry-and-decorative-pieces-with-intricate-designs-2-span11 {
-  color: #000000;
-  list-style-type: decimal;
-  padding-left: 1em;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 400;
-}
-.automotive-industry-production-of-engine-components-gearboxes-and-other-intricate-parts-with-high-precision-aerospace-industry-manufacturing-of-complex-high-tolerance-parts-for-aircraft-and-spacecraft-such-as-turbine-blades-structural-components-and-landing-gear-parts-medical-industry-creation-of-surgical-instruments-prosthetics-and-dental-implants-that-require-high-precision-and-biocompatible-materials-electronics-industry-fabrication-of-circuit-boards-enclosures-and-other-components-with-precise-and-intricate-designs-tool-and-die-making-production-of-molds-dies-and-fixtures-used-in-mass-production-of-parts-furniture-and-woodworking-crafting-of-detailed-furniture-parts-cabinetry-and-decorative-pieces-with-intricate-designs-2-span12 {
-  color: #000000;
-  list-style-type: disc;
-  padding-left: 1em;
-  font-family: "Inter-ExtraLight", sans-serif;
-  font-size: 16px;
-  line-height: 39px;
-  font-weight: 200;
-}
-._7-cnc-in-indusrty-machine-type {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-SemiBold", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 600;
-  position: absolute;
-  left: calc(50% - 557px);
-  top: calc(50% - -3541.5px);
-  width: 695px;
-  height: 25.02px;
-}
-._8-cnc-in-indusrty-application {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-SemiBold", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 600;
-  position: absolute;
-  left: calc(50% - 557px);
-  top: calc(50% - -4475.5px);
-  width: 695px;
-  height: 25.02px;
-}
-._9-determination-of-materials-and-machines {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-SemiBold", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 600;
-  position: absolute;
-  left: calc(50% - 557px);
-  top: calc(50% - -5017.5px);
-  width: 695px;
-  height: 25.02px;
-}
-.cnc {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 400;
-  position: absolute;
-  left: calc(50% - 507px);
-  top: calc(50% - -3198.5px);
-  width: 65px;
-  height: 25px;
-}
-.laser-cutting {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 400;
-  position: absolute;
-  left: calc(50% - 507px);
-  top: calc(50% - -2917.5px);
-  width: 175px;
-  height: 25px;
-}
-.https-wenku-baidu-com-view-86-f-32-f-8169-ec-0975-f-46527-d-3240-c-844769-eaa-097-html-wkts-1718246150979-bd-query-cnc-e-8-bd-a-6-e-9-97-b-4-e-5-ae-89-e-5-85-a-8-e-7-94-9-f-e-4-ba-a-7-e-6-b-3-a-8-e-6-84-8-f-e-4-ba-8-b-e-9-a-1-b-9-need-welcome-recommand-1 {
-  color: var(--color, rgba(9, 51, 202, 0.78));
-  text-align: justified;
-  font-family: "Inter-Medium", sans-serif;
-  font-size: 16px;
-  line-height: 24px;
-  font-weight: 500;
-  text-decoration: underline;
-  position: absolute;
-  left: calc(50% - 507px);
-  top: calc(50% - -3223.5px);
-  width: 1053px;
-  height: 87px;
-}
-.https-wenku-baidu-com-view-ea-7100875-c-0-e-7-cd-184254-b-35-eefdc-8-d-376-ee-14-a-1-html-wkts-1718246121579-bd-query-cnc-e-5-ae-9-e-e-9-aa-8-c-e-5-ae-a-4-e-5-ae-89-e-5-85-a-8-e-6-8-e-aa-e-6-96-bd-need-welcome-recommand-1 {
-  color: var(--color, rgba(9, 51, 202, 0.78));
-  text-align: justified;
-  font-family: "Inter-Medium", sans-serif;
-  font-size: 16px;
-  line-height: 24px;
-  font-weight: 500;
-  text-decoration: underline;
-  position: absolute;
-  left: calc(50% - 507px);
-  top: calc(50% - -3328.5px);
-  width: 1053px;
-  height: 77px;
-}
-.postprocess-the-surface {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-SemiBold", sans-serif;
-  font-size: 20px;
-  line-height: 121.08%;
-  letter-spacing: 0.05em;
-  font-weight: 600;
-  position: absolute;
-  left: calc(50% - 591px);
-  top: calc(50% - -242.5px);
-  width: 695px;
-  height: 25.02px;
-}
-.group-51 {
-  position: absolute;
-  inset: 0;
-}
-._20240530111536-16 {
-  border-radius: 35px;
-  border-style: solid;
-  border-color: #000000;
-  border-width: 1px;
-  width: 955px;
-  height: 574px;
-  position: absolute;
-  left: calc(50% - 473px);
-  top: calc(50% - -282.5px);
+  left: calc(50% - 558px);
+  top: calc(50% - -6752px);
   object-fit: cover;
+}
+.the-program-first-sets-the-absolute-coordinate-system-then-quickly-moves-to-the-position-of-x-10-y-20-then-moves-to-the-z-direction-at-a-speed-of-100-to-5-and-finally-moves-to-the-position-of-x-20-y-30-in-a-clockwise-arc-at-a-speed-of-200 {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 564px);
+  top: calc(50% - -7091px);
+  width: 1127px;
+  height: 94px;
 }

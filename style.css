@@ -4,7 +4,7 @@
 }
 .div {
   background: #ffffff;
-  height: 910px;
+  height: 895px;
   position: relative;
   overflow: hidden;
 }
@@ -17,7 +17,7 @@
   font-weight: 600;
   position: absolute;
   left: calc(50% - 619px);
-  top: calc(50% - -183px);
+  top: calc(50% - -217.5px);
   width: 172.73px;
   height: 48px;
   display: flex;
@@ -32,8 +32,8 @@
   letter-spacing: 0.1em;
   font-weight: 600;
   position: absolute;
-  left: calc(50% - 476px);
-  top: calc(50% - -183px);
+  left: calc(50% - 483px);
+  top: calc(50% - -217.5px);
   width: 464.39px;
   height: 48px;
   display: flex;
@@ -48,8 +48,8 @@
   letter-spacing: 0.1em;
   font-weight: 600;
   position: absolute;
-  left: calc(50% - 42px);
-  top: calc(50% - -183px);
+  left: calc(50% - 99px);
+  top: calc(50% - -217.5px);
   width: 406.34px;
   height: 48px;
   display: flex;
@@ -64,8 +64,8 @@
   letter-spacing: 0.1em;
   font-weight: 600;
   position: absolute;
-  left: calc(50% - -334px);
-  top: calc(50% - -183px);
+  left: calc(50% - -284px);
+  top: calc(50% - -217.5px);
   width: 172.73px;
   height: 48px;
   display: flex;
@@ -81,7 +81,7 @@
   font-weight: 600;
   position: absolute;
   left: calc(50% - -477px);
-  top: calc(50% - -183px);
+  top: calc(50% - -217.5px);
   width: 172.73px;
   height: 48px;
   display: flex;
@@ -109,6 +109,7 @@
   inset: 0;
 }
 .line-2 {
+  margin-top: -1px;
   border-style: solid;
   border-color: #000000;
   border-width: 1px 0 0 0;
@@ -116,7 +117,7 @@
   position: absolute;
   right: 80.97px;
   left: 100px;
-  bottom: 67px;
+  bottom: 38px;
   transform-origin: 0 0;
   transform: rotate(0deg) scale(1, 1);
 }
@@ -128,9 +129,9 @@
   font-weight: 400;
   position: absolute;
   right: 1063px;
-  left: 80px;
-  bottom: 19px;
-  height: 35px;
+  left: 80.00000000000011px;
+  bottom: 8px;
+  height: 21.88px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -144,8 +145,8 @@
   position: absolute;
   right: 81px;
   left: 1062px;
-  bottom: 19px;
-  height: 35px;
+  bottom: 8px;
+  height: 21.88px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -187,6 +188,7 @@
   justify-content: center;
 }
 .line-3 {
+  margin-top: -1px;
   border-style: solid;
   border-color: #000000;
   border-width: 1px 0 0 0;

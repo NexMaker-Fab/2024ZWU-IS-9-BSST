@@ -1,0 +1,752 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="input2.css">
+  <link rel="stylesheet" href="input1.css">
+  
+  
+  <style>
+   a,
+   button,
+   input,
+   select,
+   h1,
+   h2,
+   h3,
+   h4,
+   h5,
+   * {
+       box-sizing: border-box;
+       margin: 0;
+       padding: 0;
+       border: none;
+       text-decoration: none;
+       background: none;
+   
+       -webkit-font-smoothing: antialiased;
+   }
+   
+   menu, ol, ul {
+       list-style-type: none;
+       margin: 0;
+       padding: 0;
+   }
+   </style>
+  <title>BSST-Arduino basic & Input</title>
+</head>
+<body>
+  <div class="input">
+    <div class="logo">
+      <img class="rectangle-1" src="rectangle-10.svg" />
+      <div class="bbst">BBST</div>
+    </div>
+    <div class="line-5"></div>
+    <div class="about">
+      <a href="index.html">About</a></div>
+    <div class="team-interoduction">
+      <a href="team introduction.html">Team Interoduction</a></div>
+    <div class="team-member">
+      <a href="member index.html">Team Member</a></div>
+    <div class="course">
+      <a href="course index.html">Course</a></div>
+    <div class="final">Final</div>
+    <div class="line-2"></div>
+    <div class="bsst-team-zwu">BSST Team | ZWU</div>
+    <div class="_2024-6">2024.6</div>
+    <div class="group-54">
+      <div
+        class="the-name-of-the-project-is-to-build-a-tall-weathercloud-weather-station-in-ardiuno-advantages-using-the-ardiuno-nano-board-which-is-the-same-as-the-board-used-in-the-previous-hardware-class-it-is-better-for-us-to-learn-to-use-and-operate-disadvantages-at-present-the-hardware-knowledge-is-relatively-small-and-a-lot-of-learning-and-practice-are-still-needed-at-the-same-time-the-project-was-just-a-meteorological-device-and-we-needed-to-integrate-it-with-our-thematic-climate-action-and-as-art-and-technology-students-we-needed-a-more-aesthetically-pleasing-and-thought-provoking-design-solution"
+      >
+        <span>
+          <span
+            class="the-name-of-the-project-is-to-build-a-tall-weathercloud-weather-station-in-ardiuno-advantages-using-the-ardiuno-nano-board-which-is-the-same-as-the-board-used-in-the-previous-hardware-class-it-is-better-for-us-to-learn-to-use-and-operate-disadvantages-at-present-the-hardware-knowledge-is-relatively-small-and-a-lot-of-learning-and-practice-are-still-needed-at-the-same-time-the-project-was-just-a-meteorological-device-and-we-needed-to-integrate-it-with-our-thematic-climate-action-and-as-art-and-technology-students-we-needed-a-more-aesthetically-pleasing-and-thought-provoking-design-solution-span"
+          >
+            The name of the project is to build a tall Weathercloud weather
+            station in Ardiuno
+            <br />
+            <br />
+          </span>
+          <span
+            class="the-name-of-the-project-is-to-build-a-tall-weathercloud-weather-station-in-ardiuno-advantages-using-the-ardiuno-nano-board-which-is-the-same-as-the-board-used-in-the-previous-hardware-class-it-is-better-for-us-to-learn-to-use-and-operate-disadvantages-at-present-the-hardware-knowledge-is-relatively-small-and-a-lot-of-learning-and-practice-are-still-needed-at-the-same-time-the-project-was-just-a-meteorological-device-and-we-needed-to-integrate-it-with-our-thematic-climate-action-and-as-art-and-technology-students-we-needed-a-more-aesthetically-pleasing-and-thought-provoking-design-solution-span2"
+          >
+            Advantages:
+          </span>
+          <span
+            class="the-name-of-the-project-is-to-build-a-tall-weathercloud-weather-station-in-ardiuno-advantages-using-the-ardiuno-nano-board-which-is-the-same-as-the-board-used-in-the-previous-hardware-class-it-is-better-for-us-to-learn-to-use-and-operate-disadvantages-at-present-the-hardware-knowledge-is-relatively-small-and-a-lot-of-learning-and-practice-are-still-needed-at-the-same-time-the-project-was-just-a-meteorological-device-and-we-needed-to-integrate-it-with-our-thematic-climate-action-and-as-art-and-technology-students-we-needed-a-more-aesthetically-pleasing-and-thought-provoking-design-solution-span3"
+          ></span>
+          <span
+            class="the-name-of-the-project-is-to-build-a-tall-weathercloud-weather-station-in-ardiuno-advantages-using-the-ardiuno-nano-board-which-is-the-same-as-the-board-used-in-the-previous-hardware-class-it-is-better-for-us-to-learn-to-use-and-operate-disadvantages-at-present-the-hardware-knowledge-is-relatively-small-and-a-lot-of-learning-and-practice-are-still-needed-at-the-same-time-the-project-was-just-a-meteorological-device-and-we-needed-to-integrate-it-with-our-thematic-climate-action-and-as-art-and-technology-students-we-needed-a-more-aesthetically-pleasing-and-thought-provoking-design-solution-span4"
+          >
+            Using the Ardiuno nano board, which is the same as the board used in
+            the previous hardware class, it is better for us to learn to use and
+            operate.
+            <br />
+            <br />
+          </span>
+          <span
+            class="the-name-of-the-project-is-to-build-a-tall-weathercloud-weather-station-in-ardiuno-advantages-using-the-ardiuno-nano-board-which-is-the-same-as-the-board-used-in-the-previous-hardware-class-it-is-better-for-us-to-learn-to-use-and-operate-disadvantages-at-present-the-hardware-knowledge-is-relatively-small-and-a-lot-of-learning-and-practice-are-still-needed-at-the-same-time-the-project-was-just-a-meteorological-device-and-we-needed-to-integrate-it-with-our-thematic-climate-action-and-as-art-and-technology-students-we-needed-a-more-aesthetically-pleasing-and-thought-provoking-design-solution-span5"
+          >
+            Disadvantages:
+          </span>
+          <span
+            class="the-name-of-the-project-is-to-build-a-tall-weathercloud-weather-station-in-ardiuno-advantages-using-the-ardiuno-nano-board-which-is-the-same-as-the-board-used-in-the-previous-hardware-class-it-is-better-for-us-to-learn-to-use-and-operate-disadvantages-at-present-the-hardware-knowledge-is-relatively-small-and-a-lot-of-learning-and-practice-are-still-needed-at-the-same-time-the-project-was-just-a-meteorological-device-and-we-needed-to-integrate-it-with-our-thematic-climate-action-and-as-art-and-technology-students-we-needed-a-more-aesthetically-pleasing-and-thought-provoking-design-solution-span6"
+          >
+            At present, the hardware knowledge is relatively small, and a lot of
+            learning and practice are still needed. At the same time, the project
+            was just a meteorological device, and we needed to integrate it with
+            our thematic climate action, and as art and technology students, we
+            needed a more aesthetically pleasing and thought-provoking design
+            solution.。
+          </span>
+        </span>
+      </div>
+      <div class="group-51">
+        <div class="course-arduino-basic-input">
+          Course → Arduino basic &amp; Input
+        </div>
+        <div class="_3-some-open-source-projects">
+          3.some open source projects
+        </div>
+        <img class="image" src="开源项目参考1.jpg" />
+        <img class="image2" src="开源项目参考2.jpg" />
+        <img class="image3" src="开源项目参考3.jpg" />
+        <img class="image4" src="开源项目参考4.jpg" />
+        <div class="_1-noise-input-detection">1.Noise input detection</div>
+        <div
+          class="objective-collect-the-current-real-time-ambient-sound-through-the-sound-sensor-and-convert-it-into-digital-information-to-realize-the-detection-of-sound-decibels"
+        >
+          Objective: Collect the current real-time ambient sound through the sound
+          sensor and convert it into digital information to realize the detection
+          of sound decibels.
+        </div>
+        <img class="_20240530111536-5" src="input3.png" />
+        <div class="group-37">
+          <div class="effect-display">Effect display</div>
+          <img class="_20240530111536-6" src="input4.jpg" />
+        </div>
+        <div class="circuit-diagram-connection">Circuit diagram connection</div>
+        <div class="arduino-code">Arduino Code</div>
+        <div class="group-41">
+          <div class="_1-introduction-to-the-open-source-website">
+            1.Introduction to the open source website
+          </div>
+          <div
+            class="raspberry-pi-official-website-provides-hardware-information-documents-resources-and-projects-of-raspberry-pi-single-board-computers-website-www-raspberrypi-org"
+          >
+            <span>
+              <span
+                class="raspberry-pi-official-website-provides-hardware-information-documents-resources-and-projects-of-raspberry-pi-single-board-computers-website-www-raspberrypi-org-span"
+              >
+                Raspberry Pi official website: provides hardware information,
+                documents, resources and projects of Raspberry Pi single-board
+                computers.
+                <br />
+                <br />
+              </span>
+              <span
+                class="raspberry-pi-official-website-provides-hardware-information-documents-resources-and-projects-of-raspberry-pi-single-board-computers-website-www-raspberrypi-org-span2"
+              >
+                Website:
+              </span>
+              <span
+                class="raspberry-pi-official-website-provides-hardware-information-documents-resources-and-projects-of-raspberry-pi-single-board-computers-website-www-raspberrypi-org-span3"
+              >
+                www.raspberrypi.org
+              </span>
+            </span>
+          </div>
+          <div
+            class="https-m-tb-cn-h-g-v-hg-98-tt-psa-1-xz-l-tk-k-9-mq-wdks-8-c-d-cz-3458-2-42-oled-128-64-spi-iic-ssd-1309"
+          >
+            【淘宝】https://m.tb.cn/h.gVHg98ttPsa1xzL?tk=K9MqWDKS8cD CZ3458
+            「2.42寸OLED显示液晶屏模块分辨率128*64 SPI/IIC接口SSD1309驱动」
+            <br />
+            点击链接直接打开 或者 淘宝搜索直接打开
+          </div>
+          <div
+            class="main-content-product-information-raspberry-pi-official-website-provides-detailed-information-about-various-raspberry-pi-board-computers-including-technical-specifications-function-introduction-performance-parameters-etc-educational-resources-the-official-website-provides-educators-students-and-enthusiasts-with-rich-educational-resources-including-teaching-guides-curriculum-plans-project-examples-etc-to-help-them-use-raspberry-pi-for-programming-and-electronic-experiments-community-forum-the-official-website-has-a-community-forum-for-users-to-exchange-experience-share-projects-and-solve-problems-this-is-an-active-community-that-brings-together-raspberry-pi-lovers-from-all-over-the-world-news-and-activities-the-official-website-regularly-publishes-news-and-activity-information-related-to-raspberry-pi-including-product-releases-technical-updates-competition-events-etc-so-that-users-can-keep-abreast-of-the-latest-developments-store-there-is-an-official-store-on-the-official-website-where-users-can-buy-raspberry-pie-board-computers-and-accessories-which-is-convenient-and-fast-documentation-and-support-the-official-website-provides-detailed-documentation-and-technical-support-to-help-users-understand-how-to-use-raspberry-pi-solve-common-problems-and-carry-out-project-development-and-creation-the-official-website-of-raspberry-pi-is-the-core-platform-of-the-raspberry-pi-community-which-provides-users-with-comprehensive-resources-and-support-and-promotes-the-application-and-development-of-raspberry-pi-in-the-fields-of-education-maker-and-internet-of-things"
+          >
+            <span>
+              <span
+                class="main-content-product-information-raspberry-pi-official-website-provides-detailed-information-about-various-raspberry-pi-board-computers-including-technical-specifications-function-introduction-performance-parameters-etc-educational-resources-the-official-website-provides-educators-students-and-enthusiasts-with-rich-educational-resources-including-teaching-guides-curriculum-plans-project-examples-etc-to-help-them-use-raspberry-pi-for-programming-and-electronic-experiments-community-forum-the-official-website-has-a-community-forum-for-users-to-exchange-experience-share-projects-and-solve-problems-this-is-an-active-community-that-brings-together-raspberry-pi-lovers-from-all-over-the-world-news-and-activities-the-official-website-regularly-publishes-news-and-activity-information-related-to-raspberry-pi-including-product-releases-technical-updates-competition-events-etc-so-that-users-can-keep-abreast-of-the-latest-developments-store-there-is-an-official-store-on-the-official-website-where-users-can-buy-raspberry-pie-board-computers-and-accessories-which-is-convenient-and-fast-documentation-and-support-the-official-website-provides-detailed-documentation-and-technical-support-to-help-users-understand-how-to-use-raspberry-pi-solve-common-problems-and-carry-out-project-development-and-creation-the-official-website-of-raspberry-pi-is-the-core-platform-of-the-raspberry-pi-community-which-provides-users-with-comprehensive-resources-and-support-and-promotes-the-application-and-development-of-raspberry-pi-in-the-fields-of-education-maker-and-internet-of-things-span"
+              >
+                Main content:
+                <br />
+              </span>
+              <span
+                class="main-content-product-information-raspberry-pi-official-website-provides-detailed-information-about-various-raspberry-pi-board-computers-including-technical-specifications-function-introduction-performance-parameters-etc-educational-resources-the-official-website-provides-educators-students-and-enthusiasts-with-rich-educational-resources-including-teaching-guides-curriculum-plans-project-examples-etc-to-help-them-use-raspberry-pi-for-programming-and-electronic-experiments-community-forum-the-official-website-has-a-community-forum-for-users-to-exchange-experience-share-projects-and-solve-problems-this-is-an-active-community-that-brings-together-raspberry-pi-lovers-from-all-over-the-world-news-and-activities-the-official-website-regularly-publishes-news-and-activity-information-related-to-raspberry-pi-including-product-releases-technical-updates-competition-events-etc-so-that-users-can-keep-abreast-of-the-latest-developments-store-there-is-an-official-store-on-the-official-website-where-users-can-buy-raspberry-pie-board-computers-and-accessories-which-is-convenient-and-fast-documentation-and-support-the-official-website-provides-detailed-documentation-and-technical-support-to-help-users-understand-how-to-use-raspberry-pi-solve-common-problems-and-carry-out-project-development-and-creation-the-official-website-of-raspberry-pi-is-the-core-platform-of-the-raspberry-pi-community-which-provides-users-with-comprehensive-resources-and-support-and-promotes-the-application-and-development-of-raspberry-pi-in-the-fields-of-education-maker-and-internet-of-things-span2"
+              >
+                <br />
+              </span>
+              <span
+                class="main-content-product-information-raspberry-pi-official-website-provides-detailed-information-about-various-raspberry-pi-board-computers-including-technical-specifications-function-introduction-performance-parameters-etc-educational-resources-the-official-website-provides-educators-students-and-enthusiasts-with-rich-educational-resources-including-teaching-guides-curriculum-plans-project-examples-etc-to-help-them-use-raspberry-pi-for-programming-and-electronic-experiments-community-forum-the-official-website-has-a-community-forum-for-users-to-exchange-experience-share-projects-and-solve-problems-this-is-an-active-community-that-brings-together-raspberry-pi-lovers-from-all-over-the-world-news-and-activities-the-official-website-regularly-publishes-news-and-activity-information-related-to-raspberry-pi-including-product-releases-technical-updates-competition-events-etc-so-that-users-can-keep-abreast-of-the-latest-developments-store-there-is-an-official-store-on-the-official-website-where-users-can-buy-raspberry-pie-board-computers-and-accessories-which-is-convenient-and-fast-documentation-and-support-the-official-website-provides-detailed-documentation-and-technical-support-to-help-users-understand-how-to-use-raspberry-pi-solve-common-problems-and-carry-out-project-development-and-creation-the-official-website-of-raspberry-pi-is-the-core-platform-of-the-raspberry-pi-community-which-provides-users-with-comprehensive-resources-and-support-and-promotes-the-application-and-development-of-raspberry-pi-in-the-fields-of-education-maker-and-internet-of-things-span3"
+              >
+                Product information:
+                <br />
+              </span>
+              <span
+                class="main-content-product-information-raspberry-pi-official-website-provides-detailed-information-about-various-raspberry-pi-board-computers-including-technical-specifications-function-introduction-performance-parameters-etc-educational-resources-the-official-website-provides-educators-students-and-enthusiasts-with-rich-educational-resources-including-teaching-guides-curriculum-plans-project-examples-etc-to-help-them-use-raspberry-pi-for-programming-and-electronic-experiments-community-forum-the-official-website-has-a-community-forum-for-users-to-exchange-experience-share-projects-and-solve-problems-this-is-an-active-community-that-brings-together-raspberry-pi-lovers-from-all-over-the-world-news-and-activities-the-official-website-regularly-publishes-news-and-activity-information-related-to-raspberry-pi-including-product-releases-technical-updates-competition-events-etc-so-that-users-can-keep-abreast-of-the-latest-developments-store-there-is-an-official-store-on-the-official-website-where-users-can-buy-raspberry-pie-board-computers-and-accessories-which-is-convenient-and-fast-documentation-and-support-the-official-website-provides-detailed-documentation-and-technical-support-to-help-users-understand-how-to-use-raspberry-pi-solve-common-problems-and-carry-out-project-development-and-creation-the-official-website-of-raspberry-pi-is-the-core-platform-of-the-raspberry-pi-community-which-provides-users-with-comprehensive-resources-and-support-and-promotes-the-application-and-development-of-raspberry-pi-in-the-fields-of-education-maker-and-internet-of-things-span4"
+              >
+                Raspberry Pi official website provides detailed information about
+                various Raspberry Pi board computers, including technical
+                specifications, function introduction, performance parameters,
+                etc.
+                <br />
+              </span>
+              <span
+                class="main-content-product-information-raspberry-pi-official-website-provides-detailed-information-about-various-raspberry-pi-board-computers-including-technical-specifications-function-introduction-performance-parameters-etc-educational-resources-the-official-website-provides-educators-students-and-enthusiasts-with-rich-educational-resources-including-teaching-guides-curriculum-plans-project-examples-etc-to-help-them-use-raspberry-pi-for-programming-and-electronic-experiments-community-forum-the-official-website-has-a-community-forum-for-users-to-exchange-experience-share-projects-and-solve-problems-this-is-an-active-community-that-brings-together-raspberry-pi-lovers-from-all-over-the-world-news-and-activities-the-official-website-regularly-publishes-news-and-activity-information-related-to-raspberry-pi-including-product-releases-technical-updates-competition-events-etc-so-that-users-can-keep-abreast-of-the-latest-developments-store-there-is-an-official-store-on-the-official-website-where-users-can-buy-raspberry-pie-board-computers-and-accessories-which-is-convenient-and-fast-documentation-and-support-the-official-website-provides-detailed-documentation-and-technical-support-to-help-users-understand-how-to-use-raspberry-pi-solve-common-problems-and-carry-out-project-development-and-creation-the-official-website-of-raspberry-pi-is-the-core-platform-of-the-raspberry-pi-community-which-provides-users-with-comprehensive-resources-and-support-and-promotes-the-application-and-development-of-raspberry-pi-in-the-fields-of-education-maker-and-internet-of-things-span5"
+              >
+                Educational resources:
+                <br />
+              </span>
+              <span
+                class="main-content-product-information-raspberry-pi-official-website-provides-detailed-information-about-various-raspberry-pi-board-computers-including-technical-specifications-function-introduction-performance-parameters-etc-educational-resources-the-official-website-provides-educators-students-and-enthusiasts-with-rich-educational-resources-including-teaching-guides-curriculum-plans-project-examples-etc-to-help-them-use-raspberry-pi-for-programming-and-electronic-experiments-community-forum-the-official-website-has-a-community-forum-for-users-to-exchange-experience-share-projects-and-solve-problems-this-is-an-active-community-that-brings-together-raspberry-pi-lovers-from-all-over-the-world-news-and-activities-the-official-website-regularly-publishes-news-and-activity-information-related-to-raspberry-pi-including-product-releases-technical-updates-competition-events-etc-so-that-users-can-keep-abreast-of-the-latest-developments-store-there-is-an-official-store-on-the-official-website-where-users-can-buy-raspberry-pie-board-computers-and-accessories-which-is-convenient-and-fast-documentation-and-support-the-official-website-provides-detailed-documentation-and-technical-support-to-help-users-understand-how-to-use-raspberry-pi-solve-common-problems-and-carry-out-project-development-and-creation-the-official-website-of-raspberry-pi-is-the-core-platform-of-the-raspberry-pi-community-which-provides-users-with-comprehensive-resources-and-support-and-promotes-the-application-and-development-of-raspberry-pi-in-the-fields-of-education-maker-and-internet-of-things-span6"
+              >
+                The official website provides educators, students and enthusiasts
+                with rich educational resources, including teaching guides,
+                curriculum plans, project examples, etc., to help them use
+                Raspberry Pi for programming and electronic experiments.
+                <br />
+              </span>
+              <span
+                class="main-content-product-information-raspberry-pi-official-website-provides-detailed-information-about-various-raspberry-pi-board-computers-including-technical-specifications-function-introduction-performance-parameters-etc-educational-resources-the-official-website-provides-educators-students-and-enthusiasts-with-rich-educational-resources-including-teaching-guides-curriculum-plans-project-examples-etc-to-help-them-use-raspberry-pi-for-programming-and-electronic-experiments-community-forum-the-official-website-has-a-community-forum-for-users-to-exchange-experience-share-projects-and-solve-problems-this-is-an-active-community-that-brings-together-raspberry-pi-lovers-from-all-over-the-world-news-and-activities-the-official-website-regularly-publishes-news-and-activity-information-related-to-raspberry-pi-including-product-releases-technical-updates-competition-events-etc-so-that-users-can-keep-abreast-of-the-latest-developments-store-there-is-an-official-store-on-the-official-website-where-users-can-buy-raspberry-pie-board-computers-and-accessories-which-is-convenient-and-fast-documentation-and-support-the-official-website-provides-detailed-documentation-and-technical-support-to-help-users-understand-how-to-use-raspberry-pi-solve-common-problems-and-carry-out-project-development-and-creation-the-official-website-of-raspberry-pi-is-the-core-platform-of-the-raspberry-pi-community-which-provides-users-with-comprehensive-resources-and-support-and-promotes-the-application-and-development-of-raspberry-pi-in-the-fields-of-education-maker-and-internet-of-things-span7"
+              >
+                Community Forum:
+                <br />
+              </span>
+              <span
+                class="main-content-product-information-raspberry-pi-official-website-provides-detailed-information-about-various-raspberry-pi-board-computers-including-technical-specifications-function-introduction-performance-parameters-etc-educational-resources-the-official-website-provides-educators-students-and-enthusiasts-with-rich-educational-resources-including-teaching-guides-curriculum-plans-project-examples-etc-to-help-them-use-raspberry-pi-for-programming-and-electronic-experiments-community-forum-the-official-website-has-a-community-forum-for-users-to-exchange-experience-share-projects-and-solve-problems-this-is-an-active-community-that-brings-together-raspberry-pi-lovers-from-all-over-the-world-news-and-activities-the-official-website-regularly-publishes-news-and-activity-information-related-to-raspberry-pi-including-product-releases-technical-updates-competition-events-etc-so-that-users-can-keep-abreast-of-the-latest-developments-store-there-is-an-official-store-on-the-official-website-where-users-can-buy-raspberry-pie-board-computers-and-accessories-which-is-convenient-and-fast-documentation-and-support-the-official-website-provides-detailed-documentation-and-technical-support-to-help-users-understand-how-to-use-raspberry-pi-solve-common-problems-and-carry-out-project-development-and-creation-the-official-website-of-raspberry-pi-is-the-core-platform-of-the-raspberry-pi-community-which-provides-users-with-comprehensive-resources-and-support-and-promotes-the-application-and-development-of-raspberry-pi-in-the-fields-of-education-maker-and-internet-of-things-span8"
+              >
+                The official website has a community forum for users to exchange
+                experience, share projects and solve problems. This is an active
+                community that brings together Raspberry Pi lovers from all over
+                the world.
+                <br />
+              </span>
+              <span
+                class="main-content-product-information-raspberry-pi-official-website-provides-detailed-information-about-various-raspberry-pi-board-computers-including-technical-specifications-function-introduction-performance-parameters-etc-educational-resources-the-official-website-provides-educators-students-and-enthusiasts-with-rich-educational-resources-including-teaching-guides-curriculum-plans-project-examples-etc-to-help-them-use-raspberry-pi-for-programming-and-electronic-experiments-community-forum-the-official-website-has-a-community-forum-for-users-to-exchange-experience-share-projects-and-solve-problems-this-is-an-active-community-that-brings-together-raspberry-pi-lovers-from-all-over-the-world-news-and-activities-the-official-website-regularly-publishes-news-and-activity-information-related-to-raspberry-pi-including-product-releases-technical-updates-competition-events-etc-so-that-users-can-keep-abreast-of-the-latest-developments-store-there-is-an-official-store-on-the-official-website-where-users-can-buy-raspberry-pie-board-computers-and-accessories-which-is-convenient-and-fast-documentation-and-support-the-official-website-provides-detailed-documentation-and-technical-support-to-help-users-understand-how-to-use-raspberry-pi-solve-common-problems-and-carry-out-project-development-and-creation-the-official-website-of-raspberry-pi-is-the-core-platform-of-the-raspberry-pi-community-which-provides-users-with-comprehensive-resources-and-support-and-promotes-the-application-and-development-of-raspberry-pi-in-the-fields-of-education-maker-and-internet-of-things-span9"
+              >
+                News and activities:
+                <br />
+              </span>
+              <span
+                class="main-content-product-information-raspberry-pi-official-website-provides-detailed-information-about-various-raspberry-pi-board-computers-including-technical-specifications-function-introduction-performance-parameters-etc-educational-resources-the-official-website-provides-educators-students-and-enthusiasts-with-rich-educational-resources-including-teaching-guides-curriculum-plans-project-examples-etc-to-help-them-use-raspberry-pi-for-programming-and-electronic-experiments-community-forum-the-official-website-has-a-community-forum-for-users-to-exchange-experience-share-projects-and-solve-problems-this-is-an-active-community-that-brings-together-raspberry-pi-lovers-from-all-over-the-world-news-and-activities-the-official-website-regularly-publishes-news-and-activity-information-related-to-raspberry-pi-including-product-releases-technical-updates-competition-events-etc-so-that-users-can-keep-abreast-of-the-latest-developments-store-there-is-an-official-store-on-the-official-website-where-users-can-buy-raspberry-pie-board-computers-and-accessories-which-is-convenient-and-fast-documentation-and-support-the-official-website-provides-detailed-documentation-and-technical-support-to-help-users-understand-how-to-use-raspberry-pi-solve-common-problems-and-carry-out-project-development-and-creation-the-official-website-of-raspberry-pi-is-the-core-platform-of-the-raspberry-pi-community-which-provides-users-with-comprehensive-resources-and-support-and-promotes-the-application-and-development-of-raspberry-pi-in-the-fields-of-education-maker-and-internet-of-things-span10"
+              >
+                The official website regularly publishes news and activity
+                information related to Raspberry Pi, including product releases,
+                technical updates, competition events, etc., so that users can
+                keep abreast of the latest developments.
+                <br />
+              </span>
+              <span
+                class="main-content-product-information-raspberry-pi-official-website-provides-detailed-information-about-various-raspberry-pi-board-computers-including-technical-specifications-function-introduction-performance-parameters-etc-educational-resources-the-official-website-provides-educators-students-and-enthusiasts-with-rich-educational-resources-including-teaching-guides-curriculum-plans-project-examples-etc-to-help-them-use-raspberry-pi-for-programming-and-electronic-experiments-community-forum-the-official-website-has-a-community-forum-for-users-to-exchange-experience-share-projects-and-solve-problems-this-is-an-active-community-that-brings-together-raspberry-pi-lovers-from-all-over-the-world-news-and-activities-the-official-website-regularly-publishes-news-and-activity-information-related-to-raspberry-pi-including-product-releases-technical-updates-competition-events-etc-so-that-users-can-keep-abreast-of-the-latest-developments-store-there-is-an-official-store-on-the-official-website-where-users-can-buy-raspberry-pie-board-computers-and-accessories-which-is-convenient-and-fast-documentation-and-support-the-official-website-provides-detailed-documentation-and-technical-support-to-help-users-understand-how-to-use-raspberry-pi-solve-common-problems-and-carry-out-project-development-and-creation-the-official-website-of-raspberry-pi-is-the-core-platform-of-the-raspberry-pi-community-which-provides-users-with-comprehensive-resources-and-support-and-promotes-the-application-and-development-of-raspberry-pi-in-the-fields-of-education-maker-and-internet-of-things-span11"
+              >
+                Store:
+                <br />
+              </span>
+              <span
+                class="main-content-product-information-raspberry-pi-official-website-provides-detailed-information-about-various-raspberry-pi-board-computers-including-technical-specifications-function-introduction-performance-parameters-etc-educational-resources-the-official-website-provides-educators-students-and-enthusiasts-with-rich-educational-resources-including-teaching-guides-curriculum-plans-project-examples-etc-to-help-them-use-raspberry-pi-for-programming-and-electronic-experiments-community-forum-the-official-website-has-a-community-forum-for-users-to-exchange-experience-share-projects-and-solve-problems-this-is-an-active-community-that-brings-together-raspberry-pi-lovers-from-all-over-the-world-news-and-activities-the-official-website-regularly-publishes-news-and-activity-information-related-to-raspberry-pi-including-product-releases-technical-updates-competition-events-etc-so-that-users-can-keep-abreast-of-the-latest-developments-store-there-is-an-official-store-on-the-official-website-where-users-can-buy-raspberry-pie-board-computers-and-accessories-which-is-convenient-and-fast-documentation-and-support-the-official-website-provides-detailed-documentation-and-technical-support-to-help-users-understand-how-to-use-raspberry-pi-solve-common-problems-and-carry-out-project-development-and-creation-the-official-website-of-raspberry-pi-is-the-core-platform-of-the-raspberry-pi-community-which-provides-users-with-comprehensive-resources-and-support-and-promotes-the-application-and-development-of-raspberry-pi-in-the-fields-of-education-maker-and-internet-of-things-span12"
+              >
+                There is an official store on the official website, where users
+                can buy Raspberry Pie board computers and accessories, which is
+                convenient and fast.
+                <br />
+              </span>
+              <span
+                class="main-content-product-information-raspberry-pi-official-website-provides-detailed-information-about-various-raspberry-pi-board-computers-including-technical-specifications-function-introduction-performance-parameters-etc-educational-resources-the-official-website-provides-educators-students-and-enthusiasts-with-rich-educational-resources-including-teaching-guides-curriculum-plans-project-examples-etc-to-help-them-use-raspberry-pi-for-programming-and-electronic-experiments-community-forum-the-official-website-has-a-community-forum-for-users-to-exchange-experience-share-projects-and-solve-problems-this-is-an-active-community-that-brings-together-raspberry-pi-lovers-from-all-over-the-world-news-and-activities-the-official-website-regularly-publishes-news-and-activity-information-related-to-raspberry-pi-including-product-releases-technical-updates-competition-events-etc-so-that-users-can-keep-abreast-of-the-latest-developments-store-there-is-an-official-store-on-the-official-website-where-users-can-buy-raspberry-pie-board-computers-and-accessories-which-is-convenient-and-fast-documentation-and-support-the-official-website-provides-detailed-documentation-and-technical-support-to-help-users-understand-how-to-use-raspberry-pi-solve-common-problems-and-carry-out-project-development-and-creation-the-official-website-of-raspberry-pi-is-the-core-platform-of-the-raspberry-pi-community-which-provides-users-with-comprehensive-resources-and-support-and-promotes-the-application-and-development-of-raspberry-pi-in-the-fields-of-education-maker-and-internet-of-things-span13"
+              >
+                Documentation and support:
+                <br />
+              </span>
+              <span
+                class="main-content-product-information-raspberry-pi-official-website-provides-detailed-information-about-various-raspberry-pi-board-computers-including-technical-specifications-function-introduction-performance-parameters-etc-educational-resources-the-official-website-provides-educators-students-and-enthusiasts-with-rich-educational-resources-including-teaching-guides-curriculum-plans-project-examples-etc-to-help-them-use-raspberry-pi-for-programming-and-electronic-experiments-community-forum-the-official-website-has-a-community-forum-for-users-to-exchange-experience-share-projects-and-solve-problems-this-is-an-active-community-that-brings-together-raspberry-pi-lovers-from-all-over-the-world-news-and-activities-the-official-website-regularly-publishes-news-and-activity-information-related-to-raspberry-pi-including-product-releases-technical-updates-competition-events-etc-so-that-users-can-keep-abreast-of-the-latest-developments-store-there-is-an-official-store-on-the-official-website-where-users-can-buy-raspberry-pie-board-computers-and-accessories-which-is-convenient-and-fast-documentation-and-support-the-official-website-provides-detailed-documentation-and-technical-support-to-help-users-understand-how-to-use-raspberry-pi-solve-common-problems-and-carry-out-project-development-and-creation-the-official-website-of-raspberry-pi-is-the-core-platform-of-the-raspberry-pi-community-which-provides-users-with-comprehensive-resources-and-support-and-promotes-the-application-and-development-of-raspberry-pi-in-the-fields-of-education-maker-and-internet-of-things-span14"
+              >
+                The official website provides detailed documentation and technical
+                support to help users understand how to use Raspberry Pi, solve
+                common problems, and carry out project development and creation.
+                <br />
+                <br />
+                The official website of Raspberry Pi is the core platform of the
+                Raspberry Pi community, which provides users with comprehensive
+                resources and support, and promotes the application and
+                development of Raspberry Pi in the fields of education, maker and
+                Internet of Things.
+              </span>
+            </span>
+          </div>
+          <img class="_20240530111536-52" src="input1.png" />
+          <img class="_20240530111536-62" src="input2.png" />
+        </div>
+        <div class="code-snippet-wrapper">
+          <div class="code-line-numbers">
+            1
+            <br />
+            2
+            <br />
+            3
+            <br />
+            4
+            <br />
+            5
+            <br />
+            6
+            <br />
+            7
+            <br />
+            8
+            <br />
+            9
+            <br />
+            10
+            <br />
+            11
+            <br />
+            12
+            <br />
+            13
+            <br />
+            14
+            <br />
+            15
+            <br />
+            16
+            <br />
+            17
+            <br />
+            18
+            <br />
+            19
+            <br />
+            20
+            <br />
+            21
+            <br />
+            22
+            <br />
+            23
+            <br />
+            24
+            <br />
+            25
+            <br />
+            26
+            <br />
+            27
+            <br />
+            28
+            <br />
+            29
+            <br />
+            30
+            <br />
+            31
+            <br />
+            32
+            <br />
+            33
+            <br />
+            34
+            <br />
+            35
+            <br />
+            36
+            <br />
+            37
+            <br />
+            38
+            <br />
+            39
+            <br />
+            40
+            <br />
+            41
+            <br />
+            42
+            <br />
+            43
+            <br />
+            44
+            <br />
+            45
+            <br />
+            46
+            <br />
+            47
+            <br />
+            48
+            <br />
+            49
+            <br />
+            50
+            <br />
+            51
+          </div>
+          <div class="code-snippet">
+            <span>
+              <span class="code-snippet-span">#include</span>
+              <span class="code-snippet-span2">&lt;</span>
+              <span class="code-snippet-span3">Adafruit_GFX.h</span>
+              <span class="code-snippet-span4">
+                &gt;
+                <br />
+              </span>
+              <span class="code-snippet-span5">#include</span>
+              <span class="code-snippet-span6">&lt;</span>
+              <span class="code-snippet-span7">Adafruit_SSD1306.h</span>
+              <span class="code-snippet-span8">
+                &gt;
+                <br />
+              </span>
+              <span class="code-snippet-span9">
+                <br />
+              </span>
+              <span class="code-snippet-span10">#define</span>
+              <span class="code-snippet-span11">SCREEN_WIDTH</span>
+              <span class="code-snippet-span12"></span>
+              <span class="code-snippet-span13">128</span>
+              <span class="code-snippet-span14"></span>
+              <span class="code-snippet-span15">
+                // OLED display width, in pixels
+                <br />
+              </span>
+              <span class="code-snippet-span16">#define</span>
+              <span class="code-snippet-span17">SCREEN_HEIGHT</span>
+              <span class="code-snippet-span18"></span>
+              <span class="code-snippet-span19">64</span>
+              <span class="code-snippet-span20"></span>
+              <span class="code-snippet-span21">
+                // OLED display height, in pixels
+                <br />
+              </span>
+              <span class="code-snippet-span22">#define</span>
+              <span class="code-snippet-span23">OLED_RESET</span>
+              <span class="code-snippet-span24"></span>
+              <span class="code-snippet-span25">3</span>
+              <span class="code-snippet-span26"></span>
+              <span class="code-snippet-span27">
+                // Reset pin # (or -1 if sharing reset pin)
+                <br />
+              </span>
+              <span class="code-snippet-span28">Adafruit_SSD1306</span>
+              <span class="code-snippet-span29">display</span>
+              <span class="code-snippet-span30">(</span>
+              <span class="code-snippet-span31">SCREEN_WIDTH</span>
+              <span class="code-snippet-span32">,</span>
+              <span class="code-snippet-span33">SCREEN_HEIGHT</span>
+              <span class="code-snippet-span34">,</span>
+              <span class="code-snippet-span35">&amp;</span>
+              <span class="code-snippet-span36">Wire,</span>
+              <span class="code-snippet-span37">OLED_RESET</span>
+              <span class="code-snippet-span38">
+                );
+                <br />
+                int san
+              </span>
+              <span class="code-snippet-span39">=</span>
+              <span class="code-snippet-span40"></span>
+              <span class="code-snippet-span41">0</span>
+              <span class="code-snippet-span42">
+                ;
+                <br />
+              </span>
+              <span class="code-snippet-span43">
+                <br />
+              </span>
+              <span class="code-snippet-span44">void</span>
+              <span class="code-snippet-span45"></span>
+              <span class="code-snippet-span46">setup</span>
+              <span class="code-snippet-span47">
+                ()
+                <br />
+                &lcub;
+                <br />
+                Serial.
+              </span>
+              <span class="code-snippet-span48">begin</span>
+              <span class="code-snippet-span49">(</span>
+              <span class="code-snippet-span50">115200</span>
+              <span class="code-snippet-span51">
+                );
+                <br />
+              </span>
+              <span class="code-snippet-span52">if</span>
+              <span class="code-snippet-span53">(</span>
+              <span class="code-snippet-span54">!</span>
+              <span class="code-snippet-span55">display.</span>
+              <span class="code-snippet-span56">begin</span>
+              <span class="code-snippet-span57">(</span>
+              <span class="code-snippet-span58">SSD1306_SWITCHCAPVCC</span>
+              <span class="code-snippet-span59">,</span>
+              <span class="code-snippet-span60">0x3C</span>
+              <span class="code-snippet-span61">
+                ))
+                <br />
+                &lcub;
+                <br />
+                Serial.
+              </span>
+              <span class="code-snippet-span62">println</span>
+              <span class="code-snippet-span63">(</span>
+              <span class="code-snippet-span64">
+                &quot;SSD1306 allocation failed&quot;
+              </span>
+              <span class="code-snippet-span65">
+                );
+                <br />
+              </span>
+              <span class="code-snippet-span66">while</span>
+              <span class="code-snippet-span67">(</span>
+              <span class="code-snippet-span68">1</span>
+              <span class="code-snippet-span69">);</span>
+              <span class="code-snippet-span70">
+                //Don&#039;t proceed, loop forever
+                <br />
+              </span>
+              <span class="code-snippet-span71">
+                &rcub;
+                <br />
+              </span>
+              <span class="code-snippet-span72">
+                //display.display();
+                <br />
+              </span>
+              <span class="code-snippet-span73"></span>
+              <span class="code-snippet-span74">
+                //delay(100);
+                <br />
+              </span>
+              <span class="code-snippet-span75"></span>
+              <span class="code-snippet-span76">
+                //display.clearDisplay();
+                <br />
+              </span>
+              <span class="code-snippet-span77">display.</span>
+              <span class="code-snippet-span78">clearDisplay</span>
+              <span class="code-snippet-span79">
+                ();
+                <br />
+                display.
+              </span>
+              <span class="code-snippet-span80">setTextColor</span>
+              <span class="code-snippet-span81">(</span>
+              <span class="code-snippet-span82">WHITE</span>
+              <span class="code-snippet-span83">
+                );
+                <br />
+                display.
+              </span>
+              <span class="code-snippet-span84">setTextSize</span>
+              <span class="code-snippet-span85">(</span>
+              <span class="code-snippet-span86">4</span>
+              <span class="code-snippet-span87">
+                );
+                <br />
+                display.
+              </span>
+              <span class="code-snippet-span88">setCursor</span>
+              <span class="code-snippet-span89">(</span>
+              <span class="code-snippet-span90">20</span>
+              <span class="code-snippet-span91">,</span>
+              <span class="code-snippet-span92">10</span>
+              <span class="code-snippet-span93">
+                );
+                <br />
+                display.
+              </span>
+              <span class="code-snippet-span94">print</span>
+              <span class="code-snippet-span95">(</span>
+              <span class="code-snippet-span96">&quot;OLED&quot;</span>
+              <span class="code-snippet-span97">
+                );
+                <br />
+                display.
+              </span>
+              <span class="code-snippet-span98">display</span>
+              <span class="code-snippet-span99">
+                ();
+                <br />
+              </span>
+              <span class="code-snippet-span100">delay</span>
+              <span class="code-snippet-span101">(</span>
+              <span class="code-snippet-span102">200</span>
+              <span class="code-snippet-span103">
+                );
+                <br />
+              </span>
+              <span class="code-snippet-span104">
+                <br />
+              </span>
+              <span class="code-snippet-span105">
+                &rcub;
+                <br />
+              </span>
+              <span class="code-snippet-span106">
+                <br />
+              </span>
+              <span class="code-snippet-span107">void</span>
+              <span class="code-snippet-span108"></span>
+              <span class="code-snippet-span109">loop</span>
+              <span class="code-snippet-span110">
+                ()
+                <br />
+                &lcub;
+                <br />
+                int san
+              </span>
+              <span class="code-snippet-span111">=</span>
+              <span class="code-snippet-span112"></span>
+              <span class="code-snippet-span113">0</span>
+              <span class="code-snippet-span114">
+                ;
+                <br />
+              </span>
+              <span class="code-snippet-span115">for</span>
+              <span class="code-snippet-span116">(int i</span>
+              <span class="code-snippet-span117">=</span>
+              <span class="code-snippet-span118"></span>
+              <span class="code-snippet-span119">0</span>
+              <span class="code-snippet-span120">; i</span>
+              <span class="code-snippet-span121">&lt;</span>
+              <span class="code-snippet-span122"></span>
+              <span class="code-snippet-span123">10</span>
+              <span class="code-snippet-span124">; i</span>
+              <span class="code-snippet-span125">++</span>
+              <span class="code-snippet-span126">
+                ) &lcub;
+                <br />
+                san
+              </span>
+              <span class="code-snippet-span127">=</span>
+              <span class="code-snippet-span128">san</span>
+              <span class="code-snippet-span129">+</span>
+              <span class="code-snippet-span130"></span>
+              <span class="code-snippet-span131">analogRead</span>
+              <span class="code-snippet-span132">(</span>
+              <span class="code-snippet-span133">A0</span>
+              <span class="code-snippet-span134">
+                );
+                <br />
+              </span>
+              <span class="code-snippet-span135">delay</span>
+              <span class="code-snippet-span136">(</span>
+              <span class="code-snippet-span137">5</span>
+              <span class="code-snippet-span138">
+                );
+                <br />
+                &rcub;
+                <br />
+                san
+              </span>
+              <span class="code-snippet-span139">=</span>
+              <span class="code-snippet-span140">san</span>
+              <span class="code-snippet-span141">/</span>
+              <span class="code-snippet-span142"></span>
+              <span class="code-snippet-span143">10</span>
+              <span class="code-snippet-span144">
+                ;
+                <br />
+                display.
+              </span>
+              <span class="code-snippet-span145">clearDisplay</span>
+              <span class="code-snippet-span146">
+                ();
+                <br />
+                display.
+              </span>
+              <span class="code-snippet-span147">setTextSize</span>
+              <span class="code-snippet-span148">(</span>
+              <span class="code-snippet-span149">2</span>
+              <span class="code-snippet-span150">
+                );
+                <br />
+                display.
+              </span>
+              <span class="code-snippet-span151">setCursor</span>
+              <span class="code-snippet-span152">(</span>
+              <span class="code-snippet-span153">0</span>
+              <span class="code-snippet-span154">,</span>
+              <span class="code-snippet-span155">30</span>
+              <span class="code-snippet-span156">
+                );
+                <br />
+                display.
+              </span>
+              <span class="code-snippet-span157">print</span>
+              <span class="code-snippet-span158">(</span>
+              <span class="code-snippet-span159">&quot;dB:&quot;</span>
+              <span class="code-snippet-span160">
+                );
+                <br />
+                display.
+              </span>
+              <span class="code-snippet-span161">println</span>
+              <span class="code-snippet-span162">
+                (san);
+                <br />
+                display.
+              </span>
+              <span class="code-snippet-span163">display</span>
+              <span class="code-snippet-span164">
+                ();
+                <br />
+                Serial.
+              </span>
+              <span class="code-snippet-span165">print</span>
+              <span class="code-snippet-span166">(</span>
+              <span class="code-snippet-span167">1000</span>
+              <span class="code-snippet-span168">
+                );
+                <br />
+                Serial.
+              </span>
+              <span class="code-snippet-span169">print</span>
+              <span class="code-snippet-span170">(</span>
+              <span class="code-snippet-span171">&quot; &quot;</span>
+              <span class="code-snippet-span172">
+                );
+                <br />
+                Serial.
+              </span>
+              <span class="code-snippet-span173">print</span>
+              <span class="code-snippet-span174">(</span>
+              <span class="code-snippet-span175">10</span>
+              <span class="code-snippet-span176">
+                );
+                <br />
+                Serial.
+              </span>
+              <span class="code-snippet-span177">print</span>
+              <span class="code-snippet-span178">(</span>
+              <span class="code-snippet-span179">&quot; &quot;</span>
+              <span class="code-snippet-span180">
+                );
+                <br />
+                Serial.
+              </span>
+              <span class="code-snippet-span181">println</span>
+              <span class="code-snippet-span182">(san,</span>
+              <span class="code-snippet-span183">DEC</span>
+              <span class="code-snippet-span184">
+                );
+                <br />
+              </span>
+              <span class="code-snippet-span185">delay</span>
+              <span class="code-snippet-span186">(</span>
+              <span class="code-snippet-span187">10</span>
+              <span class="code-snippet-span188">
+                );
+                <br />
+                &rcub;
+              </span>
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+</body>
+</html>

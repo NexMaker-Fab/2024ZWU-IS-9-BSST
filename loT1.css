@@ -1,0 +1,1204 @@
+.lo-t,
+.lo-t * {
+  box-sizing: border-box;
+}
+.lo-t {
+  background: #ffffff;
+  height: 5858px;
+  position: relative;
+  overflow: hidden;
+}
+.logo {
+  width: 188.65px;
+  height: 72.25px;
+  position: absolute;
+  left: 90px;
+  top: 0px;
+}
+.rectangle-1 {
+  width: 99.78%;
+  height: 99.85%;
+  position: absolute;
+  right: 0%;
+  left: 0.22%;
+  bottom: 0%;
+  top: 0.15%;
+  transform: translate(0px, 0px);
+  overflow: visible;
+}
+.bbst {
+  color: #ffffff;
+  text-align: center;
+  font-family: "KronaOne-Regular", sans-serif;
+  font-size: 36px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  right: 0.35%;
+  left: 0%;
+  width: 99.65%;
+  bottom: 0.35%;
+  top: 0%;
+  height: 99.65%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.line-2 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  height: 0px;
+  position: absolute;
+  right: 90.97px;
+  left: 90px;
+  top: 72px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.group-3 {
+  position: absolute;
+  inset: 0;
+}
+.about {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  position: absolute;
+  right: 908px;
+  top: 24px;
+  width: 134px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.team-interoduction {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  position: absolute;
+  right: 570px;
+  top: 24px;
+  width: 361px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.team-member {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  position: absolute;
+  right: 279px;
+  top: 24px;
+  width: 315px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.course {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  position: absolute;
+  right: 168px;
+  top: 24px;
+  width: 134px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.final {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  position: absolute;
+  right: 57px;
+  top: 24px;
+  width: 134px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-13 {
+  position: absolute;
+  inset: 0;
+}
+.line-22 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  height: 0px;
+  position: absolute;
+  right: 80.97px;
+  left: 100px;
+  bottom: 48px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.bsst-team-zwu {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 1063px;
+  left: 80px;
+  bottom: 0px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+._2024-6 {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 81px;
+  left: 1062px;
+  bottom: 0px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-23 {
+  position: absolute;
+  inset: 0;
+}
+._1-class-practice-autodesk-fusion-shapr-3-d {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 595px);
+  top: calc(50% - 7804px);
+  width: 695px;
+  height: 30px;
+}
+._1-class-practice-autodesk-fusion-shapr-3-d-span {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+}
+._1-class-practice-autodesk-fusion-shapr-3-d-span2 {
+  color: #000000;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 300;
+}
+._20240530111536-1 {
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 955px;
+  height: 574px;
+  position: absolute;
+  left: calc(50% - 473px);
+  top: calc(50% - 7737px);
+  object-fit: cover;
+}
+.on-the-left-is-our-group-s-warehouse-where-you-can-share-and-edit-the-parts-you-have-made-if-we-want-to-create-a-new-component-we-need-to-click-the-new-component-button-as-shown-in-the-picture {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 473px);
+  top: calc(50% - 7146px);
+  width: 1127px;
+  height: 76.02px;
+}
+.course-lo-t {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 610px);
+  top: calc(50% - 2825px);
+  width: 434.85px;
+  height: 27.44px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.analysis-of-a-certain-case-of-lot-john-deere-s-precision-agriculture-solution {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 597px);
+  top: calc(50% - 2748px);
+  width: 1038px;
+  height: 23px;
+}
+.analysis-of-a-certain-case-of-lot-john-deere-s-precision-agriculture-solution-span {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+}
+.analysis-of-a-certain-case-of-lot-john-deere-s-precision-agriculture-solution-span2 {
+  color: #000000;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 300;
+}
+._1-background {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 568px);
+  top: calc(50% - 2692px);
+  width: 159px;
+  height: 23px;
+}
+._2-implementation-plan {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 568px);
+  top: calc(50% - 2504px);
+  width: 274px;
+  height: 23px;
+}
+._3-advantage-analysis {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 568px);
+  top: calc(50% - -1566px);
+  width: 274px;
+  height: 23px;
+}
+._4-challenges-and-solutions {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 568px);
+  top: calc(50% - -2134px);
+  width: 400px;
+  height: 23px;
+}
+._5-summary {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 568px);
+  top: calc(50% - -2602px);
+  width: 400px;
+  height: 23px;
+}
+.sensors-and-devices {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 536px);
+  top: calc(50% - 2465px);
+  width: 274px;
+  height: 29px;
+}
+.data-collection-and-transmission {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 536px);
+  top: calc(50% - -653px);
+  width: 393px;
+  height: 29px;
+}
+.data-collection-and-transmission2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 536px);
+  top: calc(50% - -866px);
+  width: 393px;
+  height: 29px;
+}
+.automation-control-and-implementation {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 536px);
+  top: calc(50% - -1313px);
+  width: 497px;
+  height: 29px;
+}
+.soil-moisture-sensor {
+  color: rgba(9, 51, 202, 0.78);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - 2426px);
+  width: 274px;
+  height: 23px;
+}
+.https-m-tb-cn-h-gg-8-ca-fi-t-2-es-7-z-sq-tk-zk-mk-wa-5-igk-i-cz-0000 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 14px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+  text-decoration: underline;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - 2276px);
+  width: 685px;
+  height: 29px;
+}
+.https-m-tb-cn-h-g-t-qo-fq-o-5-sewx-on-8-tk-e-aai-wa-5-jx-8-p-hu-0854 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 14px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+  text-decoration: underline;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - 1789px);
+  width: 685px;
+  height: 29px;
+}
+.https-m-tb-cn-h-g-t-91-qk-6-yl-cc-97-y-p-tk-bo-92-wa-5-dsub-cz-3460-vantage-pro-2-6152-davis {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 14px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+  text-decoration: underline;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - 761px);
+  width: 1061px;
+  height: 17px;
+}
+.https-www-dji-com-cn-p-4-multispectral {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 14px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - 158px);
+  width: 1061px;
+  height: 17px;
+}
+.https-ml-mbd-baidu-com-r-1-lrixg-g-size-f-cp-rs-930797787-ruk-nkomwq-m-wd-z-5-o-hq-m-2-dex-jvg-u-3-aa-0-de-49-be-74-f-658 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 14px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+  text-decoration: underline;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - 731px);
+  width: 1061px;
+  height: 17px;
+}
+._0-a-987-e-4-f-65-e-01-e-69-f-3-e-3-b-6779981-ecc-1 {
+  width: 229px;
+  height: 229px;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - 1232px);
+  object-fit: cover;
+}
+.https-www-instrument-com-cn-netshow-c-103628-htm {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 14px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+  text-decoration: underline;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - 2249px);
+  width: 685px;
+  height: 29px;
+}
+.detailed-introduction-https-www-mouser-cn-new-sensirion-sensirion-sht-3-xa-automotive-sensors {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 14px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+  text-decoration: underline;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - 1760px);
+  width: 955px;
+  height: 29px;
+}
+.detailed-introduction-https-www-qudao-com-cn-article-636-html {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 14px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+  text-decoration: underline;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - 701px);
+  width: 955px;
+  height: 29px;
+}
+.john-deere-is-a-global-leader-in-agricultural-machinery-and-technology-solutions-through-its-precision-agriculture-solutions-john-deere-helps-farmers-increase-crop-yields-optimize-resource-utilization-and-reduce-operating-costs {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 568px);
+  top: calc(50% - 2653px);
+  width: 1145px;
+  height: 77px;
+}
+.function-measure-the-moisture-content-in-soil-application-helps-determine-when-and-how-much-irrigation-to-avoid-excessive-or-insufficient-irrigation-example-device-decagon-devices-ec-5-soil-moisture-sensor {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 496px);
+  top: calc(50% - 2403px);
+  width: 937px;
+  height: 155px;
+}
+.temperature-and-humidity-sensors {
+  color: rgba(9, 51, 202, 0.78);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 477px);
+  top: calc(50% - 1934px);
+  width: 609px;
+  height: 23px;
+}
+.function-measure-ambient-temperature-and-humidity-application-monitor-and-control-greenhouse-environment-optimize-crop-growth-conditions-example-device-sensirion-sht-3-x-temperature-and-humidity-sensor {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 496px);
+  top: calc(50% - 1911px);
+  width: 1073px;
+  height: 155px;
+}
+.meteorological-station {
+  color: rgba(9, 51, 202, 0.78);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - 947px);
+  width: 266px;
+  height: 23px;
+}
+.function-collect-meteorological-data-such-as-wind-speed-rainfall-and-air-pressure-application-provide-comprehensive-meteorological-data-for-precise-agricultural-decision-making-example-device-davis-vantage-pro-2-weather-station {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 496px);
+  top: calc(50% - 924px);
+  width: 685px;
+  height: 155px;
+}
+.unmanned-aerial-vehicles-ua-vs {
+  color: rgba(9, 51, 202, 0.78);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - 344px);
+  width: 447px;
+  height: 23px;
+}
+.function-aerial-monitoring-of-farmland-obtaining-high-resolution-farmland-images-application-evaluate-crop-health-detect-pests-and-diseases-and-generate-crop-health-maps-example-device-dji-phantom-4-multispectral-drone {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 496px);
+  top: calc(50% - 321px);
+  width: 685px;
+  height: 155px;
+}
+.automated-irrigation-system {
+  color: rgba(9, 51, 202, 0.78);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - -185px);
+  width: 447px;
+  height: 23px;
+}
+.function-automatically-control-irrigation-based-on-sensor-data-application-provides-precise-irrigation-to-reduce-water-resource-waste-example-device-toro-precision-soil-sensor-irrigation-system {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 496px);
+  top: calc(50% - -208px);
+  width: 685px;
+  height: 116px;
+}
+.lo-ra-wan-and-nb-io-t-networks {
+  color: rgba(9, 51, 202, 0.78);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 486px);
+  top: calc(50% - -695px);
+  width: 447px;
+  height: 23px;
+}
+.function-low-power-wide-area-network-for-long-distance-transmission-of-sensor-data-application-realize-remote-farmland-data-transmission-even-in-areas-with-poor-network-coverage {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 498px);
+  top: calc(50% - -718px);
+  width: 1020px;
+  height: 77px;
+}
+.john-deere-operations-center {
+  color: rgba(9, 51, 202, 0.78);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - -908px);
+  width: 447px;
+  height: 23px;
+}
+.function-a-platform-for-centralized-management-and-analysis-of-farmland-data-application-provide-data-visualization-analysis-tools-and-decision-support-to-help-farmers-optimize-planting-strategies-technology-based-on-cloud-computing-and-big-data-analysis-technology-it-supports-real-time-data-processing-and-historical-data-analysis {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 496px);
+  top: calc(50% - -931px);
+  width: 1073px;
+  height: 132px;
+}
+.through-john-deere-s-precision-agriculture-solution-farmers-can-achieve-digitalization-and-intelligence-of-agricultural-production-significantly-improve-production-efficiency-optimize-resource-utilization-and-reduce-operating-costs-despite-facing-certain-challenges-these-challenges-can-be-effectively-addressed-through-technological-progress-and-management-optimization-intelligent-agriculture-not-only-improves-the-economic-benefits-of-farmers-but-also-promotes-the-sustainable-development-of-agriculture {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - -2630px);
+  width: 1061px;
+  height: 160px;
+}
+.automated-agricultural-machinery {
+  color: rgba(9, 51, 202, 0.78);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - -1355px);
+  width: 447px;
+}
+.function-automatically-perform-agricultural-operations-such-as-sowing-fertilizing-and-harvesting-through-gps-and-sensor-technology-application-improve-homework-efficiency-and-reduce-manual-operations-example-device-john-deere-auto-trac-auto-drive-system {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 496px);
+  top: calc(50% - -1378px);
+  width: 1073px;
+}
+.improve-production-efficiency {
+  color: rgba(9, 51, 202, 0.78);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - -1602px);
+  width: 447px;
+}
+.by-precise-irrigation-and-fertilization-crops-are-ensured-to-achieve-optimal-growth-conditions-significantly-increasing-crop-yield {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 496px);
+  top: calc(50% - -1625px);
+  width: 1073px;
+}
+.optimize-resource-utilization {
+  color: rgba(9, 51, 202, 0.78);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - -1700px);
+  width: 447px;
+}
+.precision-agriculture-reduces-the-waste-of-water-fertilizers-and-pesticides-achieving-sustainable-agricultural-development {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 496px);
+  top: calc(50% - -1723px);
+  width: 1073px;
+}
+.reduce-operating-costs {
+  color: rgba(9, 51, 202, 0.78);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - -1798px);
+  width: 447px;
+}
+.automation-and-intelligent-systems-reduce-reliance-on-manpower-and-lower-operating-costs {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 496px);
+  top: calc(50% - -1821px);
+  width: 1073px;
+}
+.real-time-decision-support {
+  color: rgba(9, 51, 202, 0.78);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - -1896px);
+  width: 447px;
+}
+.a-decision-support-system-based-on-real-time-data-helps-farmers-respond-to-changing-agricultural-environments-in-a-timely-manner {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 496px);
+  top: calc(50% - -1919px);
+  width: 1073px;
+}
+.improving-crop-quality {
+  color: rgba(9, 51, 202, 0.78);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - -1994px);
+  width: 447px;
+}
+.by-optimizing-management-the-health-and-quality-of-crops-have-been-improved-and-market-competitiveness-has-been-increased {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 496px);
+  top: calc(50% - -2017px);
+  width: 1073px;
+}
+.initial-investment-high {
+  color: rgba(9, 51, 202, 0.78);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - -2183px);
+  width: 447px;
+}
+.although-the-initial-investment-is-relatively-high-long-term-efficiency-improvements-and-cost-savings-can-offset-the-initial-costs {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 496px);
+  top: calc(50% - -2206px);
+  width: 1000px;
+}
+.technology-dependency {
+  color: rgba(9, 51, 202, 0.78);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - -2281px);
+  width: 447px;
+}
+.provide-training-and-technical-support-to-farmers-to-ensure-they-can-effectively-use-and-maintain-the-system {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 496px);
+  top: calc(50% - -2304px);
+  width: 1037px;
+}
+.data-security {
+  color: rgba(9, 51, 202, 0.78);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - -2379px);
+  width: 447px;
+}
+.adopting-advanced-encryption-and-data-protection-technologies-to-ensure-the-security-and-privacy-of-agricultural-data {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 496px);
+  top: calc(50% - -2402px);
+  width: 1037px;
+}
+.network-coverage-issue {
+  color: rgba(9, 51, 202, 0.78);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - -2477px);
+  width: 447px;
+}
+.utilize-low-power-wide-area-network-technologies-such-as-lo-ra-wan-and-nb-io-t-to-ensure-reliable-data-transmission-even-in-remote-areas {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 496px);
+  top: calc(50% - -2500px);
+  width: 1073px;
+}
+.machine-learning-algorithms {
+  color: rgba(9, 51, 202, 0.78);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - -1134px);
+  width: 447px;
+  height: 23px;
+}
+.function-analyze-complex-data-patterns-predict-crop-growth-trends-and-pest-and-disease-risks-application-provide-precise-agricultural-advice-to-improve-production-efficiency-and-crop-quality {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 496px);
+  top: calc(50% - -1157px);
+  width: 1073px;
+  height: 85px;
+}
+.b-3-e-3420842-d-4-d-80-be-4-ea-990594-d-44-a-5-1 {
+  width: 279px;
+  height: 180px;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - 2193px);
+  object-fit: cover;
+}
+._983-a-40-d-465-e-082-c-1-f-2-c-1695-f-3-c-6-d-5-b-2-1 {
+  width: 322px;
+  height: 191px;
+  position: absolute;
+  left: calc(50% - 77px);
+  top: calc(50% - 2198px);
+  object-fit: cover;
+}
+._65619-c-4364841-fdcb-4-d-96-dbe-1-dbbd-0-f-1 {
+  width: 205px;
+  height: 182px;
+  position: absolute;
+  left: calc(50% - -372px);
+  top: calc(50% - 2193px);
+  object-fit: cover;
+}
+._883-e-54677-f-3-f-99873661862-deb-8490-c-1 {
+  width: 239px;
+  height: 217px;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - 1708px);
+  object-fit: cover;
+}
+.light-sensor {
+  color: rgba(9, 51, 202, 0.78);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - 1427px);
+  width: 166px;
+  height: 23px;
+}
+.function-measure-the-amount-of-solar-radiation-application-determine-the-optimal-planting-time-and-plant-photosynthesis-requirements-example-device-apogee-instruments-sq-500-optical-quantum-sensor {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 496px);
+  top: calc(50% - 1404px);
+  width: 1073px;
+  height: 116px;
+}
+._32850452-e-6-f-8-f-3-ad-1330-a-36-f-8-faa-0-eb-1 {
+  width: 226px;
+  height: 225px;
+  position: absolute;
+  left: calc(50% - 77px);
+  top: calc(50% - 1232px);
+  object-fit: cover;
+}
+.d-96-a-28-b-60969736-a-4-e-84-d-7-ca-9437-aa-5-1 {
+  width: 224px;
+  height: 225px;
+  position: absolute;
+  left: calc(50% - -353px);
+  top: calc(50% - 1232px);
+  object-fit: cover;
+}
+._68-cf-71-fc-28-a-12-a-7-d-7-b-871-d-64978-b-534-1 {
+  width: 217px;
+  height: 217px;
+  position: absolute;
+  left: calc(50% - 70px);
+  top: calc(50% - 1707px);
+  object-fit: cover;
+}
+.a-3-dbe-603828-ebc-7-b-2-db-4-d-0-d-0-baaae-57-1 {
+  width: 279px;
+  height: 279px;
+  position: absolute;
+  left: calc(50% - -298px);
+  top: calc(50% - 1746px);
+  object-fit: cover;
+}
+._5-b-2-ccfef-00-e-72-a-925437634-f-2-a-46296-1 {
+  width: 231px;
+  height: 223px;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - 646px);
+  object-fit: cover;
+}
+._1-f-422782723-ef-8-ec-9-f-2-e-8-cca-62600-f-5-1 {
+  width: 370px;
+  height: 223px;
+  position: absolute;
+  left: calc(50% - 143px);
+  top: calc(50% - 646px);
+  object-fit: cover;
+}
+.e-0345-b-89-aaf-29224-d-571-af-0378-d-920-b-1 {
+  width: 230px;
+  height: 242px;
+  position: absolute;
+  left: calc(50% - -347px);
+  top: calc(50% - 655px);
+  object-fit: cover;
+}
+._52-f-5-cea-6-b-2-c-9-c-34261-fe-717-ae-63-aa-2-b-1 {
+  width: 272px;
+  height: 181px;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - 81px);
+  object-fit: cover;
+}
+._36-c-01-beefbddb-06895-ac-689-a-9693-b-37-1 {
+  width: 335px;
+  height: 185px;
+  position: absolute;
+  left: calc(50% - 108px);
+  top: calc(50% - 85px);
+  object-fit: cover;
+}
+._0-b-9-acd-60-e-08-de-97-f-89-e-0-e-37-b-85341-e-9-1 {
+  width: 226px;
+  height: 226px;
+  position: absolute;
+  left: calc(50% - -351px);
+  top: calc(50% - 111px);
+  object-fit: cover;
+}
+._51-f-3664-af-9-c-39-b-587891-a-2-e-4-a-3346-e-0-1 {
+  width: 287px;
+  height: 178px;
+  position: absolute;
+  left: calc(50% - 139px);
+  top: calc(50% - -356px);
+  object-fit: cover;
+}
+._137-e-8857-b-7-a-78704-abaf-8-ae-35-f-6039-c-1 {
+  width: 236px;
+  height: 201px;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - -344px);
+  object-fit: cover;
+}
+._4-b-59159-d-68201-d-184-f-4-ab-530061-f-5-ba-1 {
+  width: 221px;
+  height: 221px;
+  position: absolute;
+  left: calc(50% - -326px);
+  top: calc(50% - -324px);
+  object-fit: cover;
+}

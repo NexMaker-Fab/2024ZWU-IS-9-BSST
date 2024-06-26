@@ -1,0 +1,955 @@
+.cnc,
+.cnc * {
+  box-sizing: border-box;
+}
+.cnc {
+  background: #ffffff;
+  height: 5366px;
+  position: relative;
+  overflow: hidden;
+}
+.logo {
+  width: 188.65px;
+  height: 72.25px;
+  position: absolute;
+  left: 90px;
+  top: 0px;
+}
+.rectangle-1 {
+  width: 99.78%;
+  height: 99.85%;
+  position: absolute;
+  right: 0%;
+  left: 0.22%;
+  bottom: 0%;
+  top: 0.15%;
+  transform: translate(0px, 0px);
+  overflow: visible;
+}
+.bbst {
+  color: #ffffff;
+  text-align: center;
+  font-family: "KronaOne-Regular", sans-serif;
+  font-size: 36px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  right: 0.35%;
+  left: 0%;
+  width: 99.65%;
+  bottom: 0.35%;
+  top: 0%;
+  height: 99.65%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.line-2 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  height: 0px;
+  position: absolute;
+  right: 90.97px;
+  left: 90px;
+  top: 72px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.group-3 {
+  position: absolute;
+  inset: 0;
+}
+.about {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  position: absolute;
+  right: 908px;
+  top: 24px;
+  width: 134px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.team-interoduction {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  position: absolute;
+  right: 570px;
+  top: 24px;
+  width: 361px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.team-member {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  position: absolute;
+  right: 279px;
+  top: 24px;
+  width: 315px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.course {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  position: absolute;
+  right: 168px;
+  top: 24px;
+  width: 134px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.final {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  position: absolute;
+  right: 57px;
+  top: 24px;
+  width: 134px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-13 {
+  position: absolute;
+  inset: 0;
+}
+.line-22 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  height: 0px;
+  position: absolute;
+  right: 80.97px;
+  left: 100px;
+  bottom: 48px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.bsst-team-zwu {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 1063px;
+  left: 80px;
+  bottom: 0px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+._2024-6 {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 81px;
+  left: 1062px;
+  bottom: 0px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-23 {
+  position: absolute;
+  inset: 0;
+}
+._1-class-practice-autodesk-fusion-shapr-3-d {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 595px);
+  top: calc(50% - 7804px);
+  width: 695px;
+  height: 30px;
+}
+._1-class-practice-autodesk-fusion-shapr-3-d-span {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+}
+._1-class-practice-autodesk-fusion-shapr-3-d-span2 {
+  color: #000000;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 300;
+}
+._20240530111536-1 {
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 955px;
+  height: 574px;
+  position: absolute;
+  left: calc(50% - 473px);
+  top: calc(50% - 7737px);
+  object-fit: cover;
+}
+.on-the-left-is-our-group-s-warehouse-where-you-can-share-and-edit-the-parts-you-have-made-if-we-want-to-create-a-new-component-we-need-to-click-the-new-component-button-as-shown-in-the-picture {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 473px);
+  top: calc(50% - 7146px);
+  width: 1127px;
+  height: 76.02px;
+}
+.course-cnc {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 597px);
+  top: calc(50% - 2566px);
+  width: 434.85px;
+  height: 27.44px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-56 {
+  position: absolute;
+  inset: 0;
+}
+.follow-operating-procedures-every-machine-or-equipment-has-its-operating-procedures-and-workers-must-operate-in-accordance-with-the-procedures-to-avoid-arbitrarily-changing-the-equipment-or-machine-settings-use-of-personal-protective-equipment-depending-on-the-nature-of-the-job-protective-equipment-such-as-helmets-safety-glasses-protective-clothing-protective-gloves-safety-shoes-etc-may-be-required-these-devices-protect-workers-from-injuries-caused-by-accidents-regular-training-conduct-regular-safety-training-to-ensure-that-all-employees-are-aware-of-the-latest-safety-regulations-and-operating-procedures-keep-the-work-area-tidy-cleaning-up-the-work-area-can-eliminate-many-potential-hazards-such-as-avoiding-slip-and-trip-accidents-regular-maintenance-inspections-equipment-and-machines-need-to-be-maintained-and-inspected-regularly-to-ensure-that-they-are-in-good-working-order-any-damaged-equipment-should-be-reported-and-repaired-immediately-avoid-fatigue-at-work-fatigue-can-lead-to-poor-concentration-and-increase-the-risk-of-accidents-therefore-it-is-important-to-ensure-that-employees-have-enough-time-off-use-the-right-tools-using-the-right-tools-can-reduce-the-risk-of-injury {
+  text-align: justified;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 554px);
+  top: calc(50% - 2460px);
+  width: 1136px;
+  height: 421px;
+}
+.follow-operating-procedures-every-machine-or-equipment-has-its-operating-procedures-and-workers-must-operate-in-accordance-with-the-procedures-to-avoid-arbitrarily-changing-the-equipment-or-machine-settings-use-of-personal-protective-equipment-depending-on-the-nature-of-the-job-protective-equipment-such-as-helmets-safety-glasses-protective-clothing-protective-gloves-safety-shoes-etc-may-be-required-these-devices-protect-workers-from-injuries-caused-by-accidents-regular-training-conduct-regular-safety-training-to-ensure-that-all-employees-are-aware-of-the-latest-safety-regulations-and-operating-procedures-keep-the-work-area-tidy-cleaning-up-the-work-area-can-eliminate-many-potential-hazards-such-as-avoiding-slip-and-trip-accidents-regular-maintenance-inspections-equipment-and-machines-need-to-be-maintained-and-inspected-regularly-to-ensure-that-they-are-in-good-working-order-any-damaged-equipment-should-be-reported-and-repaired-immediately-avoid-fatigue-at-work-fatigue-can-lead-to-poor-concentration-and-increase-the-risk-of-accidents-therefore-it-is-important-to-ensure-that-employees-have-enough-time-off-use-the-right-tools-using-the-right-tools-can-reduce-the-risk-of-injury-span {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+}
+.follow-operating-procedures-every-machine-or-equipment-has-its-operating-procedures-and-workers-must-operate-in-accordance-with-the-procedures-to-avoid-arbitrarily-changing-the-equipment-or-machine-settings-use-of-personal-protective-equipment-depending-on-the-nature-of-the-job-protective-equipment-such-as-helmets-safety-glasses-protective-clothing-protective-gloves-safety-shoes-etc-may-be-required-these-devices-protect-workers-from-injuries-caused-by-accidents-regular-training-conduct-regular-safety-training-to-ensure-that-all-employees-are-aware-of-the-latest-safety-regulations-and-operating-procedures-keep-the-work-area-tidy-cleaning-up-the-work-area-can-eliminate-many-potential-hazards-such-as-avoiding-slip-and-trip-accidents-regular-maintenance-inspections-equipment-and-machines-need-to-be-maintained-and-inspected-regularly-to-ensure-that-they-are-in-good-working-order-any-damaged-equipment-should-be-reported-and-repaired-immediately-avoid-fatigue-at-work-fatigue-can-lead-to-poor-concentration-and-increase-the-risk-of-accidents-therefore-it-is-important-to-ensure-that-employees-have-enough-time-off-use-the-right-tools-using-the-right-tools-can-reduce-the-risk-of-injury-span2 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+}
+.follow-operating-procedures-every-machine-or-equipment-has-its-operating-procedures-and-workers-must-operate-in-accordance-with-the-procedures-to-avoid-arbitrarily-changing-the-equipment-or-machine-settings-use-of-personal-protective-equipment-depending-on-the-nature-of-the-job-protective-equipment-such-as-helmets-safety-glasses-protective-clothing-protective-gloves-safety-shoes-etc-may-be-required-these-devices-protect-workers-from-injuries-caused-by-accidents-regular-training-conduct-regular-safety-training-to-ensure-that-all-employees-are-aware-of-the-latest-safety-regulations-and-operating-procedures-keep-the-work-area-tidy-cleaning-up-the-work-area-can-eliminate-many-potential-hazards-such-as-avoiding-slip-and-trip-accidents-regular-maintenance-inspections-equipment-and-machines-need-to-be-maintained-and-inspected-regularly-to-ensure-that-they-are-in-good-working-order-any-damaged-equipment-should-be-reported-and-repaired-immediately-avoid-fatigue-at-work-fatigue-can-lead-to-poor-concentration-and-increase-the-risk-of-accidents-therefore-it-is-important-to-ensure-that-employees-have-enough-time-off-use-the-right-tools-using-the-right-tools-can-reduce-the-risk-of-injury-span3 {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+}
+.follow-operating-procedures-every-machine-or-equipment-has-its-operating-procedures-and-workers-must-operate-in-accordance-with-the-procedures-to-avoid-arbitrarily-changing-the-equipment-or-machine-settings-use-of-personal-protective-equipment-depending-on-the-nature-of-the-job-protective-equipment-such-as-helmets-safety-glasses-protective-clothing-protective-gloves-safety-shoes-etc-may-be-required-these-devices-protect-workers-from-injuries-caused-by-accidents-regular-training-conduct-regular-safety-training-to-ensure-that-all-employees-are-aware-of-the-latest-safety-regulations-and-operating-procedures-keep-the-work-area-tidy-cleaning-up-the-work-area-can-eliminate-many-potential-hazards-such-as-avoiding-slip-and-trip-accidents-regular-maintenance-inspections-equipment-and-machines-need-to-be-maintained-and-inspected-regularly-to-ensure-that-they-are-in-good-working-order-any-damaged-equipment-should-be-reported-and-repaired-immediately-avoid-fatigue-at-work-fatigue-can-lead-to-poor-concentration-and-increase-the-risk-of-accidents-therefore-it-is-important-to-ensure-that-employees-have-enough-time-off-use-the-right-tools-using-the-right-tools-can-reduce-the-risk-of-injury-span4 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+}
+.follow-operating-procedures-every-machine-or-equipment-has-its-operating-procedures-and-workers-must-operate-in-accordance-with-the-procedures-to-avoid-arbitrarily-changing-the-equipment-or-machine-settings-use-of-personal-protective-equipment-depending-on-the-nature-of-the-job-protective-equipment-such-as-helmets-safety-glasses-protective-clothing-protective-gloves-safety-shoes-etc-may-be-required-these-devices-protect-workers-from-injuries-caused-by-accidents-regular-training-conduct-regular-safety-training-to-ensure-that-all-employees-are-aware-of-the-latest-safety-regulations-and-operating-procedures-keep-the-work-area-tidy-cleaning-up-the-work-area-can-eliminate-many-potential-hazards-such-as-avoiding-slip-and-trip-accidents-regular-maintenance-inspections-equipment-and-machines-need-to-be-maintained-and-inspected-regularly-to-ensure-that-they-are-in-good-working-order-any-damaged-equipment-should-be-reported-and-repaired-immediately-avoid-fatigue-at-work-fatigue-can-lead-to-poor-concentration-and-increase-the-risk-of-accidents-therefore-it-is-important-to-ensure-that-employees-have-enough-time-off-use-the-right-tools-using-the-right-tools-can-reduce-the-risk-of-injury-span5 {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+}
+.follow-operating-procedures-every-machine-or-equipment-has-its-operating-procedures-and-workers-must-operate-in-accordance-with-the-procedures-to-avoid-arbitrarily-changing-the-equipment-or-machine-settings-use-of-personal-protective-equipment-depending-on-the-nature-of-the-job-protective-equipment-such-as-helmets-safety-glasses-protective-clothing-protective-gloves-safety-shoes-etc-may-be-required-these-devices-protect-workers-from-injuries-caused-by-accidents-regular-training-conduct-regular-safety-training-to-ensure-that-all-employees-are-aware-of-the-latest-safety-regulations-and-operating-procedures-keep-the-work-area-tidy-cleaning-up-the-work-area-can-eliminate-many-potential-hazards-such-as-avoiding-slip-and-trip-accidents-regular-maintenance-inspections-equipment-and-machines-need-to-be-maintained-and-inspected-regularly-to-ensure-that-they-are-in-good-working-order-any-damaged-equipment-should-be-reported-and-repaired-immediately-avoid-fatigue-at-work-fatigue-can-lead-to-poor-concentration-and-increase-the-risk-of-accidents-therefore-it-is-important-to-ensure-that-employees-have-enough-time-off-use-the-right-tools-using-the-right-tools-can-reduce-the-risk-of-injury-span6 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+}
+.follow-operating-procedures-every-machine-or-equipment-has-its-operating-procedures-and-workers-must-operate-in-accordance-with-the-procedures-to-avoid-arbitrarily-changing-the-equipment-or-machine-settings-use-of-personal-protective-equipment-depending-on-the-nature-of-the-job-protective-equipment-such-as-helmets-safety-glasses-protective-clothing-protective-gloves-safety-shoes-etc-may-be-required-these-devices-protect-workers-from-injuries-caused-by-accidents-regular-training-conduct-regular-safety-training-to-ensure-that-all-employees-are-aware-of-the-latest-safety-regulations-and-operating-procedures-keep-the-work-area-tidy-cleaning-up-the-work-area-can-eliminate-many-potential-hazards-such-as-avoiding-slip-and-trip-accidents-regular-maintenance-inspections-equipment-and-machines-need-to-be-maintained-and-inspected-regularly-to-ensure-that-they-are-in-good-working-order-any-damaged-equipment-should-be-reported-and-repaired-immediately-avoid-fatigue-at-work-fatigue-can-lead-to-poor-concentration-and-increase-the-risk-of-accidents-therefore-it-is-important-to-ensure-that-employees-have-enough-time-off-use-the-right-tools-using-the-right-tools-can-reduce-the-risk-of-injury-span7 {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+}
+.follow-operating-procedures-every-machine-or-equipment-has-its-operating-procedures-and-workers-must-operate-in-accordance-with-the-procedures-to-avoid-arbitrarily-changing-the-equipment-or-machine-settings-use-of-personal-protective-equipment-depending-on-the-nature-of-the-job-protective-equipment-such-as-helmets-safety-glasses-protective-clothing-protective-gloves-safety-shoes-etc-may-be-required-these-devices-protect-workers-from-injuries-caused-by-accidents-regular-training-conduct-regular-safety-training-to-ensure-that-all-employees-are-aware-of-the-latest-safety-regulations-and-operating-procedures-keep-the-work-area-tidy-cleaning-up-the-work-area-can-eliminate-many-potential-hazards-such-as-avoiding-slip-and-trip-accidents-regular-maintenance-inspections-equipment-and-machines-need-to-be-maintained-and-inspected-regularly-to-ensure-that-they-are-in-good-working-order-any-damaged-equipment-should-be-reported-and-repaired-immediately-avoid-fatigue-at-work-fatigue-can-lead-to-poor-concentration-and-increase-the-risk-of-accidents-therefore-it-is-important-to-ensure-that-employees-have-enough-time-off-use-the-right-tools-using-the-right-tools-can-reduce-the-risk-of-injury-span8 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+}
+.follow-operating-procedures-every-machine-or-equipment-has-its-operating-procedures-and-workers-must-operate-in-accordance-with-the-procedures-to-avoid-arbitrarily-changing-the-equipment-or-machine-settings-use-of-personal-protective-equipment-depending-on-the-nature-of-the-job-protective-equipment-such-as-helmets-safety-glasses-protective-clothing-protective-gloves-safety-shoes-etc-may-be-required-these-devices-protect-workers-from-injuries-caused-by-accidents-regular-training-conduct-regular-safety-training-to-ensure-that-all-employees-are-aware-of-the-latest-safety-regulations-and-operating-procedures-keep-the-work-area-tidy-cleaning-up-the-work-area-can-eliminate-many-potential-hazards-such-as-avoiding-slip-and-trip-accidents-regular-maintenance-inspections-equipment-and-machines-need-to-be-maintained-and-inspected-regularly-to-ensure-that-they-are-in-good-working-order-any-damaged-equipment-should-be-reported-and-repaired-immediately-avoid-fatigue-at-work-fatigue-can-lead-to-poor-concentration-and-increase-the-risk-of-accidents-therefore-it-is-important-to-ensure-that-employees-have-enough-time-off-use-the-right-tools-using-the-right-tools-can-reduce-the-risk-of-injury-span9 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+}
+.follow-operating-procedures-every-machine-or-equipment-has-its-operating-procedures-and-workers-must-operate-in-accordance-with-the-procedures-to-avoid-arbitrarily-changing-the-equipment-or-machine-settings-use-of-personal-protective-equipment-depending-on-the-nature-of-the-job-protective-equipment-such-as-helmets-safety-glasses-protective-clothing-protective-gloves-safety-shoes-etc-may-be-required-these-devices-protect-workers-from-injuries-caused-by-accidents-regular-training-conduct-regular-safety-training-to-ensure-that-all-employees-are-aware-of-the-latest-safety-regulations-and-operating-procedures-keep-the-work-area-tidy-cleaning-up-the-work-area-can-eliminate-many-potential-hazards-such-as-avoiding-slip-and-trip-accidents-regular-maintenance-inspections-equipment-and-machines-need-to-be-maintained-and-inspected-regularly-to-ensure-that-they-are-in-good-working-order-any-damaged-equipment-should-be-reported-and-repaired-immediately-avoid-fatigue-at-work-fatigue-can-lead-to-poor-concentration-and-increase-the-risk-of-accidents-therefore-it-is-important-to-ensure-that-employees-have-enough-time-off-use-the-right-tools-using-the-right-tools-can-reduce-the-risk-of-injury-span10 {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+}
+.follow-operating-procedures-every-machine-or-equipment-has-its-operating-procedures-and-workers-must-operate-in-accordance-with-the-procedures-to-avoid-arbitrarily-changing-the-equipment-or-machine-settings-use-of-personal-protective-equipment-depending-on-the-nature-of-the-job-protective-equipment-such-as-helmets-safety-glasses-protective-clothing-protective-gloves-safety-shoes-etc-may-be-required-these-devices-protect-workers-from-injuries-caused-by-accidents-regular-training-conduct-regular-safety-training-to-ensure-that-all-employees-are-aware-of-the-latest-safety-regulations-and-operating-procedures-keep-the-work-area-tidy-cleaning-up-the-work-area-can-eliminate-many-potential-hazards-such-as-avoiding-slip-and-trip-accidents-regular-maintenance-inspections-equipment-and-machines-need-to-be-maintained-and-inspected-regularly-to-ensure-that-they-are-in-good-working-order-any-damaged-equipment-should-be-reported-and-repaired-immediately-avoid-fatigue-at-work-fatigue-can-lead-to-poor-concentration-and-increase-the-risk-of-accidents-therefore-it-is-important-to-ensure-that-employees-have-enough-time-off-use-the-right-tools-using-the-right-tools-can-reduce-the-risk-of-injury-span11 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+}
+.follow-operating-procedures-every-machine-or-equipment-has-its-operating-procedures-and-workers-must-operate-in-accordance-with-the-procedures-to-avoid-arbitrarily-changing-the-equipment-or-machine-settings-use-of-personal-protective-equipment-depending-on-the-nature-of-the-job-protective-equipment-such-as-helmets-safety-glasses-protective-clothing-protective-gloves-safety-shoes-etc-may-be-required-these-devices-protect-workers-from-injuries-caused-by-accidents-regular-training-conduct-regular-safety-training-to-ensure-that-all-employees-are-aware-of-the-latest-safety-regulations-and-operating-procedures-keep-the-work-area-tidy-cleaning-up-the-work-area-can-eliminate-many-potential-hazards-such-as-avoiding-slip-and-trip-accidents-regular-maintenance-inspections-equipment-and-machines-need-to-be-maintained-and-inspected-regularly-to-ensure-that-they-are-in-good-working-order-any-damaged-equipment-should-be-reported-and-repaired-immediately-avoid-fatigue-at-work-fatigue-can-lead-to-poor-concentration-and-increase-the-risk-of-accidents-therefore-it-is-important-to-ensure-that-employees-have-enough-time-off-use-the-right-tools-using-the-right-tools-can-reduce-the-risk-of-injury-span12 {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+}
+.follow-operating-procedures-every-machine-or-equipment-has-its-operating-procedures-and-workers-must-operate-in-accordance-with-the-procedures-to-avoid-arbitrarily-changing-the-equipment-or-machine-settings-use-of-personal-protective-equipment-depending-on-the-nature-of-the-job-protective-equipment-such-as-helmets-safety-glasses-protective-clothing-protective-gloves-safety-shoes-etc-may-be-required-these-devices-protect-workers-from-injuries-caused-by-accidents-regular-training-conduct-regular-safety-training-to-ensure-that-all-employees-are-aware-of-the-latest-safety-regulations-and-operating-procedures-keep-the-work-area-tidy-cleaning-up-the-work-area-can-eliminate-many-potential-hazards-such-as-avoiding-slip-and-trip-accidents-regular-maintenance-inspections-equipment-and-machines-need-to-be-maintained-and-inspected-regularly-to-ensure-that-they-are-in-good-working-order-any-damaged-equipment-should-be-reported-and-repaired-immediately-avoid-fatigue-at-work-fatigue-can-lead-to-poor-concentration-and-increase-the-risk-of-accidents-therefore-it-is-important-to-ensure-that-employees-have-enough-time-off-use-the-right-tools-using-the-right-tools-can-reduce-the-risk-of-injury-span13 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+}
+.follow-operating-procedures-every-machine-or-equipment-has-its-operating-procedures-and-workers-must-operate-in-accordance-with-the-procedures-to-avoid-arbitrarily-changing-the-equipment-or-machine-settings-use-of-personal-protective-equipment-depending-on-the-nature-of-the-job-protective-equipment-such-as-helmets-safety-glasses-protective-clothing-protective-gloves-safety-shoes-etc-may-be-required-these-devices-protect-workers-from-injuries-caused-by-accidents-regular-training-conduct-regular-safety-training-to-ensure-that-all-employees-are-aware-of-the-latest-safety-regulations-and-operating-procedures-keep-the-work-area-tidy-cleaning-up-the-work-area-can-eliminate-many-potential-hazards-such-as-avoiding-slip-and-trip-accidents-regular-maintenance-inspections-equipment-and-machines-need-to-be-maintained-and-inspected-regularly-to-ensure-that-they-are-in-good-working-order-any-damaged-equipment-should-be-reported-and-repaired-immediately-avoid-fatigue-at-work-fatigue-can-lead-to-poor-concentration-and-increase-the-risk-of-accidents-therefore-it-is-important-to-ensure-that-employees-have-enough-time-off-use-the-right-tools-using-the-right-tools-can-reduce-the-risk-of-injury-span14 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+}
+._1-learn-how-to-keep-safety {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 597px);
+  top: calc(50% - 2488px);
+  width: 718.76px;
+  height: 28.38px;
+}
+.cnc-lathe-this-type-of-machine-tool-is-mainly-used-to-process-parts-with-various-shafts-discs-sleeves-and-various-curved-surfaces-they-can-perform-a-variety-of-operations-such-as-cutting-boring-tapping-chamfering-etc-cnc-milling-machine-cnc-milling-machine-is-mainly-used-to-process-various-plates-sheets-shells-molds-and-other-complex-parts-such-as-some-complex-curves-and-surfaces-cnc-grinding-machine-cnc-grinding-machine-is-mainly-used-for-high-precision-and-high-finish-processing-such-as-mold-manufacturing-cnc-edm-machine-this-machine-tool-uses-electrical-spark-for-machining-mainly-for-mold-making-and-cemented-carbide-machining-cnc-cutting-machine-this-machine-tool-is-mainly-used-for-cutting-sheet-metal-such-as-steel-aluminum-copper-etc-each-cnc-machine-tool-has-its-own-characteristics-and-application-fields-to-choose-the-right-machine-tool-first-of-all-to-clarify-the-type-material-and-accuracy-requirements-of-the-processed-parts {
+  text-align: justified;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 554px);
+  top: calc(50% - 1897px);
+  width: 1136px;
+  height: 353px;
+}
+.cnc-lathe-this-type-of-machine-tool-is-mainly-used-to-process-parts-with-various-shafts-discs-sleeves-and-various-curved-surfaces-they-can-perform-a-variety-of-operations-such-as-cutting-boring-tapping-chamfering-etc-cnc-milling-machine-cnc-milling-machine-is-mainly-used-to-process-various-plates-sheets-shells-molds-and-other-complex-parts-such-as-some-complex-curves-and-surfaces-cnc-grinding-machine-cnc-grinding-machine-is-mainly-used-for-high-precision-and-high-finish-processing-such-as-mold-manufacturing-cnc-edm-machine-this-machine-tool-uses-electrical-spark-for-machining-mainly-for-mold-making-and-cemented-carbide-machining-cnc-cutting-machine-this-machine-tool-is-mainly-used-for-cutting-sheet-metal-such-as-steel-aluminum-copper-etc-each-cnc-machine-tool-has-its-own-characteristics-and-application-fields-to-choose-the-right-machine-tool-first-of-all-to-clarify-the-type-material-and-accuracy-requirements-of-the-processed-parts-span {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+}
+.cnc-lathe-this-type-of-machine-tool-is-mainly-used-to-process-parts-with-various-shafts-discs-sleeves-and-various-curved-surfaces-they-can-perform-a-variety-of-operations-such-as-cutting-boring-tapping-chamfering-etc-cnc-milling-machine-cnc-milling-machine-is-mainly-used-to-process-various-plates-sheets-shells-molds-and-other-complex-parts-such-as-some-complex-curves-and-surfaces-cnc-grinding-machine-cnc-grinding-machine-is-mainly-used-for-high-precision-and-high-finish-processing-such-as-mold-manufacturing-cnc-edm-machine-this-machine-tool-uses-electrical-spark-for-machining-mainly-for-mold-making-and-cemented-carbide-machining-cnc-cutting-machine-this-machine-tool-is-mainly-used-for-cutting-sheet-metal-such-as-steel-aluminum-copper-etc-each-cnc-machine-tool-has-its-own-characteristics-and-application-fields-to-choose-the-right-machine-tool-first-of-all-to-clarify-the-type-material-and-accuracy-requirements-of-the-processed-parts-span2 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+}
+.cnc-lathe-this-type-of-machine-tool-is-mainly-used-to-process-parts-with-various-shafts-discs-sleeves-and-various-curved-surfaces-they-can-perform-a-variety-of-operations-such-as-cutting-boring-tapping-chamfering-etc-cnc-milling-machine-cnc-milling-machine-is-mainly-used-to-process-various-plates-sheets-shells-molds-and-other-complex-parts-such-as-some-complex-curves-and-surfaces-cnc-grinding-machine-cnc-grinding-machine-is-mainly-used-for-high-precision-and-high-finish-processing-such-as-mold-manufacturing-cnc-edm-machine-this-machine-tool-uses-electrical-spark-for-machining-mainly-for-mold-making-and-cemented-carbide-machining-cnc-cutting-machine-this-machine-tool-is-mainly-used-for-cutting-sheet-metal-such-as-steel-aluminum-copper-etc-each-cnc-machine-tool-has-its-own-characteristics-and-application-fields-to-choose-the-right-machine-tool-first-of-all-to-clarify-the-type-material-and-accuracy-requirements-of-the-processed-parts-span3 {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+}
+.cnc-lathe-this-type-of-machine-tool-is-mainly-used-to-process-parts-with-various-shafts-discs-sleeves-and-various-curved-surfaces-they-can-perform-a-variety-of-operations-such-as-cutting-boring-tapping-chamfering-etc-cnc-milling-machine-cnc-milling-machine-is-mainly-used-to-process-various-plates-sheets-shells-molds-and-other-complex-parts-such-as-some-complex-curves-and-surfaces-cnc-grinding-machine-cnc-grinding-machine-is-mainly-used-for-high-precision-and-high-finish-processing-such-as-mold-manufacturing-cnc-edm-machine-this-machine-tool-uses-electrical-spark-for-machining-mainly-for-mold-making-and-cemented-carbide-machining-cnc-cutting-machine-this-machine-tool-is-mainly-used-for-cutting-sheet-metal-such-as-steel-aluminum-copper-etc-each-cnc-machine-tool-has-its-own-characteristics-and-application-fields-to-choose-the-right-machine-tool-first-of-all-to-clarify-the-type-material-and-accuracy-requirements-of-the-processed-parts-span4 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+}
+.cnc-lathe-this-type-of-machine-tool-is-mainly-used-to-process-parts-with-various-shafts-discs-sleeves-and-various-curved-surfaces-they-can-perform-a-variety-of-operations-such-as-cutting-boring-tapping-chamfering-etc-cnc-milling-machine-cnc-milling-machine-is-mainly-used-to-process-various-plates-sheets-shells-molds-and-other-complex-parts-such-as-some-complex-curves-and-surfaces-cnc-grinding-machine-cnc-grinding-machine-is-mainly-used-for-high-precision-and-high-finish-processing-such-as-mold-manufacturing-cnc-edm-machine-this-machine-tool-uses-electrical-spark-for-machining-mainly-for-mold-making-and-cemented-carbide-machining-cnc-cutting-machine-this-machine-tool-is-mainly-used-for-cutting-sheet-metal-such-as-steel-aluminum-copper-etc-each-cnc-machine-tool-has-its-own-characteristics-and-application-fields-to-choose-the-right-machine-tool-first-of-all-to-clarify-the-type-material-and-accuracy-requirements-of-the-processed-parts-span5 {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+}
+.cnc-lathe-this-type-of-machine-tool-is-mainly-used-to-process-parts-with-various-shafts-discs-sleeves-and-various-curved-surfaces-they-can-perform-a-variety-of-operations-such-as-cutting-boring-tapping-chamfering-etc-cnc-milling-machine-cnc-milling-machine-is-mainly-used-to-process-various-plates-sheets-shells-molds-and-other-complex-parts-such-as-some-complex-curves-and-surfaces-cnc-grinding-machine-cnc-grinding-machine-is-mainly-used-for-high-precision-and-high-finish-processing-such-as-mold-manufacturing-cnc-edm-machine-this-machine-tool-uses-electrical-spark-for-machining-mainly-for-mold-making-and-cemented-carbide-machining-cnc-cutting-machine-this-machine-tool-is-mainly-used-for-cutting-sheet-metal-such-as-steel-aluminum-copper-etc-each-cnc-machine-tool-has-its-own-characteristics-and-application-fields-to-choose-the-right-machine-tool-first-of-all-to-clarify-the-type-material-and-accuracy-requirements-of-the-processed-parts-span6 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+}
+.cnc-lathe-this-type-of-machine-tool-is-mainly-used-to-process-parts-with-various-shafts-discs-sleeves-and-various-curved-surfaces-they-can-perform-a-variety-of-operations-such-as-cutting-boring-tapping-chamfering-etc-cnc-milling-machine-cnc-milling-machine-is-mainly-used-to-process-various-plates-sheets-shells-molds-and-other-complex-parts-such-as-some-complex-curves-and-surfaces-cnc-grinding-machine-cnc-grinding-machine-is-mainly-used-for-high-precision-and-high-finish-processing-such-as-mold-manufacturing-cnc-edm-machine-this-machine-tool-uses-electrical-spark-for-machining-mainly-for-mold-making-and-cemented-carbide-machining-cnc-cutting-machine-this-machine-tool-is-mainly-used-for-cutting-sheet-metal-such-as-steel-aluminum-copper-etc-each-cnc-machine-tool-has-its-own-characteristics-and-application-fields-to-choose-the-right-machine-tool-first-of-all-to-clarify-the-type-material-and-accuracy-requirements-of-the-processed-parts-span7 {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+}
+.cnc-lathe-this-type-of-machine-tool-is-mainly-used-to-process-parts-with-various-shafts-discs-sleeves-and-various-curved-surfaces-they-can-perform-a-variety-of-operations-such-as-cutting-boring-tapping-chamfering-etc-cnc-milling-machine-cnc-milling-machine-is-mainly-used-to-process-various-plates-sheets-shells-molds-and-other-complex-parts-such-as-some-complex-curves-and-surfaces-cnc-grinding-machine-cnc-grinding-machine-is-mainly-used-for-high-precision-and-high-finish-processing-such-as-mold-manufacturing-cnc-edm-machine-this-machine-tool-uses-electrical-spark-for-machining-mainly-for-mold-making-and-cemented-carbide-machining-cnc-cutting-machine-this-machine-tool-is-mainly-used-for-cutting-sheet-metal-such-as-steel-aluminum-copper-etc-each-cnc-machine-tool-has-its-own-characteristics-and-application-fields-to-choose-the-right-machine-tool-first-of-all-to-clarify-the-type-material-and-accuracy-requirements-of-the-processed-parts-span8 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+}
+.cnc-lathe-this-type-of-machine-tool-is-mainly-used-to-process-parts-with-various-shafts-discs-sleeves-and-various-curved-surfaces-they-can-perform-a-variety-of-operations-such-as-cutting-boring-tapping-chamfering-etc-cnc-milling-machine-cnc-milling-machine-is-mainly-used-to-process-various-plates-sheets-shells-molds-and-other-complex-parts-such-as-some-complex-curves-and-surfaces-cnc-grinding-machine-cnc-grinding-machine-is-mainly-used-for-high-precision-and-high-finish-processing-such-as-mold-manufacturing-cnc-edm-machine-this-machine-tool-uses-electrical-spark-for-machining-mainly-for-mold-making-and-cemented-carbide-machining-cnc-cutting-machine-this-machine-tool-is-mainly-used-for-cutting-sheet-metal-such-as-steel-aluminum-copper-etc-each-cnc-machine-tool-has-its-own-characteristics-and-application-fields-to-choose-the-right-machine-tool-first-of-all-to-clarify-the-type-material-and-accuracy-requirements-of-the-processed-parts-span9 {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+}
+.cnc-lathe-this-type-of-machine-tool-is-mainly-used-to-process-parts-with-various-shafts-discs-sleeves-and-various-curved-surfaces-they-can-perform-a-variety-of-operations-such-as-cutting-boring-tapping-chamfering-etc-cnc-milling-machine-cnc-milling-machine-is-mainly-used-to-process-various-plates-sheets-shells-molds-and-other-complex-parts-such-as-some-complex-curves-and-surfaces-cnc-grinding-machine-cnc-grinding-machine-is-mainly-used-for-high-precision-and-high-finish-processing-such-as-mold-manufacturing-cnc-edm-machine-this-machine-tool-uses-electrical-spark-for-machining-mainly-for-mold-making-and-cemented-carbide-machining-cnc-cutting-machine-this-machine-tool-is-mainly-used-for-cutting-sheet-metal-such-as-steel-aluminum-copper-etc-each-cnc-machine-tool-has-its-own-characteristics-and-application-fields-to-choose-the-right-machine-tool-first-of-all-to-clarify-the-type-material-and-accuracy-requirements-of-the-processed-parts-span10 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+}
+._2-learn-cnc-in-indusrty-machine-type-application {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 597px);
+  top: calc(50% - 1925px);
+  width: 755.56px;
+  height: 28.38px;
+}
+._3-make-sure-the-machine-material {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 597px);
+  top: calc(50% - 758px);
+  width: 755.56px;
+  height: 28.38px;
+}
+.each-cnc-machine-tool-has-its-own-characteristics-and-application-fields-to-choose-the-right-machine-tool-first-of-all-to-clarify-the-type-material-and-accuracy-requirements-of-the-processed-parts {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 554px);
+  top: calc(50% - 911px);
+  width: 1136px;
+  height: 77px;
+}
+.b-5-b-2-ea-3068-f-35-a-28-bce-7-f-4-c-437-b-0-ab-3-2 {
+  border-radius: 33px;
+  width: 398px;
+  height: 259px;
+  position: absolute;
+  left: calc(50% - 451px);
+  top: calc(50% - 1505px);
+  object-fit: cover;
+}
+._939901-c-94-e-008-c-0024-db-3-b-07535-a-189-2 {
+  border-radius: 38px;
+  width: 423px;
+  height: 259px;
+  position: absolute;
+  left: calc(50% - -14px);
+  top: calc(50% - 1518px);
+  object-fit: cover;
+}
+._71-af-2-bacb-5-d-8-f-0-f-7-e-617-a-29-c-73-fe-493-3 {
+  border-radius: 55px;
+  width: 420px;
+  height: 267px;
+  position: absolute;
+  left: calc(50% - 473px);
+  top: calc(50% - 706px);
+  object-fit: cover;
+}
+._71-af-2-bacb-5-d-8-f-0-f-7-e-617-a-29-c-73-fe-493-4 {
+  border-radius: 55px;
+  width: 420px;
+  height: 267px;
+  position: absolute;
+  left: calc(50% - 473px);
+  top: calc(50% - 706px);
+  object-fit: cover;
+}
+._71-af-2-bacb-5-d-8-f-0-f-7-e-617-a-29-c-73-fe-493-5 {
+  border-radius: 55px;
+  width: 420px;
+  height: 267px;
+  position: absolute;
+  left: calc(50% - 0px);
+  top: calc(50% - 706px);
+  object-fit: cover;
+}
+.determine-the-machine-you-need-to-choose-the-right-cnc-machine-according-to-your-machining-needs-for-example-if-you-need-to-machine-complex-surfaces-or-curves-you-may-want-to-choose-a-cnc-milling-machine-if-you-need-to-do-a-lot-of-shaft-parts-machining-you-may-need-to-choose-a-cnc-lathe-at-the-same-time-you-also-need-to-consider-the-precision-speed-and-reliability-of-the-machine-determine-the-material-the-choice-of-material-depends-mainly-on-your-product-needs-for-example-if-your-product-requires-high-strength-and-wear-resistance-you-may-want-to-choose-steel-or-cemented-carbide-if-your-product-needs-to-be-lightweight-and-corrosion-resistant-you-may-want-to-opt-for-aluminum-or-plastic-you-also-need-to-consider-the-processability-of-the-material-such-as-machinability-heat-treatment-properties-etc-depending-on-your-needs-and-budget-you-may-need-to-consult-with-a-professional-or-machine-supplier-to-determine-the-best-machine-and-materials-for-you {
+  text-align: justified;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 550px);
+  top: calc(50% - 364px);
+  width: 1136px;
+  height: 458px;
+}
+.determine-the-machine-you-need-to-choose-the-right-cnc-machine-according-to-your-machining-needs-for-example-if-you-need-to-machine-complex-surfaces-or-curves-you-may-want-to-choose-a-cnc-milling-machine-if-you-need-to-do-a-lot-of-shaft-parts-machining-you-may-need-to-choose-a-cnc-lathe-at-the-same-time-you-also-need-to-consider-the-precision-speed-and-reliability-of-the-machine-determine-the-material-the-choice-of-material-depends-mainly-on-your-product-needs-for-example-if-your-product-requires-high-strength-and-wear-resistance-you-may-want-to-choose-steel-or-cemented-carbide-if-your-product-needs-to-be-lightweight-and-corrosion-resistant-you-may-want-to-opt-for-aluminum-or-plastic-you-also-need-to-consider-the-processability-of-the-material-such-as-machinability-heat-treatment-properties-etc-depending-on-your-needs-and-budget-you-may-need-to-consult-with-a-professional-or-machine-supplier-to-determine-the-best-machine-and-materials-for-you-span {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+}
+.determine-the-machine-you-need-to-choose-the-right-cnc-machine-according-to-your-machining-needs-for-example-if-you-need-to-machine-complex-surfaces-or-curves-you-may-want-to-choose-a-cnc-milling-machine-if-you-need-to-do-a-lot-of-shaft-parts-machining-you-may-need-to-choose-a-cnc-lathe-at-the-same-time-you-also-need-to-consider-the-precision-speed-and-reliability-of-the-machine-determine-the-material-the-choice-of-material-depends-mainly-on-your-product-needs-for-example-if-your-product-requires-high-strength-and-wear-resistance-you-may-want-to-choose-steel-or-cemented-carbide-if-your-product-needs-to-be-lightweight-and-corrosion-resistant-you-may-want-to-opt-for-aluminum-or-plastic-you-also-need-to-consider-the-processability-of-the-material-such-as-machinability-heat-treatment-properties-etc-depending-on-your-needs-and-budget-you-may-need-to-consult-with-a-professional-or-machine-supplier-to-determine-the-best-machine-and-materials-for-you-span2 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+}
+.determine-the-machine-you-need-to-choose-the-right-cnc-machine-according-to-your-machining-needs-for-example-if-you-need-to-machine-complex-surfaces-or-curves-you-may-want-to-choose-a-cnc-milling-machine-if-you-need-to-do-a-lot-of-shaft-parts-machining-you-may-need-to-choose-a-cnc-lathe-at-the-same-time-you-also-need-to-consider-the-precision-speed-and-reliability-of-the-machine-determine-the-material-the-choice-of-material-depends-mainly-on-your-product-needs-for-example-if-your-product-requires-high-strength-and-wear-resistance-you-may-want-to-choose-steel-or-cemented-carbide-if-your-product-needs-to-be-lightweight-and-corrosion-resistant-you-may-want-to-opt-for-aluminum-or-plastic-you-also-need-to-consider-the-processability-of-the-material-such-as-machinability-heat-treatment-properties-etc-depending-on-your-needs-and-budget-you-may-need-to-consult-with-a-professional-or-machine-supplier-to-determine-the-best-machine-and-materials-for-you-span3 {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+}
+.determine-the-machine-you-need-to-choose-the-right-cnc-machine-according-to-your-machining-needs-for-example-if-you-need-to-machine-complex-surfaces-or-curves-you-may-want-to-choose-a-cnc-milling-machine-if-you-need-to-do-a-lot-of-shaft-parts-machining-you-may-need-to-choose-a-cnc-lathe-at-the-same-time-you-also-need-to-consider-the-precision-speed-and-reliability-of-the-machine-determine-the-material-the-choice-of-material-depends-mainly-on-your-product-needs-for-example-if-your-product-requires-high-strength-and-wear-resistance-you-may-want-to-choose-steel-or-cemented-carbide-if-your-product-needs-to-be-lightweight-and-corrosion-resistant-you-may-want-to-opt-for-aluminum-or-plastic-you-also-need-to-consider-the-processability-of-the-material-such-as-machinability-heat-treatment-properties-etc-depending-on-your-needs-and-budget-you-may-need-to-consult-with-a-professional-or-machine-supplier-to-determine-the-best-machine-and-materials-for-you-span4 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+}
+.determine-the-machine-you-need-to-choose-the-right-cnc-machine-according-to-your-machining-needs-for-example-if-you-need-to-machine-complex-surfaces-or-curves-you-may-want-to-choose-a-cnc-milling-machine-if-you-need-to-do-a-lot-of-shaft-parts-machining-you-may-need-to-choose-a-cnc-lathe-at-the-same-time-you-also-need-to-consider-the-precision-speed-and-reliability-of-the-machine-determine-the-material-the-choice-of-material-depends-mainly-on-your-product-needs-for-example-if-your-product-requires-high-strength-and-wear-resistance-you-may-want-to-choose-steel-or-cemented-carbide-if-your-product-needs-to-be-lightweight-and-corrosion-resistant-you-may-want-to-opt-for-aluminum-or-plastic-you-also-need-to-consider-the-processability-of-the-material-such-as-machinability-heat-treatment-properties-etc-depending-on-your-needs-and-budget-you-may-need-to-consult-with-a-professional-or-machine-supplier-to-determine-the-best-machine-and-materials-for-you-span5 {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+}
+.programming-of-the-program-first-of-all-you-need-to-determine-the-machining-process-and-tool-route-according-to-the-drawings-or-models-then-you-can-use-dedicated-cam-computer-aided-manufacturing-software-to-write-cnc-programs-this-program-usually-includes-information-such-as-tool-selection-cutting-parameter-setting-tool-path-planning-etc-check-the-program-after-the-program-is-written-you-need-to-check-the-program-to-make-sure-that-there-are-no-errors-or-omissions-some-cam-software-provides-a-program-check-that-can-automatically-detect-and-prompt-possible-errors-simulation-of-the-program-before-the-program-is-uploaded-to-the-machine-you-can-use-the-simulation-function-to-preview-the-machining-process-this-will-help-you-identify-possible-collisions-or-cutting-problems-that-can-cause-damage-or-waste-in-the-actual-machining-upload-of-the-program-after-the-program-is-written-and-checked-you-need-to-upload-the-program-to-the-cnc-machine-this-is-usually-done-through-a-network-connection-or-a-usb-device-execution-of-the-program-on-the-machine-you-need-to-follow-the-program-instructions-to-assemble-the-tool-and-position-the-parts-you-can-then-start-the-machine-and-start-the-automatic-machining-these-are-just-some-of-the-basic-steps-and-the-actual-program-setup-and-simulation-may-vary-depending-on-the-machine-and-software-if-you-are-a-beginner-it-is-recommended-that-you-learn-and-operate-under-the-guidance-of-a-professional {
+  text-align: justified;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 556px);
+  top: calc(50% - -203px);
+  width: 1132px;
+  height: 734px;
+}
+.programming-of-the-program-first-of-all-you-need-to-determine-the-machining-process-and-tool-route-according-to-the-drawings-or-models-then-you-can-use-dedicated-cam-computer-aided-manufacturing-software-to-write-cnc-programs-this-program-usually-includes-information-such-as-tool-selection-cutting-parameter-setting-tool-path-planning-etc-check-the-program-after-the-program-is-written-you-need-to-check-the-program-to-make-sure-that-there-are-no-errors-or-omissions-some-cam-software-provides-a-program-check-that-can-automatically-detect-and-prompt-possible-errors-simulation-of-the-program-before-the-program-is-uploaded-to-the-machine-you-can-use-the-simulation-function-to-preview-the-machining-process-this-will-help-you-identify-possible-collisions-or-cutting-problems-that-can-cause-damage-or-waste-in-the-actual-machining-upload-of-the-program-after-the-program-is-written-and-checked-you-need-to-upload-the-program-to-the-cnc-machine-this-is-usually-done-through-a-network-connection-or-a-usb-device-execution-of-the-program-on-the-machine-you-need-to-follow-the-program-instructions-to-assemble-the-tool-and-position-the-parts-you-can-then-start-the-machine-and-start-the-automatic-machining-these-are-just-some-of-the-basic-steps-and-the-actual-program-setup-and-simulation-may-vary-depending-on-the-machine-and-software-if-you-are-a-beginner-it-is-recommended-that-you-learn-and-operate-under-the-guidance-of-a-professional-span {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+}
+.programming-of-the-program-first-of-all-you-need-to-determine-the-machining-process-and-tool-route-according-to-the-drawings-or-models-then-you-can-use-dedicated-cam-computer-aided-manufacturing-software-to-write-cnc-programs-this-program-usually-includes-information-such-as-tool-selection-cutting-parameter-setting-tool-path-planning-etc-check-the-program-after-the-program-is-written-you-need-to-check-the-program-to-make-sure-that-there-are-no-errors-or-omissions-some-cam-software-provides-a-program-check-that-can-automatically-detect-and-prompt-possible-errors-simulation-of-the-program-before-the-program-is-uploaded-to-the-machine-you-can-use-the-simulation-function-to-preview-the-machining-process-this-will-help-you-identify-possible-collisions-or-cutting-problems-that-can-cause-damage-or-waste-in-the-actual-machining-upload-of-the-program-after-the-program-is-written-and-checked-you-need-to-upload-the-program-to-the-cnc-machine-this-is-usually-done-through-a-network-connection-or-a-usb-device-execution-of-the-program-on-the-machine-you-need-to-follow-the-program-instructions-to-assemble-the-tool-and-position-the-parts-you-can-then-start-the-machine-and-start-the-automatic-machining-these-are-just-some-of-the-basic-steps-and-the-actual-program-setup-and-simulation-may-vary-depending-on-the-machine-and-software-if-you-are-a-beginner-it-is-recommended-that-you-learn-and-operate-under-the-guidance-of-a-professional-span2 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+}
+.programming-of-the-program-first-of-all-you-need-to-determine-the-machining-process-and-tool-route-according-to-the-drawings-or-models-then-you-can-use-dedicated-cam-computer-aided-manufacturing-software-to-write-cnc-programs-this-program-usually-includes-information-such-as-tool-selection-cutting-parameter-setting-tool-path-planning-etc-check-the-program-after-the-program-is-written-you-need-to-check-the-program-to-make-sure-that-there-are-no-errors-or-omissions-some-cam-software-provides-a-program-check-that-can-automatically-detect-and-prompt-possible-errors-simulation-of-the-program-before-the-program-is-uploaded-to-the-machine-you-can-use-the-simulation-function-to-preview-the-machining-process-this-will-help-you-identify-possible-collisions-or-cutting-problems-that-can-cause-damage-or-waste-in-the-actual-machining-upload-of-the-program-after-the-program-is-written-and-checked-you-need-to-upload-the-program-to-the-cnc-machine-this-is-usually-done-through-a-network-connection-or-a-usb-device-execution-of-the-program-on-the-machine-you-need-to-follow-the-program-instructions-to-assemble-the-tool-and-position-the-parts-you-can-then-start-the-machine-and-start-the-automatic-machining-these-are-just-some-of-the-basic-steps-and-the-actual-program-setup-and-simulation-may-vary-depending-on-the-machine-and-software-if-you-are-a-beginner-it-is-recommended-that-you-learn-and-operate-under-the-guidance-of-a-professional-span3 {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+}
+.programming-of-the-program-first-of-all-you-need-to-determine-the-machining-process-and-tool-route-according-to-the-drawings-or-models-then-you-can-use-dedicated-cam-computer-aided-manufacturing-software-to-write-cnc-programs-this-program-usually-includes-information-such-as-tool-selection-cutting-parameter-setting-tool-path-planning-etc-check-the-program-after-the-program-is-written-you-need-to-check-the-program-to-make-sure-that-there-are-no-errors-or-omissions-some-cam-software-provides-a-program-check-that-can-automatically-detect-and-prompt-possible-errors-simulation-of-the-program-before-the-program-is-uploaded-to-the-machine-you-can-use-the-simulation-function-to-preview-the-machining-process-this-will-help-you-identify-possible-collisions-or-cutting-problems-that-can-cause-damage-or-waste-in-the-actual-machining-upload-of-the-program-after-the-program-is-written-and-checked-you-need-to-upload-the-program-to-the-cnc-machine-this-is-usually-done-through-a-network-connection-or-a-usb-device-execution-of-the-program-on-the-machine-you-need-to-follow-the-program-instructions-to-assemble-the-tool-and-position-the-parts-you-can-then-start-the-machine-and-start-the-automatic-machining-these-are-just-some-of-the-basic-steps-and-the-actual-program-setup-and-simulation-may-vary-depending-on-the-machine-and-software-if-you-are-a-beginner-it-is-recommended-that-you-learn-and-operate-under-the-guidance-of-a-professional-span4 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+}
+.programming-of-the-program-first-of-all-you-need-to-determine-the-machining-process-and-tool-route-according-to-the-drawings-or-models-then-you-can-use-dedicated-cam-computer-aided-manufacturing-software-to-write-cnc-programs-this-program-usually-includes-information-such-as-tool-selection-cutting-parameter-setting-tool-path-planning-etc-check-the-program-after-the-program-is-written-you-need-to-check-the-program-to-make-sure-that-there-are-no-errors-or-omissions-some-cam-software-provides-a-program-check-that-can-automatically-detect-and-prompt-possible-errors-simulation-of-the-program-before-the-program-is-uploaded-to-the-machine-you-can-use-the-simulation-function-to-preview-the-machining-process-this-will-help-you-identify-possible-collisions-or-cutting-problems-that-can-cause-damage-or-waste-in-the-actual-machining-upload-of-the-program-after-the-program-is-written-and-checked-you-need-to-upload-the-program-to-the-cnc-machine-this-is-usually-done-through-a-network-connection-or-a-usb-device-execution-of-the-program-on-the-machine-you-need-to-follow-the-program-instructions-to-assemble-the-tool-and-position-the-parts-you-can-then-start-the-machine-and-start-the-automatic-machining-these-are-just-some-of-the-basic-steps-and-the-actual-program-setup-and-simulation-may-vary-depending-on-the-machine-and-software-if-you-are-a-beginner-it-is-recommended-that-you-learn-and-operate-under-the-guidance-of-a-professional-span5 {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+}
+.programming-of-the-program-first-of-all-you-need-to-determine-the-machining-process-and-tool-route-according-to-the-drawings-or-models-then-you-can-use-dedicated-cam-computer-aided-manufacturing-software-to-write-cnc-programs-this-program-usually-includes-information-such-as-tool-selection-cutting-parameter-setting-tool-path-planning-etc-check-the-program-after-the-program-is-written-you-need-to-check-the-program-to-make-sure-that-there-are-no-errors-or-omissions-some-cam-software-provides-a-program-check-that-can-automatically-detect-and-prompt-possible-errors-simulation-of-the-program-before-the-program-is-uploaded-to-the-machine-you-can-use-the-simulation-function-to-preview-the-machining-process-this-will-help-you-identify-possible-collisions-or-cutting-problems-that-can-cause-damage-or-waste-in-the-actual-machining-upload-of-the-program-after-the-program-is-written-and-checked-you-need-to-upload-the-program-to-the-cnc-machine-this-is-usually-done-through-a-network-connection-or-a-usb-device-execution-of-the-program-on-the-machine-you-need-to-follow-the-program-instructions-to-assemble-the-tool-and-position-the-parts-you-can-then-start-the-machine-and-start-the-automatic-machining-these-are-just-some-of-the-basic-steps-and-the-actual-program-setup-and-simulation-may-vary-depending-on-the-machine-and-software-if-you-are-a-beginner-it-is-recommended-that-you-learn-and-operate-under-the-guidance-of-a-professional-span6 {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+}
+.programming-of-the-program-first-of-all-you-need-to-determine-the-machining-process-and-tool-route-according-to-the-drawings-or-models-then-you-can-use-dedicated-cam-computer-aided-manufacturing-software-to-write-cnc-programs-this-program-usually-includes-information-such-as-tool-selection-cutting-parameter-setting-tool-path-planning-etc-check-the-program-after-the-program-is-written-you-need-to-check-the-program-to-make-sure-that-there-are-no-errors-or-omissions-some-cam-software-provides-a-program-check-that-can-automatically-detect-and-prompt-possible-errors-simulation-of-the-program-before-the-program-is-uploaded-to-the-machine-you-can-use-the-simulation-function-to-preview-the-machining-process-this-will-help-you-identify-possible-collisions-or-cutting-problems-that-can-cause-damage-or-waste-in-the-actual-machining-upload-of-the-program-after-the-program-is-written-and-checked-you-need-to-upload-the-program-to-the-cnc-machine-this-is-usually-done-through-a-network-connection-or-a-usb-device-execution-of-the-program-on-the-machine-you-need-to-follow-the-program-instructions-to-assemble-the-tool-and-position-the-parts-you-can-then-start-the-machine-and-start-the-automatic-machining-these-are-just-some-of-the-basic-steps-and-the-actual-program-setup-and-simulation-may-vary-depending-on-the-machine-and-software-if-you-are-a-beginner-it-is-recommended-that-you-learn-and-operate-under-the-guidance-of-a-professional-span7 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+}
+.programming-of-the-program-first-of-all-you-need-to-determine-the-machining-process-and-tool-route-according-to-the-drawings-or-models-then-you-can-use-dedicated-cam-computer-aided-manufacturing-software-to-write-cnc-programs-this-program-usually-includes-information-such-as-tool-selection-cutting-parameter-setting-tool-path-planning-etc-check-the-program-after-the-program-is-written-you-need-to-check-the-program-to-make-sure-that-there-are-no-errors-or-omissions-some-cam-software-provides-a-program-check-that-can-automatically-detect-and-prompt-possible-errors-simulation-of-the-program-before-the-program-is-uploaded-to-the-machine-you-can-use-the-simulation-function-to-preview-the-machining-process-this-will-help-you-identify-possible-collisions-or-cutting-problems-that-can-cause-damage-or-waste-in-the-actual-machining-upload-of-the-program-after-the-program-is-written-and-checked-you-need-to-upload-the-program-to-the-cnc-machine-this-is-usually-done-through-a-network-connection-or-a-usb-device-execution-of-the-program-on-the-machine-you-need-to-follow-the-program-instructions-to-assemble-the-tool-and-position-the-parts-you-can-then-start-the-machine-and-start-the-automatic-machining-these-are-just-some-of-the-basic-steps-and-the-actual-program-setup-and-simulation-may-vary-depending-on-the-machine-and-software-if-you-are-a-beginner-it-is-recommended-that-you-learn-and-operate-under-the-guidance-of-a-professional-span8 {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+}
+.programming-of-the-program-first-of-all-you-need-to-determine-the-machining-process-and-tool-route-according-to-the-drawings-or-models-then-you-can-use-dedicated-cam-computer-aided-manufacturing-software-to-write-cnc-programs-this-program-usually-includes-information-such-as-tool-selection-cutting-parameter-setting-tool-path-planning-etc-check-the-program-after-the-program-is-written-you-need-to-check-the-program-to-make-sure-that-there-are-no-errors-or-omissions-some-cam-software-provides-a-program-check-that-can-automatically-detect-and-prompt-possible-errors-simulation-of-the-program-before-the-program-is-uploaded-to-the-machine-you-can-use-the-simulation-function-to-preview-the-machining-process-this-will-help-you-identify-possible-collisions-or-cutting-problems-that-can-cause-damage-or-waste-in-the-actual-machining-upload-of-the-program-after-the-program-is-written-and-checked-you-need-to-upload-the-program-to-the-cnc-machine-this-is-usually-done-through-a-network-connection-or-a-usb-device-execution-of-the-program-on-the-machine-you-need-to-follow-the-program-instructions-to-assemble-the-tool-and-position-the-parts-you-can-then-start-the-machine-and-start-the-automatic-machining-these-are-just-some-of-the-basic-steps-and-the-actual-program-setup-and-simulation-may-vary-depending-on-the-machine-and-software-if-you-are-a-beginner-it-is-recommended-that-you-learn-and-operate-under-the-guidance-of-a-professional-span9 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+}
+.programming-of-the-program-first-of-all-you-need-to-determine-the-machining-process-and-tool-route-according-to-the-drawings-or-models-then-you-can-use-dedicated-cam-computer-aided-manufacturing-software-to-write-cnc-programs-this-program-usually-includes-information-such-as-tool-selection-cutting-parameter-setting-tool-path-planning-etc-check-the-program-after-the-program-is-written-you-need-to-check-the-program-to-make-sure-that-there-are-no-errors-or-omissions-some-cam-software-provides-a-program-check-that-can-automatically-detect-and-prompt-possible-errors-simulation-of-the-program-before-the-program-is-uploaded-to-the-machine-you-can-use-the-simulation-function-to-preview-the-machining-process-this-will-help-you-identify-possible-collisions-or-cutting-problems-that-can-cause-damage-or-waste-in-the-actual-machining-upload-of-the-program-after-the-program-is-written-and-checked-you-need-to-upload-the-program-to-the-cnc-machine-this-is-usually-done-through-a-network-connection-or-a-usb-device-execution-of-the-program-on-the-machine-you-need-to-follow-the-program-instructions-to-assemble-the-tool-and-position-the-parts-you-can-then-start-the-machine-and-start-the-automatic-machining-these-are-just-some-of-the-basic-steps-and-the-actual-program-setup-and-simulation-may-vary-depending-on-the-machine-and-software-if-you-are-a-beginner-it-is-recommended-that-you-learn-and-operate-under-the-guidance-of-a-professional-span10 {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+}
+.programming-of-the-program-first-of-all-you-need-to-determine-the-machining-process-and-tool-route-according-to-the-drawings-or-models-then-you-can-use-dedicated-cam-computer-aided-manufacturing-software-to-write-cnc-programs-this-program-usually-includes-information-such-as-tool-selection-cutting-parameter-setting-tool-path-planning-etc-check-the-program-after-the-program-is-written-you-need-to-check-the-program-to-make-sure-that-there-are-no-errors-or-omissions-some-cam-software-provides-a-program-check-that-can-automatically-detect-and-prompt-possible-errors-simulation-of-the-program-before-the-program-is-uploaded-to-the-machine-you-can-use-the-simulation-function-to-preview-the-machining-process-this-will-help-you-identify-possible-collisions-or-cutting-problems-that-can-cause-damage-or-waste-in-the-actual-machining-upload-of-the-program-after-the-program-is-written-and-checked-you-need-to-upload-the-program-to-the-cnc-machine-this-is-usually-done-through-a-network-connection-or-a-usb-device-execution-of-the-program-on-the-machine-you-need-to-follow-the-program-instructions-to-assemble-the-tool-and-position-the-parts-you-can-then-start-the-machine-and-start-the-automatic-machining-these-are-just-some-of-the-basic-steps-and-the-actual-program-setup-and-simulation-may-vary-depending-on-the-machine-and-software-if-you-are-a-beginner-it-is-recommended-that-you-learn-and-operate-under-the-guidance-of-a-professional-span11 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+}
+.programming-of-the-program-first-of-all-you-need-to-determine-the-machining-process-and-tool-route-according-to-the-drawings-or-models-then-you-can-use-dedicated-cam-computer-aided-manufacturing-software-to-write-cnc-programs-this-program-usually-includes-information-such-as-tool-selection-cutting-parameter-setting-tool-path-planning-etc-check-the-program-after-the-program-is-written-you-need-to-check-the-program-to-make-sure-that-there-are-no-errors-or-omissions-some-cam-software-provides-a-program-check-that-can-automatically-detect-and-prompt-possible-errors-simulation-of-the-program-before-the-program-is-uploaded-to-the-machine-you-can-use-the-simulation-function-to-preview-the-machining-process-this-will-help-you-identify-possible-collisions-or-cutting-problems-that-can-cause-damage-or-waste-in-the-actual-machining-upload-of-the-program-after-the-program-is-written-and-checked-you-need-to-upload-the-program-to-the-cnc-machine-this-is-usually-done-through-a-network-connection-or-a-usb-device-execution-of-the-program-on-the-machine-you-need-to-follow-the-program-instructions-to-assemble-the-tool-and-position-the-parts-you-can-then-start-the-machine-and-start-the-automatic-machining-these-are-just-some-of-the-basic-steps-and-the-actual-program-setup-and-simulation-may-vary-depending-on-the-machine-and-software-if-you-are-a-beginner-it-is-recommended-that-you-learn-and-operate-under-the-guidance-of-a-professional-span12 {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 400;
+}
+._4-setting-the-program-and-simulation {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 597px);
+  top: calc(50% - -151px);
+  width: 755.56px;
+  height: 30px;
+}
+.cnc-lathe {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 391px);
+  top: calc(50% - 1259px);
+  width: 233px;
+  height: 38px;
+}
+.b-5-b-2-ea-3068-f-35-a-28-bce-7-f-4-c-437-b-0-ab-3-3 {
+  border-radius: 33px;
+  width: 398px;
+  height: 259px;
+  position: absolute;
+  left: calc(50% - 451px);
+  top: calc(50% - 1208px);
+  object-fit: cover;
+}
+.cnc-grinding-machine {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 391px);
+  top: calc(50% - 962px);
+  width: 233px;
+  height: 38px;
+}
+.cnc-plastic-cutting-lathe {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 391px);
+  top: calc(50% - 426px);
+  width: 233px;
+  height: 38px;
+}
+.cnc-processing-standard-plastic-materials {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - -40px);
+  top: calc(50% - 426px);
+  width: 335px;
+  height: 38px;
+}
+.cnc-milling-machine {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - -91px);
+  top: calc(50% - 1253px);
+  width: 233px;
+  height: 38px;
+}
+._939901-c-94-e-008-c-0024-db-3-b-07535-a-189-3 {
+  border-radius: 38px;
+  width: 423px;
+  height: 240px;
+  position: absolute;
+  left: calc(50% - -14px);
+  top: calc(50% - 1208px);
+  object-fit: cover;
+}
+.cnc-cutting-machine {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - -91px);
+  top: calc(50% - 962px);
+  width: 233px;
+  height: 38px;
+}
+.open-the-gcode-file-through-note-pad {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 196px);
+  top: calc(50% - -1657px);
+  width: 335px;
+  height: 38px;
+}
+.find-z-and-find-all-the-content-in-the-layer-z-0-3-z-0-4 {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 251px);
+  top: calc(50% - -2023px);
+  width: 535px;
+  height: 38px;
+}
+.open-the-nc-finder-and-paste-the-copied-content {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 551px);
+  top: calc(50% - -2407px);
+  width: 535px;
+  height: 38px;
+}
+.click-plot-to-generate {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - -54px);
+  top: calc(50% - -2413px);
+  width: 535px;
+  height: 38px;
+}
+._5-try-to-read-gcode {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 597px);
+  top: calc(50% - -959px);
+  width: 695px;
+  height: 25.02px;
+}
+.g-code-also-known-as-the-g-programming-language-is-a-programming-language-widely-used-in-cnc-machine-tools-and-3-d-printers-it-consists-of-a-series-of-characters-and-numbers-that-are-used-to-guide-the-movement-and-operation-of-the-machine-g-00-quick-positioning-this-command-allows-the-machine-to-move-to-the-specified-position-at-the-fastest-speed-g-01-linear-interpolation-this-command-causes-the-machine-to-move-along-a-straight-path-at-a-specified-speed-g-02-clockwise-circular-interpolation-this-command-causes-the-machine-to-move-along-a-clockwise-circular-path-at-a-specified-speed-g-03-counterclockwise-circular-interpolation-this-command-causes-the-machine-to-move-along-a-counterclockwise-circular-path-at-a-specified-speed-g-90-absolute-coordinate-system-this-command-makes-all-position-commands-relative-to-a-fixed-origin-g-91-relative-to-the-coordinate-system-this-command-makes-all-position-commands-relative-to-the-current-position {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 554px);
+  top: calc(50% - -993px);
+  width: 1134px;
+  height: 374px;
+}
+.a-44-bce-82642-f-1-ce-6-b-1903-e-641-d-33-bd-4-1 {
+  width: 536px;
+  height: 275px;
+  position: absolute;
+  left: calc(50% - 268px);
+  top: calc(50% - -1382px);
+  object-fit: cover;
+}
+._559-af-515206-df-8-ef-201-f-19-d-92938-c-8-b-1 {
+  width: 538px;
+  height: 278px;
+  position: absolute;
+  left: calc(50% - 554px);
+  top: calc(50% - -1736px);
+  object-fit: cover;
+}
+.ce-49-eeac-9192-aa-14-ccb-98-cd-82906-c-07-1 {
+  width: 540px;
+  height: 278px;
+  position: absolute;
+  left: calc(50% - -42px);
+  top: calc(50% - -1736px);
+  object-fit: cover;
+}
+.ce-49-eeac-9192-aa-14-ccb-98-cd-82906-c-07-2 {
+  width: 540px;
+  height: 288px;
+  position: absolute;
+  left: calc(50% - -54px);
+  top: calc(50% - -2125px);
+  object-fit: cover;
+}
+._18-b-6-cadc-15-e-02-c-3-e-7-fdd-2221513-b-564-1 {
+  width: 538px;
+  height: 288px;
+  position: absolute;
+  left: calc(50% - 554px);
+  top: calc(50% - -2119px);
+  object-fit: cover;
+}
+.f-3-e-5-c-143-b-46-b-34-d-543-b-1-c-9-b-2-bcd-41-be-2 {
+  width: 0px;
+  height: 0px;
+  position: absolute;
+  left: calc(50% - -77px);
+  top: calc(50% - -2351px);
+  object-fit: cover;
+}
+.the-program-first-sets-the-absolute-coordinate-system-then-quickly-moves-to-the-position-of-x-10-y-20-then-moves-to-the-z-direction-at-a-speed-of-100-to-5-and-finally-moves-to-the-position-of-x-20-y-30-in-a-clockwise-arc-at-a-speed-of-200 {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 558px);
+  top: calc(50% - -2496px);
+  width: 1136px;
+  height: 94px;
+}

@@ -1,0 +1,1243 @@
+.web-build,
+.web-build * {
+  box-sizing: border-box;
+}
+.web-build {
+  background: #ffffff;
+  height: 24138px;
+  position: relative;
+  overflow: hidden;
+}
+.group-6 {
+  position: absolute;
+  inset: 0;
+}
+.line-2 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  height: 0px;
+  position: absolute;
+  right: 80.97px;
+  left: 100px;
+  bottom: 62px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.bsst-team-zwu {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 1063px;
+  left: 80px;
+  bottom: 14px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+._2024-6 {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 81px;
+  left: 1062px;
+  bottom: 14px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo {
+  width: 188.65px;
+  height: 72.25px;
+  position: absolute;
+  left: 73px;
+  top: 0px;
+}
+.rectangle-1 {
+  width: 99.78%;
+  height: 99.85%;
+  position: absolute;
+  right: 0%;
+  left: 0.22%;
+  bottom: 0%;
+  top: 0.15%;
+  transform: translate(0px, 0px);
+  overflow: visible;
+}
+.bbst {
+  color: #ffffff;
+  text-align: center;
+  font-family: "KronaOne-Regular", sans-serif;
+  font-size: 36px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  right: 0.35%;
+  left: 0%;
+  width: 99.65%;
+  bottom: 0.35%;
+  top: 0%;
+  height: 99.65%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.line-4 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  height: 0px;
+  position: absolute;
+  right: 107.97px;
+  left: 73px;
+  top: 72px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.group-5 {
+  position: absolute;
+  inset: 0;
+}
+.about {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  position: absolute;
+  right: 925px;
+  top: 24px;
+  width: 134px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.team-interoduction {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  position: absolute;
+  right: 587px;
+  top: 24px;
+  width: 361px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.team-member {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  position: absolute;
+  right: 296px;
+  top: 24px;
+  width: 315px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.course {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  position: absolute;
+  right: 185px;
+  top: 24px;
+  width: 134px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.final {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  position: absolute;
+  right: 74px;
+  top: 24px;
+  width: 134px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-53 {
+  position: absolute;
+  inset: 0;
+}
+.group-52 {
+  width: 1178px;
+  height: 23773px;
+  position: static;
+}
+.course-web-build {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 161px;
+  top: 105px;
+  width: 270px;
+  height: 29px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.component-1 {
+  width: 1172px;
+  height: 2657px;
+  position: absolute;
+  left: calc(50% - 583px);
+  top: calc(50% - 11908px);
+}
+._1-create-a-repository {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  position: absolute;
+  right: 72.27%;
+  left: 0%;
+  width: 27.73%;
+  bottom: 98.56%;
+  top: 0%;
+  height: 1.44%;
+}
+._20240530111536-1 {
+  border-radius: 35px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 518px);
+  top: calc(50% - 1287.5px);
+  object-fit: cover;
+}
+._20240530111536-2 {
+  border-radius: 35px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 518px);
+  top: calc(50% - 667.5px);
+  object-fit: cover;
+}
+._20240530111536-3 {
+  border-radius: 35px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 521px);
+  top: calc(50% - 47.5px);
+  object-fit: cover;
+}
+._20240530111536-4 {
+  border-radius: 35px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 521px);
+  top: calc(50% - -572.5px);
+  object-fit: cover;
+}
+.when-creating-a-warehouse-it-is-important-to-choose-public-or-private-public-warehouses-are-visible-to-everyone-while-private-warehouses-are-only-visible-to-individuals-if-necessary-you-can-add-an-explanation-file-for-the-warehouse-add-a-readme-file {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 512px);
+  top: calc(50% - -1182.5px);
+  width: 1053px;
+  height: 127px;
+}
+.component-2 {
+  width: 1172px;
+  height: 2657px;
+  position: absolute;
+  left: calc(50% - 583px);
+  top: calc(50% - 9251px);
+}
+._2-member-invitation {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 64px;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  position: absolute;
+  right: 72.27%;
+  left: 0%;
+  width: 27.73%;
+  bottom: 99.43%;
+  top: -0.87%;
+  height: 1.44%;
+}
+.when-inviting-members-they-should-be-given-corresponding-identities-admin-and-maintain-administrators-have-the-right-to-retain-and-delete-warehouses-while-members-maintain-do-not-have-the-right-to-delete-warehouses-note-the-pages-for-administrators-and-members-are-different {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 512px);
+  top: calc(50% - -1182.5px);
+  width: 1053px;
+  height: 127px;
+}
+.group-13 {
+  width: 1121px;
+  height: 4415px;
+  position: static;
+}
+._3-create-a-repository {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 577px);
+  top: calc(50% - 6559px);
+  width: 325px;
+  height: 38.23px;
+}
+._20240530111536-12 {
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 509px);
+  top: calc(50% - 6518px);
+  object-fit: cover;
+}
+._20240530111536-22 {
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 509px);
+  top: calc(50% - 5898px);
+  object-fit: cover;
+}
+._20240530111536-32 {
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 512px);
+  top: calc(50% - 5278px);
+  object-fit: cover;
+}
+._20240530111536-42 {
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 512px);
+  top: calc(50% - 4658px);
+  object-fit: cover;
+}
+._20240530111536-5 {
+  border-radius: 35px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 518px);
+  top: calc(50% - 4038px);
+  object-fit: cover;
+}
+._20240530111536-6 {
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 518px);
+  top: calc(50% - 3418px);
+  object-fit: cover;
+}
+._20240530111536-8 {
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 518px);
+  top: calc(50% - 2798px);
+  object-fit: cover;
+}
+._20240530111536-7 {
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 518px);
+  top: calc(50% - 4038px);
+  object-fit: cover;
+}
+.note-when-selecting-expiration-select-no-expiration {
+  text-align: justified;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 518px);
+  top: calc(50% - 2178px);
+  width: 1053px;
+  height: 34px;
+}
+.note-when-selecting-expiration-select-no-expiration-span {
+  color: var(--color, rgba(9, 51, 202, 0.78));
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+}
+.note-when-selecting-expiration-select-no-expiration-span2 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+}
+.group-14 {
+  width: 1121px;
+  height: 2592px;
+  position: static;
+}
+._4-key-creation {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 586px);
+  top: calc(50% - 2020px);
+  width: 325px;
+  height: 38.23px;
+}
+._20240530111536-13 {
+  border-radius: 35px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 518px);
+  top: calc(50% - 1979px);
+  object-fit: cover;
+}
+._20240530111536-33 {
+  border-radius: 35px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 518px);
+  top: calc(50% - 1343px);
+  object-fit: cover;
+}
+._20240530111536-43 {
+  border-radius: 35px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 518px);
+  top: calc(50% - 707px);
+  object-fit: cover;
+}
+._20240530111536-52 {
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 518px);
+  top: calc(50% - 71px);
+  object-fit: cover;
+}
+.when-using-pic-go-cloud-upload-be-careful-not-to-enter-the-wrong-account-and-database-name-and-select-the-markdown-option {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 529px);
+  top: calc(50% - -538px);
+  width: 1053px;
+  height: 34px;
+}
+.group-15 {
+  width: 1121px;
+  height: 2589px;
+  position: static;
+}
+._5-file-cloning {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 586px);
+  top: calc(50% - -667px);
+  width: 325px;
+  height: 38.23px;
+}
+._20240530111536-14 {
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 518px);
+  top: calc(50% - -708px);
+  object-fit: cover;
+}
+._20240530111536-34 {
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 518px);
+  top: calc(50% - -1344px);
+  object-fit: cover;
+}
+._20240530111536-44 {
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 518px);
+  top: calc(50% - -1980px);
+  object-fit: cover;
+}
+._20240530111536-53 {
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 518px);
+  top: calc(50% - -2616px);
+  object-fit: cover;
+}
+.note-duplicate-cloning-of-files-requires-changing-the-file-name-or-deleting-files-with-the-same-name-otherwise-cloning-will-fail {
+  text-align: justified;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 518px);
+  top: calc(50% - -3222px);
+  width: 1053px;
+  height: 34px;
+}
+.note-duplicate-cloning-of-files-requires-changing-the-file-name-or-deleting-files-with-the-same-name-otherwise-cloning-will-fail-span {
+  color: var(--color, rgba(9, 51, 202, 0.78));
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+}
+.note-duplicate-cloning-of-files-requires-changing-the-file-name-or-deleting-files-with-the-same-name-otherwise-cloning-will-fail-span2 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+}
+._20240530111536-62 {
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 521px);
+  top: calc(50% - -6291px);
+  object-fit: cover;
+}
+.group-32 {
+  width: 1121px;
+  height: 2589px;
+  position: static;
+}
+._6-file-upload {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 589px);
+  top: calc(50% - -3382px);
+  width: 325px;
+  height: 38.23px;
+}
+._20240530111536-15 {
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 521px);
+  top: calc(50% - -3423px);
+  object-fit: cover;
+}
+._20240530111536-35 {
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 521px);
+  top: calc(50% - -4059px);
+  object-fit: cover;
+}
+._20240530111536-45 {
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 521px);
+  top: calc(50% - -4695px);
+  object-fit: cover;
+}
+._20240530111536-54 {
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 521px);
+  top: calc(50% - -5331px);
+  object-fit: cover;
+}
+.to-upload-using-git-hub-software-it-is-necessary-to-determine-the-local-folder-of-the-repository-after-each-local-change-be-sure-to-click-on-commit-to-main-for-confirmation-and-finally-find-push-in-the-repository-to-upload {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 521px);
+  top: calc(50% - -5937px);
+  width: 1053px;
+  height: 34px;
+}
+.module-1-basic-tools-such-as-movement-and-dragging-module-2-content-of-webpage-elements-module-3-parameter-adjustment-module-4-creating-a-preview-of-a-webpage {
+  text-align: justified;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 521px);
+  top: calc(50% - -6909px);
+  width: 1053px;
+  height: 153px;
+}
+.module-1-basic-tools-such-as-movement-and-dragging-module-2-content-of-webpage-elements-module-3-parameter-adjustment-module-4-creating-a-preview-of-a-webpage-span {
+  color: var(--color, rgba(9, 51, 202, 0.78));
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+}
+.module-1-basic-tools-such-as-movement-and-dragging-module-2-content-of-webpage-elements-module-3-parameter-adjustment-module-4-creating-a-preview-of-a-webpage-span2 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+}
+.module-1-basic-tools-such-as-movement-and-dragging-module-2-content-of-webpage-elements-module-3-parameter-adjustment-module-4-creating-a-preview-of-a-webpage-span3 {
+  color: var(--color, rgba(9, 51, 202, 0.78));
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+}
+.module-1-basic-tools-such-as-movement-and-dragging-module-2-content-of-webpage-elements-module-3-parameter-adjustment-module-4-creating-a-preview-of-a-webpage-span4 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+}
+.module-1-basic-tools-such-as-movement-and-dragging-module-2-content-of-webpage-elements-module-3-parameter-adjustment-module-4-creating-a-preview-of-a-webpage-span5 {
+  color: var(--color, rgba(9, 51, 202, 0.78));
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+}
+.module-1-basic-tools-such-as-movement-and-dragging-module-2-content-of-webpage-elements-module-3-parameter-adjustment-module-4-creating-a-preview-of-a-webpage-span6 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+}
+.module-1-basic-tools-such-as-movement-and-dragging-module-2-content-of-webpage-elements-module-3-parameter-adjustment-module-4-creating-a-preview-of-a-webpage-span7 {
+  color: rgba(9, 51, 202, 0.78);
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+}
+.module-1-basic-tools-such-as-movement-and-dragging-module-2-content-of-webpage-elements-module-3-parameter-adjustment-module-4-creating-a-preview-of-a-webpage-span8 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+}
+._20240530111536-72 {
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 524px);
+  top: calc(50% - -9478px);
+  object-fit: cover;
+}
+._20240530111536-9 {
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 521px);
+  top: calc(50% - -10783px);
+  object-fit: cover;
+}
+._20240530111536-82 {
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 524px);
+  top: calc(50% - -10084px);
+  object-fit: cover;
+}
+.module-1-download-the-auto-html-plugin-module-2-download-the-zip-file {
+  text-align: justified;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 521px);
+  top: calc(50% - -10696px);
+  width: 1053px;
+  height: 87px;
+}
+.module-1-download-the-auto-html-plugin-module-2-download-the-zip-file-span {
+  color: var(--color, rgba(9, 51, 202, 0.78));
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+}
+.module-1-download-the-auto-html-plugin-module-2-download-the-zip-file-span2 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+}
+.module-1-download-the-auto-html-plugin-module-2-download-the-zip-file-span3 {
+  color: var(--color, rgba(9, 51, 202, 0.78));
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+}
+.module-1-download-the-auto-html-plugin-module-2-download-the-zip-file-span4 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+}
+.module-1-here-are-some-web-page-files-html-are-the-code-for-the-web-page-and-the-two-css-files-are-the-beautification-code-for-the-web-page-module-2-here-s-the-code-for-a-specific-file-when-opened-it-will-be-displayed-here-if-you-want-to-change-the-code-you-can-do-so-here-module-3-here-s-the-code-for-a-specific-file-when-opened-it-will-be-displayed-here-if-you-want-to-change-the-code-you-can-do-so-here {
+  text-align: justified;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 514px);
+  top: calc(50% - -11620px);
+  width: 1053px;
+  height: 189px;
+}
+.module-1-here-are-some-web-page-files-html-are-the-code-for-the-web-page-and-the-two-css-files-are-the-beautification-code-for-the-web-page-module-2-here-s-the-code-for-a-specific-file-when-opened-it-will-be-displayed-here-if-you-want-to-change-the-code-you-can-do-so-here-module-3-here-s-the-code-for-a-specific-file-when-opened-it-will-be-displayed-here-if-you-want-to-change-the-code-you-can-do-so-here-span {
+  color: var(--color, rgba(9, 51, 202, 0.78));
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+}
+.module-1-here-are-some-web-page-files-html-are-the-code-for-the-web-page-and-the-two-css-files-are-the-beautification-code-for-the-web-page-module-2-here-s-the-code-for-a-specific-file-when-opened-it-will-be-displayed-here-if-you-want-to-change-the-code-you-can-do-so-here-module-3-here-s-the-code-for-a-specific-file-when-opened-it-will-be-displayed-here-if-you-want-to-change-the-code-you-can-do-so-here-span2 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+}
+.module-1-here-are-some-web-page-files-html-are-the-code-for-the-web-page-and-the-two-css-files-are-the-beautification-code-for-the-web-page-module-2-here-s-the-code-for-a-specific-file-when-opened-it-will-be-displayed-here-if-you-want-to-change-the-code-you-can-do-so-here-module-3-here-s-the-code-for-a-specific-file-when-opened-it-will-be-displayed-here-if-you-want-to-change-the-code-you-can-do-so-here-span3 {
+  color: var(--color, rgba(9, 51, 202, 0.78));
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+}
+.module-1-here-are-some-web-page-files-html-are-the-code-for-the-web-page-and-the-two-css-files-are-the-beautification-code-for-the-web-page-module-2-here-s-the-code-for-a-specific-file-when-opened-it-will-be-displayed-here-if-you-want-to-change-the-code-you-can-do-so-here-module-3-here-s-the-code-for-a-specific-file-when-opened-it-will-be-displayed-here-if-you-want-to-change-the-code-you-can-do-so-here-span4 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+}
+.module-1-here-are-some-web-page-files-html-are-the-code-for-the-web-page-and-the-two-css-files-are-the-beautification-code-for-the-web-page-module-2-here-s-the-code-for-a-specific-file-when-opened-it-will-be-displayed-here-if-you-want-to-change-the-code-you-can-do-so-here-module-3-here-s-the-code-for-a-specific-file-when-opened-it-will-be-displayed-here-if-you-want-to-change-the-code-you-can-do-so-here-span5 {
+  color: var(--color, rgba(9, 51, 202, 0.78));
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+}
+.module-1-here-are-some-web-page-files-html-are-the-code-for-the-web-page-and-the-two-css-files-are-the-beautification-code-for-the-web-page-module-2-here-s-the-code-for-a-specific-file-when-opened-it-will-be-displayed-here-if-you-want-to-change-the-code-you-can-do-so-here-module-3-here-s-the-code-for-a-specific-file-when-opened-it-will-be-displayed-here-if-you-want-to-change-the-code-you-can-do-so-here-span6 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+}
+._7-web-page-code-construction {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 589px);
+  top: calc(50% - -6113px);
+  width: 490px;
+  height: 38px;
+}
+.web-build-figma {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: calc(50% - 521px);
+  top: calc(50% - -6235px);
+  width: 490px;
+  height: 38px;
+}
+.web-build-figma-span {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+}
+.web-build-figma-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+}
+._20240530111536-10 {
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 521px);
+  top: calc(50% - -7166px);
+  object-fit: cover;
+}
+.module-1-select-the-frame-and-when-you-click-the-frame-button-the-commonly-used-frame-sizes-in-daily-life-will-be-displayed-on-the-right-because-we-need-to-create-a-webpage-we-choose-a-desktop-sized-frame-module-2-here-are-some-commonly-used-frames-you-can-choose-your-own-frame-according-to-your-needs {
+  text-align: justified;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 521px);
+  top: calc(50% - -7773px);
+  width: 1053px;
+  height: 75px;
+}
+.module-1-select-the-frame-and-when-you-click-the-frame-button-the-commonly-used-frame-sizes-in-daily-life-will-be-displayed-on-the-right-because-we-need-to-create-a-webpage-we-choose-a-desktop-sized-frame-module-2-here-are-some-commonly-used-frames-you-can-choose-your-own-frame-according-to-your-needs-span {
+  color: var(--color, rgba(9, 51, 202, 0.78));
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+}
+.module-1-select-the-frame-and-when-you-click-the-frame-button-the-commonly-used-frame-sizes-in-daily-life-will-be-displayed-on-the-right-because-we-need-to-create-a-webpage-we-choose-a-desktop-sized-frame-module-2-here-are-some-commonly-used-frames-you-can-choose-your-own-frame-according-to-your-needs-span2 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+}
+.module-1-select-the-frame-and-when-you-click-the-frame-button-the-commonly-used-frame-sizes-in-daily-life-will-be-displayed-on-the-right-because-we-need-to-create-a-webpage-we-choose-a-desktop-sized-frame-module-2-here-are-some-commonly-used-frames-you-can-choose-your-own-frame-according-to-your-needs-span3 {
+  color: var(--color, rgba(9, 51, 202, 0.78));
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+}
+.module-1-select-the-frame-and-when-you-click-the-frame-button-the-commonly-used-frame-sizes-in-daily-life-will-be-displayed-on-the-right-because-we-need-to-create-a-webpage-we-choose-a-desktop-sized-frame-module-2-here-are-some-commonly-used-frames-you-can-choose-your-own-frame-according-to-your-needs-span4 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+}
+._20240530111536-11 {
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 521px);
+  top: calc(50% - -7928px);
+  object-fit: cover;
+}
+._20240530111536-122 {
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1053px;
+  height: 585px;
+  position: absolute;
+  left: calc(50% - 521px);
+  top: calc(50% - -8535px);
+  object-fit: cover;
+}
+.module-1-clicking-on-the-created-shape-will-bring-up-four-points-and-dragging-the-mouse-can-change-the-rounded-corners-of-the-shape-module-2-here-are-some-alignment-options-select-the-object-you-want-to-align-and-then-click-on-the-desired-alignment-method-module-3-this-is-the-beautification-of-graphics-where-you-can-change-colors-add-borders-and-create-artistic-effects-summary-when-all-the-buttons-are-ready-they-can-be-integrated-using-a-grouping-method-the-shortcut-key-is-ctrl-g-which-makes-editing-easier {
+  text-align: justified;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 521px);
+  top: calc(50% - -9147px);
+  width: 1053px;
+  height: 220px;
+}
+.module-1-clicking-on-the-created-shape-will-bring-up-four-points-and-dragging-the-mouse-can-change-the-rounded-corners-of-the-shape-module-2-here-are-some-alignment-options-select-the-object-you-want-to-align-and-then-click-on-the-desired-alignment-method-module-3-this-is-the-beautification-of-graphics-where-you-can-change-colors-add-borders-and-create-artistic-effects-summary-when-all-the-buttons-are-ready-they-can-be-integrated-using-a-grouping-method-the-shortcut-key-is-ctrl-g-which-makes-editing-easier-span {
+  color: var(--color, rgba(9, 51, 202, 0.78));
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+}
+.module-1-clicking-on-the-created-shape-will-bring-up-four-points-and-dragging-the-mouse-can-change-the-rounded-corners-of-the-shape-module-2-here-are-some-alignment-options-select-the-object-you-want-to-align-and-then-click-on-the-desired-alignment-method-module-3-this-is-the-beautification-of-graphics-where-you-can-change-colors-add-borders-and-create-artistic-effects-summary-when-all-the-buttons-are-ready-they-can-be-integrated-using-a-grouping-method-the-shortcut-key-is-ctrl-g-which-makes-editing-easier-span2 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+}
+.module-1-clicking-on-the-created-shape-will-bring-up-four-points-and-dragging-the-mouse-can-change-the-rounded-corners-of-the-shape-module-2-here-are-some-alignment-options-select-the-object-you-want-to-align-and-then-click-on-the-desired-alignment-method-module-3-this-is-the-beautification-of-graphics-where-you-can-change-colors-add-borders-and-create-artistic-effects-summary-when-all-the-buttons-are-ready-they-can-be-integrated-using-a-grouping-method-the-shortcut-key-is-ctrl-g-which-makes-editing-easier-span3 {
+  color: var(--color, rgba(9, 51, 202, 0.78));
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+}
+.module-1-clicking-on-the-created-shape-will-bring-up-four-points-and-dragging-the-mouse-can-change-the-rounded-corners-of-the-shape-module-2-here-are-some-alignment-options-select-the-object-you-want-to-align-and-then-click-on-the-desired-alignment-method-module-3-this-is-the-beautification-of-graphics-where-you-can-change-colors-add-borders-and-create-artistic-effects-summary-when-all-the-buttons-are-ready-they-can-be-integrated-using-a-grouping-method-the-shortcut-key-is-ctrl-g-which-makes-editing-easier-span4 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+}
+.module-1-clicking-on-the-created-shape-will-bring-up-four-points-and-dragging-the-mouse-can-change-the-rounded-corners-of-the-shape-module-2-here-are-some-alignment-options-select-the-object-you-want-to-align-and-then-click-on-the-desired-alignment-method-module-3-this-is-the-beautification-of-graphics-where-you-can-change-colors-add-borders-and-create-artistic-effects-summary-when-all-the-buttons-are-ready-they-can-be-integrated-using-a-grouping-method-the-shortcut-key-is-ctrl-g-which-makes-editing-easier-span5 {
+  color: var(--color, rgba(9, 51, 202, 0.78));
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+}
+.module-1-clicking-on-the-created-shape-will-bring-up-four-points-and-dragging-the-mouse-can-change-the-rounded-corners-of-the-shape-module-2-here-are-some-alignment-options-select-the-object-you-want-to-align-and-then-click-on-the-desired-alignment-method-module-3-this-is-the-beautification-of-graphics-where-you-can-change-colors-add-borders-and-create-artistic-effects-summary-when-all-the-buttons-are-ready-they-can-be-integrated-using-a-grouping-method-the-shortcut-key-is-ctrl-g-which-makes-editing-easier-span6 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+}
+.module-1-clicking-on-the-created-shape-will-bring-up-four-points-and-dragging-the-mouse-can-change-the-rounded-corners-of-the-shape-module-2-here-are-some-alignment-options-select-the-object-you-want-to-align-and-then-click-on-the-desired-alignment-method-module-3-this-is-the-beautification-of-graphics-where-you-can-change-colors-add-borders-and-create-artistic-effects-summary-when-all-the-buttons-are-ready-they-can-be-integrated-using-a-grouping-method-the-shortcut-key-is-ctrl-g-which-makes-editing-easier-span7 {
+  color: var(--color, rgba(9, 51, 202, 0.78));
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+}
+.module-1-clicking-on-the-created-shape-will-bring-up-four-points-and-dragging-the-mouse-can-change-the-rounded-corners-of-the-shape-module-2-here-are-some-alignment-options-select-the-object-you-want-to-align-and-then-click-on-the-desired-alignment-method-module-3-this-is-the-beautification-of-graphics-where-you-can-change-colors-add-borders-and-create-artistic-effects-summary-when-all-the-buttons-are-ready-they-can-be-integrated-using-a-grouping-method-the-shortcut-key-is-ctrl-g-which-makes-editing-easier-span8 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 200;
+}
+.make-button-link-and-picture-figma {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: calc(50% - 589px);
+  top: calc(50% - -7106px);
+  width: 490px;
+  height: 38px;
+}
+.make-button-link-and-picture-figma-span {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+}
+.make-button-link-and-picture-figma-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+}
+.figma-file-export {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 589px);
+  top: calc(50% - -9413px);
+  width: 490px;
+  height: 38px;
+}
+.for-website-construction-our-team-uses-figma-for-website-design-and-supplements-it-with-traditional-languages-such-as-html-and-css {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 521px);
+  top: calc(50% - -6174px);
+  width: 1053px;
+  height: 38px;
+}
+.group-30 {
+  width: 1056px;
+  height: 98px;
+  position: static;
+}
+.rectangle-2 {
+  border-radius: 0px;
+  width: 1056px;
+  height: 98px;
+  position: absolute;
+  left: calc(50% - 524px);
+  top: calc(50% - -11486px);
+  overflow: visible;
+}
+.div-class-example-referencing-css-libraries-a-href-xxxxxxxx-html-example-a-div {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 490px);
+  top: calc(50% - -11520px);
+  width: 970px;
+  height: 44px;
+}
+.group-522 {
+  width: 695px;
+  height: 30px;
+  position: static;
+}
+.web-hyperlink-creation {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 121.08%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  position: absolute;
+  left: 207px;
+  top: 23520px;
+  width: 695px;
+  height: 30px;
+}
